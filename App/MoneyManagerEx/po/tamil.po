@@ -1,0 +1,8027 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Money Manager Ex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-21 00:00+0300\n"
+"PO-Revision-Date: 2015-12-21 00:00+0300\n"
+"Last-Translator: Nikolay Akimov <vomikan@mail.ru>\n"
+"Language-Team: mmex <developers@moneymanagerex.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Launchpad-Export-Date: 2011-10-25 16:24+0000\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: wxTRANSLATE;_\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: src\n"
+
+#: src/aboutdialog.cpp:42 src/aboutdialog.cpp:169
+#, fuzzy
+msgid "About"
+msgstr "பற்றி"
+
+#: src/aboutdialog.cpp:44
+msgid "License agreement"
+msgstr ""
+
+#: src/aboutdialog.cpp:86
+#, fuzzy
+msgid "Website"
+msgstr "வலைத்தளம்:"
+
+#: src/aboutdialog.cpp:88
+msgid "Forum"
+msgstr ""
+
+#: src/aboutdialog.cpp:90
+msgid "Wiki page"
+msgstr ""
+
+#: src/aboutdialog.cpp:92
+#, fuzzy
+msgid "Bug reports"
+msgstr "அறிக்கை"
+
+#: src/aboutdialog.cpp:95
+msgid "Follow MMEX on Facebook"
+msgstr ""
+
+#: src/aboutdialog.cpp:97
+msgid "Follow MMEX on Twitter"
+msgstr ""
+
+#: src/aboutdialog.cpp:99
+msgid "Donate"
+msgstr ""
+
+#: src/aboutdialog.cpp:174
+msgid "Developers"
+msgstr ""
+
+#: src/aboutdialog.cpp:179
+msgid "Artwork"
+msgstr ""
+
+#: src/aboutdialog.cpp:184
+msgid "Sponsors"
+msgstr ""
+
+#: src/aboutdialog.cpp:189
+msgid "License"
+msgstr ""
+
+#: src/aboutdialog.cpp:225 src/accountdialog.cpp:299 src/appstartdialog.cpp:136
+#: src/assetdialog.cpp:194 src/attachmentdialog.cpp:119 src/billsdepositsdialog.cpp:629
+#: src/budgetentrydialog.cpp:156 src/budgetyeardialog.cpp:116
+#: src/budgetyearentrydialog.cpp:125 src/filtertransdialog.cpp:340
+#: src/import_export/qif_export.cpp:206 src/import_export/qif_export.cpp:230
+#: src/import_export/qif_import_gui.cpp:271 src/mmSimpleDialogs.cpp:51
+#: src/optionsdialog.cpp:149 src/payeedialog.cpp:130 src/relocatecategorydialog.cpp:114
+#: src/relocatepayeedialog.cpp:112 src/reports/reportbase.cpp:76
+#: src/splitdetailsdialog.cpp:145 src/splittransactionsdialog.cpp:176
+#: src/transdialog.cpp:473
+msgid "&OK "
+msgstr ""
+
+#: src/accountdialog.cpp:79 src/mmframe.cpp:1420 src/mmframe.cpp:1609
+#: src/wizard_newaccount.cpp:70 src/wizard_newaccount.cpp:77 src/wizard_newaccount.cpp:143
+msgid "New Account"
+msgstr "புது கணக்கு"
+
+#: src/accountdialog.cpp:115 src/mmframe.cpp:1429
+msgid "Edit Account"
+msgstr "கணக்கை மாற்று"
+
+#: src/accountdialog.cpp:172
+msgid "Account Name:"
+msgstr "கணக்கு பெயர்:"
+
+#: src/accountdialog.cpp:177
+msgid "Account Type:"
+msgstr "கணக்கு வகை:"
+
+#: src/accountdialog.cpp:186
+msgid "Account Status:"
+msgstr "கணக்கு நிலை:"
+
+#: src/accountdialog.cpp:195
+#, fuzzy, c-format
+msgid "Initial Balance: %s"
+msgstr "ஆரம்பத் தொகை:"
+
+#: src/accountdialog.cpp:204 src/import_export/univcsvdialog.cpp:1235
+msgid "Currency:"
+msgstr "நாணயம்:"
+
+#: src/accountdialog.cpp:206 src/currencydialog.cpp:70
+msgid "Select Currency"
+msgstr "தேர்ந்தெடு"
+
+#: src/accountdialog.cpp:217
+msgid "Favorite Account"
+msgstr "பிடித்த கணக்கு"
+
+#: src/accountdialog.cpp:227 src/assetdialog.cpp:176 src/assetspanel.cpp:75
+#: src/billsdepositsdialog.cpp:596 src/billsdepositspanel.cpp:122
+#: src/filtertransdialog.cpp:305 src/import_export/qif_import_gui.cpp:98
+#: src/import_export/univcsvdialog.cpp:82 src/import_export/univcsvdialog.cpp:934
+#: src/mmcheckingpanel.cpp:985 src/reports/transactions.cpp:72 src/stockdialog.cpp:249
+#: src/stockspanel.cpp:105 src/transdialog.cpp:442 src/webappdialog.cpp:86
+msgid "Notes"
+msgstr "குறிப்பு"
+
+#: src/accountdialog.cpp:237 src/model/Model_Category.cpp:111
+#: src/model/Model_Category.cpp:121 src/model/Model_Category.cpp:165
+#: src/optionsdialog.cpp:133
+msgid "Others"
+msgstr "மற்றவை"
+
+#: src/accountdialog.cpp:246
+#, fuzzy
+msgid "Card Number:"
+msgstr "எண்"
+
+#: src/accountdialog.cpp:246
+msgid "Account Number:"
+msgstr "கணக்கு எண்:"
+
+#: src/accountdialog.cpp:252
+msgid "Held At:"
+msgstr "வைத்திருப்பு:"
+
+#: src/accountdialog.cpp:258
+msgid "Website:"
+msgstr "வலைத்தளம்:"
+
+#: src/accountdialog.cpp:264
+msgid "Contact:"
+msgstr "தொடர்பு:"
+
+#: src/accountdialog.cpp:270
+msgid "Access Info:"
+msgstr "அணுகும் விவரம்:"
+
+#: src/accountdialog.cpp:294
+#, fuzzy
+msgid "Organize attachments of this account"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/accountdialog.cpp:309
+msgid "Enter the Name of the Account. This name can be renamed at any time."
+msgstr "கணக்கின் பெயரை இடு. பின் வேண்டுமெனில் மாற்றிக் கொள்ளலாம்"
+
+#: src/accountdialog.cpp:310 src/wizard_newaccount.cpp:110
+msgid "Specify the type of account to be created."
+msgstr "உருவாக்கும் கணக்கு வகையை குறிப்பிடு"
+
+#: src/accountdialog.cpp:311
+msgid ""
+"Specify if this account has been closed. Closed accounts are inactive in most "
+"calculations, reporting etc."
+msgstr ""
+"இக்கணக்கு மூடப்பட்டதெனில் குறிப்பிடு. மூடப்பட்ட கணக்குகள் கணக்கீட்டிலும் அறிக்கை முதலானவற்றிலும் "
+"சேர்க்கப்படுவதில்லை"
+
+#: src/accountdialog.cpp:312
+msgid "Enter the initial balance in this account."
+msgstr "இக் கணக்கிலுள்ள ஆரம்பத் தொகையை இடு"
+
+#: src/accountdialog.cpp:313
+msgid "Specify the currency to be used by this account."
+msgstr "இக்கணக்கில் பயன்படும் நாணயத்தை குறிப்பிடு"
+
+#: src/accountdialog.cpp:314
+msgid ""
+"Select whether this is an account that is used often. This is used to filter accounts "
+"display view."
+msgstr "அடிக்கடி பயன்படும் கணக்கா என தேர்ந்தெடு. இது கணக்கு காட்சியை வடிக்க பயன்படும்."
+
+#: src/accountdialog.cpp:315
+msgid "Enter user notes and details about this account."
+msgstr "இக்கணக்கு பற்றி பயனர் குறிப்பு மற்றும் விவரத்தை இடு"
+
+#: src/accountdialog.cpp:316
+msgid "Enter the Account Number associated with this account."
+msgstr "இந்த கணக்கின் கணக்கு எண்ணை இடு"
+
+#: src/accountdialog.cpp:317
+msgid "Enter the name of the financial institution in which the account is held."
+msgstr "இக்கணக்கு இருக்கும் நிதி நிறுவனத்தின் பெயரை இடு"
+
+#: src/accountdialog.cpp:318
+msgid "Enter the URL of the website for the financial institution."
+msgstr "நிதி நிறுவனத்தின் வலைத்தள முகவரியை இடு"
+
+#: src/accountdialog.cpp:319
+msgid "Enter any contact information for the financial institution."
+msgstr "நிதி நிறுவனத்தின் தொடர்பு விவரங்களை இடு"
+
+#: src/accountdialog.cpp:320
+msgid ""
+"Enter any login/access information for the financial institution. This is not secure as "
+"anyone with access to the mmb file can access it."
+msgstr ""
+"நிதி நிறுவன அணுகும் விவரம் இடு. இக்கோப்பு யார் வேண்டுமானாலும் பார்க்கக்கூடியது. பாதுகாப்பானதல்ல!"
+
+#: src/accountdialog.cpp:352
+msgid "Account Name "
+msgstr "கணக்கு பெயர்"
+
+#: src/accountdialog.cpp:356 src/import_export/qif_import_gui.cpp:228
+#: src/mmOptionGeneralSettings.cpp:92
+msgid "Currency"
+msgstr "நாணயம்"
+
+#: src/accountdialog.cpp:404
+#, fuzzy
+msgid "Default Image"
+msgstr "பெறுநரை தேர்ந்தெடு"
+
+#: src/accountdialog.cpp:411
+#, c-format
+msgid "Image #%i"
+msgstr ""
+
+#: src/appstartdialog.cpp:99
+msgid "Open Last Opened Database"
+msgstr "கடைசியாய் திறந்த தகவல்தளத்தை திற"
+
+#: src/appstartdialog.cpp:102
+msgid "Create a New Database"
+msgstr "புது மணி மேனேஜர் கோப்பை உருவாக்கு"
+
+#: src/appstartdialog.cpp:103
+msgid "Create a new database file to get started"
+msgstr "புது தகவல் கோப்பை உருவாக்கி ஆரம்பி"
+
+#: src/appstartdialog.cpp:106
+msgid "Open Existing Database"
+msgstr "கடைசியாய் திறந்த தகவல்தளத்தை திற"
+
+#: src/appstartdialog.cpp:107
+msgid "Open an already created database file with extension (*.mmb)"
+msgstr "ஏற்கனவே (*.mmb) நீட்சியுடன் உருவாக்கப்பட்ட மணி மேனேஜர் தகவல்தளத்தை கோப்பை திற"
+
+#: src/appstartdialog.cpp:110
+msgid "Read Documentation"
+msgstr "விபரக் கோப்பினை படி"
+
+#: src/appstartdialog.cpp:111
+msgid "Read the user manual"
+msgstr "பயனர் குறிப்பினை படி"
+
+#: src/appstartdialog.cpp:114
+msgid "Visit Website for more information"
+msgstr "மேலதிக தகவலுக்கு வலைத்தளத்தில் பார்க்க"
+
+#: src/appstartdialog.cpp:115
+#, fuzzy, c-format
+msgid "Open the %s website for latest news, updates etc"
+msgstr "புதிய செய்திகளுக்கும் தகவலுக்கும் மணி மேனேஜர் வலைத்தளத்தை திற"
+
+#: src/appstartdialog.cpp:123
+#, fuzzy, c-format
+msgid "Show this window next time %s starts"
+msgstr "அடுத்த முறை மணி மேனேஜரை திறக்கும் போது இச்சாளரத்தை காட்டு"
+
+#: src/appstartdialog.cpp:137
+msgid "&Exit "
+msgstr ""
+
+#: src/appstartdialog.cpp:153
+#, fuzzy, c-format
+msgid "Open the previously opened database : %s"
+msgstr "முன் திறந்த தகவல்தளத்தை திற : "
+
+#: src/assetdialog.cpp:55
+msgid "New/Edit Asset"
+msgstr "புது/மாற்று சொத்து"
+
+#: src/assetdialog.cpp:104
+msgid "Asset Details"
+msgstr "சொத்து விவரம்"
+
+#: src/assetdialog.cpp:116 src/assetspanel.cpp:70 src/import_export/qif_import_gui.cpp:227
+#: src/import_export/qif_import_gui.cpp:240 src/import_export/qif_import_gui.cpp:251
+#: src/maincurrencydialog.cpp:60 src/payeedialog.cpp:67 src/reports/summarystocks.cpp:183
+msgid "Name"
+msgstr "பெயர்"
+
+#: src/assetdialog.cpp:121
+msgid "Enter the name of the asset"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/assetdialog.cpp:124 src/assetspanel.cpp:71 src/import_export/qif_import_gui.cpp:92
+#: src/import_export/univcsvdialog.cpp:76 src/import_export/univcsvdialog.cpp:936
+#: src/mmcheckingpanel.cpp:977 src/reports/cashflow.cpp:278 src/reports/summary.cpp:222
+#: src/reports/transactions.cpp:65 src/stockdialog.cpp:180 src/stockdialog.cpp:284
+#: src/stockdialog.cpp:603 src/transdialog.cpp:334 src/webappdialog.cpp:79
+msgid "Date"
+msgstr "தேதி"
+
+#: src/assetdialog.cpp:129
+msgid "Specify the date of purchase of asset"
+msgstr "சொத்து வாங்கிய தேதியை இடு"
+
+#: src/assetdialog.cpp:131
+msgid "Asset Type"
+msgstr "சொத்து வகை"
+
+#: src/assetdialog.cpp:137
+msgid "Select type of asset"
+msgstr "சொத்து வகையை தேர்ந்தெடு"
+
+#: src/assetdialog.cpp:142 src/import_export/qif_import_gui.cpp:97
+#: src/reports/summarystocks.cpp:158 src/reports/summarystocks.cpp:191
+#: src/stockdialog.cpp:244
+msgid "Value"
+msgstr "மதிப்பு"
+
+#: src/assetdialog.cpp:149
+msgid "Enter the current value of the asset"
+msgstr "சொத்தின் தற்போதைய மதிப்பை இடு"
+
+#: src/assetdialog.cpp:154
+msgid "Change in Value"
+msgstr "மதிப்பில் மாற்றம்"
+
+#: src/assetdialog.cpp:160
+msgid "Specify if the value of the asset changes over time"
+msgstr "சொத்து மதிப்பில் மாற்றமிருப்பின் குறிப்பிடு"
+
+#: src/assetdialog.cpp:164
+#, fuzzy
+msgid "% Rate"
+msgstr "தேதி"
+
+#: src/assetdialog.cpp:170
+#, fuzzy, c-format
+msgid "Enter the rate at which the asset changes its value in % per year"
+msgstr "சொத்து மதிப்பில் மாற்றத்தை சதவீதத்தில் இடு"
+
+#: src/assetdialog.cpp:182
+#, fuzzy
+msgid "Organize attachments of this asset"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/assetdialog.cpp:185
+msgid "Enter notes associated with this asset"
+msgstr "சொத்து குறித்த விவரங்க்ளை குறிப்பிடு"
+
+#: src/assetspanel.cpp:69 src/billsdepositspanel.cpp:108 src/mmcheckingpanel.cpp:976
+#: src/stockspanel.cpp:93
+msgid "ID"
+msgstr ""
+
+#: src/assetspanel.cpp:72 src/billsdepositsdialog.cpp:521 src/billsdepositspanel.cpp:115
+#: src/filtertransdialog.cpp:250 src/import_export/qif_import_gui.cpp:95
+#: src/mmhomepagepanel.cpp:757 src/reports/budgetingperf.cpp:129
+#: src/reports/incexpenses.cpp:123 src/reports/transactions.cpp:70
+#: src/splitdetailsdialog.cpp:107 src/transdialog.cpp:367 src/webappdialog.cpp:82
+msgid "Type"
+msgstr "வகை"
+
+#: src/assetspanel.cpp:73
+#, fuzzy
+msgid "Initial Value"
+msgstr "செல்லாது "
+
+#: src/assetspanel.cpp:74
+#, fuzzy
+msgid "Current Value"
+msgstr "தற்போதைய காட்சி"
+
+#: src/assetspanel.cpp:95
+msgid "&New Asset"
+msgstr "&புது சொத்து"
+
+#: src/assetspanel.cpp:97
+#, fuzzy
+msgid "D&uplicate Asset"
+msgstr "நகல்"
+
+#: src/assetspanel.cpp:99
+msgid "&Edit Asset"
+msgstr "சொத்து விவரம் &மாற்று"
+
+#: src/assetspanel.cpp:100
+msgid "&Delete Asset"
+msgstr "சொத்து விவரம் &அழி"
+
+#: src/assetspanel.cpp:102 src/billsdepositspanel.cpp:421 src/mmcheckingpanel.cpp:1085
+#: src/mmframe.cpp:1122 src/payeedialog.cpp:376 src/stockspanel.cpp:147
+#, fuzzy
+msgid "&Organize Attachments"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/assetspanel.cpp:191
+msgid "Do you really want to delete the Asset?"
+msgstr "நிஜமாய் சொத்து விவரத்தை அழிக்க விருப்பமா?"
+
+#: src/assetspanel.cpp:192
+msgid "Confirm Asset Deletion"
+msgstr "சொத்து விவர அழிப்பை உறுதி செய்"
+
+#: src/assetspanel.cpp:350
+msgid ""
+"MMEX allows you to track fixed assets like cars, houses, land and others. Each asset can "
+"have its value appreciate by a certain rate per year, depreciate by a certain rate per "
+"year, or not change in value. The total assets are added to your total financial worth."
+msgstr ""
+
+#: src/assetspanel.cpp:377 src/general_report_manager.cpp:665
+#: src/general_report_manager.cpp:931 src/mmframe.cpp:728 src/mmframe.cpp:1490
+#: src/mmhomepagepanel.cpp:418 src/mmhomepagepanel.cpp:784 src/reports/summary.cpp:179
+#: src/assetspanel.h:85
+msgid "Assets"
+msgstr "சொத்துக்கள்"
+
+#: src/assetspanel.cpp:390 src/assetspanel.cpp:643 src/assetspanel.cpp:660
+#: src/import_export/qif_export.cpp:61 src/import_export/qif_export.cpp:62
+#: src/import_export/qif_export.cpp:123 src/mmOptionViewSettings.cpp:203
+#: src/mmframe.cpp:1172
+msgid "All"
+msgstr "எல்லாம்"
+
+#: src/assetspanel.cpp:441 src/billsdepositspanel.cpp:281 src/mmcheckingpanel.cpp:469
+#: src/stockspanel.cpp:483
+#, fuzzy
+msgid "&New "
+msgstr "புதிய"
+
+#: src/assetspanel.cpp:442
+msgid "New Asset"
+msgstr "புது சொத்து"
+
+#: src/assetspanel.cpp:445 src/attachmentdialog.cpp:291 src/billsdepositspanel.cpp:285
+#: src/categdialog.cpp:224 src/maincurrencydialog.cpp:182 src/mmcheckingpanel.cpp:473
+#: src/payeedialog.cpp:370 src/splittransactionsdialog.cpp:170 src/stockspanel.cpp:487
+#, fuzzy
+msgid "&Edit "
+msgstr "மாற்று"
+
+#: src/assetspanel.cpp:446
+msgid "Edit Asset"
+msgstr "சொத்து விவர மாற்றம்"
+
+#: src/assetspanel.cpp:450 src/billsdepositspanel.cpp:290 src/budgetyeardialog.cpp:103
+#: src/categdialog.cpp:228 src/mmcheckingpanel.cpp:478 src/mmcheckingpanel.cpp:1104
+#: src/stockdialog.cpp:314 src/stockspanel.cpp:492
+#, fuzzy
+msgid "&Delete "
+msgstr "அழி"
+
+#: src/assetspanel.cpp:451
+msgid "Delete Asset"
+msgstr "சொத்து விவரத்தை அழி"
+
+#: src/assetspanel.cpp:458 src/billsdepositspanel.cpp:308 src/mmcheckingpanel.cpp:491
+#: src/stockspanel.cpp:505
+#, fuzzy
+msgid "Open attachments"
+msgstr "தகவல்தளத்தை &திற\tCtrl-O"
+
+#: src/assetspanel.cpp:465 src/assetspanel.cpp:466 src/mmcheckingpanel.cpp:499
+#, fuzzy
+msgid "Search"
+msgstr "மார்ச்"
+
+#: src/assetspanel.cpp:468
+#, fuzzy
+msgid "Enter any string to find related assets"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/assetspanel.cpp:538 src/stockspanel.cpp:668 src/stockspanel.cpp:886
+#, c-format
+msgid "Total: %s"
+msgstr "மொத்தம்: %s"
+
+#: src/assetspanel.cpp:610
+#, fuzzy, c-format
+msgid "Change in Value: %s %s"
+msgstr "மதிப்பில் மாற்றம்"
+
+#: src/attachmentdialog.cpp:55 src/import_export/qif_import_gui.cpp:90
+#: src/import_export/univcsvdialog.cpp:925 src/payeedialog.cpp:66
+msgid "#"
+msgstr ""
+
+#: src/attachmentdialog.cpp:56 src/general_report_manager.cpp:406
+#, fuzzy
+msgid "Description"
+msgstr "பரிமாற்றங்கள்"
+
+#: src/attachmentdialog.cpp:57 src/import_export/univcsvdialog.cpp:150
+#, fuzzy
+msgid "File"
+msgstr "&கோப்பு"
+
+#: src/attachmentdialog.cpp:65
+msgid "Attachment folder not defined."
+msgstr ""
+
+#: src/attachmentdialog.cpp:66
+msgid "Please set it in Tools -> Options -> Attachments"
+msgstr ""
+
+#: src/attachmentdialog.cpp:67
+msgid "Attachment folder not defined"
+msgstr ""
+
+#: src/attachmentdialog.cpp:71
+#, fuzzy
+msgid "Unable to find attachments folder:"
+msgstr "கோப்பில் எழுத முடியவில்லை"
+
+#: src/attachmentdialog.cpp:74
+msgid "Please verify that above path is correct"
+msgstr ""
+
+#: src/attachmentdialog.cpp:75
+msgid "Attachments folder not found"
+msgstr ""
+
+#: src/attachmentdialog.cpp:86
+#, fuzzy, c-format
+msgid "Organize Attachments | %s %i"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/attachmentdialog.cpp:88
+#, fuzzy, c-format
+msgid "Organize Attachments | New %s"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/attachmentdialog.cpp:127 src/payeedialog.cpp:120
+#, fuzzy
+msgid "Other tools"
+msgstr "மற்றவை"
+
+#: src/attachmentdialog.cpp:166
+#, fuzzy
+msgid "Import attachment:"
+msgstr "இறக்கு கோப்பு"
+
+#: src/attachmentdialog.cpp:176
+#, fuzzy
+msgid "Enter a description for the new attachment:"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/attachmentdialog.cpp:177
+#, fuzzy
+msgid "Organize Attachments: Add Attachment"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/attachmentdialog.cpp:218
+msgid "Enter a new description for the attachment:"
+msgstr ""
+
+#: src/attachmentdialog.cpp:219
+#, fuzzy
+msgid "Organize Attachments: Edit Attachment"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/attachmentdialog.cpp:243
+#, fuzzy
+msgid "Do you really want to delete this attachment?"
+msgstr "நிஜமாய் இந்தக் கணக்கை அழிக்க விருப்பமா?"
+
+#: src/attachmentdialog.cpp:244
+#, fuzzy
+msgid "Confirm Attachment Deletion"
+msgstr "கணக்கு அழிப்பை உறுதி செய்"
+
+#: src/attachmentdialog.cpp:288 src/categdialog.cpp:220
+#: src/import_export/univcsvdialog.cpp:203 src/maincurrencydialog.cpp:179
+#: src/payeedialog.cpp:369 src/splittransactionsdialog.cpp:169 src/stockdialog.cpp:316
+#, fuzzy
+msgid "&Add "
+msgstr "பட்ஜெட் ஆண்டை சேர்"
+
+#: src/attachmentdialog.cpp:290
+#, fuzzy
+msgid "&Open "
+msgstr "திற"
+
+#: src/attachmentdialog.cpp:293 src/import_export/univcsvdialog.cpp:207
+#: src/maincurrencydialog.cpp:186 src/payeedialog.cpp:372
+#: src/splittransactionsdialog.cpp:171
+#, fuzzy
+msgid "&Remove "
+msgstr "நீக்கு"
+
+#: src/attachmentdialog.cpp:344
+msgid "Att."
+msgstr ""
+
+#: src/attachmentdialog.cpp:351
+msgid "This directory and its files are automatically managed by Money Manager EX software."
+msgstr ""
+
+#: src/attachmentdialog.cpp:353
+msgid "Please do not remove, rename or modify manually directories and files."
+msgstr ""
+
+#: src/attachmentdialog.cpp:387 src/attachmentdialog.cpp:395
+#, fuzzy
+msgid "Destination file already exist:"
+msgstr "பட்ஜெட் ஆண்டு ஏற்கனவே உள்ளது"
+
+#: src/attachmentdialog.cpp:390
+msgid "File not found in attachments. Please delete or rename it."
+msgstr ""
+
+#: src/attachmentdialog.cpp:391 src/attachmentdialog.cpp:399
+#, fuzzy
+msgid "Destination file already exist"
+msgstr "பட்ஜெட் ஆண்டு ஏற்கனவே உள்ளது"
+
+#: src/attachmentdialog.cpp:398
+msgid "File already found in attachments"
+msgstr ""
+
+#: src/attachmentdialog.cpp:441
+msgid "Attachment not found:"
+msgstr ""
+
+#: src/attachmentdialog.cpp:444
+#, fuzzy
+msgid "Do you want to continue and delete attachment on database?"
+msgstr "நிஜமாய் இத்தொடரை அழிக்க விருப்பமா?"
+
+#: src/attachmentdialog.cpp:445
+msgid "Delete attachment failed"
+msgstr ""
+
+#: src/attachmentdialog.cpp:458
+#, fuzzy
+msgid "Unable to open file:"
+msgstr "கோப்பை திறக்க முடியவில்லை."
+
+#: src/attachmentdialog.cpp:461
+msgid "Please verify that file exists and user has rights to read it."
+msgstr ""
+
+#: src/attachmentdialog.cpp:462
+msgid "Open attachment failed"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:117
+msgid "New Recurring Transaction"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:137
+msgid " Edit Recurring Transaction"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:141
+msgid " Enter Recurring Transaction"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:317 src/billsdepositspanel.cpp:52
+#: src/filtertransdialog.cpp:48 src/mmOptionMiscSettings.cpp:74 src/model/Model_Asset.cpp:23
+#: src/model/Model_Billsdeposits.cpp:34 src/model/Model_Budget.cpp:54
+#: src/model/Model_Checking.cpp:34
+msgid "None"
+msgstr "ஏதுமில்லை"
+
+#: src/billsdepositsdialog.cpp:318 src/billsdepositspanel.cpp:53
+#: src/model/Model_Budget.cpp:55
+msgid "Weekly"
+msgstr "வாரமொருமுறை"
+
+#: src/billsdepositsdialog.cpp:319 src/billsdepositspanel.cpp:54
+#: src/model/Model_Budget.cpp:56
+msgid "Bi-Weekly"
+msgstr "இரு வாரங்களுக்கொருமுறை"
+
+#: src/billsdepositsdialog.cpp:320 src/billsdepositspanel.cpp:55
+#: src/model/Model_Budget.cpp:57
+msgid "Monthly"
+msgstr "மாதமொருமுறை"
+
+#: src/billsdepositsdialog.cpp:321 src/billsdepositspanel.cpp:56
+#: src/model/Model_Budget.cpp:58
+msgid "Bi-Monthly"
+msgstr "இரு மாதங்களுக்கொருமுறை"
+
+#: src/billsdepositsdialog.cpp:322 src/billsdepositspanel.cpp:57
+#: src/model/Model_Budget.cpp:59
+msgid "Quarterly"
+msgstr "காலாண்டு"
+
+#: src/billsdepositsdialog.cpp:323 src/billsdepositspanel.cpp:58
+#: src/model/Model_Budget.cpp:60
+msgid "Half-Yearly"
+msgstr "அரையாண்டு"
+
+#: src/billsdepositsdialog.cpp:324 src/billsdepositspanel.cpp:59
+#: src/model/Model_Budget.cpp:61
+msgid "Yearly"
+msgstr "ஆண்டுக்கொருமுறை"
+
+#: src/billsdepositsdialog.cpp:325 src/billsdepositspanel.cpp:60
+msgid "Four Months"
+msgstr "நான்கு மாதங்களுக்கொருமுறை"
+
+#: src/billsdepositsdialog.cpp:326 src/billsdepositspanel.cpp:61
+msgid "Four Weeks"
+msgstr "நான்கு வாரங்களுக்கொருமுறை"
+
+#: src/billsdepositsdialog.cpp:327 src/billsdepositspanel.cpp:62
+#: src/model/Model_Budget.cpp:62
+#, fuzzy
+msgid "Daily"
+msgstr "காட்டு"
+
+#: src/billsdepositsdialog.cpp:328 src/billsdepositspanel.cpp:63
+#, c-format
+msgid "In %s Days"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:329 src/billsdepositspanel.cpp:64
+#, fuzzy, c-format
+msgid "In %s Months"
+msgstr "மாதம்"
+
+#: src/billsdepositsdialog.cpp:330 src/billsdepositspanel.cpp:65
+#, c-format
+msgid "Every %s Days"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:331 src/billsdepositspanel.cpp:66
+#, fuzzy, c-format
+msgid "Every %s Months"
+msgstr "மாதம்"
+
+#: src/billsdepositsdialog.cpp:332 src/billsdepositspanel.cpp:67
+msgid "Monthly (last day)"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:333 src/billsdepositspanel.cpp:68
+msgid "Monthly (last business day)"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:344 src/transdialog.cpp:312
+msgid "Transaction Details"
+msgstr "பரிமாற்ற விவரம்"
+
+#: src/billsdepositsdialog.cpp:350 src/billsdepositspanel.cpp:109
+msgid "Payment Date"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:372
+msgid "Recurring Transaction Details"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:393
+msgid "Specify the date when this bill or deposit is due"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:397
+msgid "Retard or advance the date of the 'next occurrence"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:403 src/billsdepositspanel.cpp:110
+msgid "Due Date"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:407 src/billsdepositsdialog.cpp:1287
+msgid "Repeats"
+msgstr "மீண்டும்"
+
+#: src/billsdepositsdialog.cpp:420
+msgid "Next"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:422
+msgid "Advance the Next Occurance Date with the specified values"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:430 src/billsdepositsdialog.cpp:1329
+msgid "Times Repeated"
+msgstr "முறைகள் மீண்டும் நிகழும்"
+
+#: src/billsdepositsdialog.cpp:444
+msgid "Set to 'Auto Execute' on the next Pay Date."
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:445
+msgid "Set 'Auto Execute' with manual user acknowledgement."
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:448
+msgid "Set 'Auto Execute' without user acknowlegement."
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:450
+msgid "Automatic Execution will occur without user interaction"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:470 src/transdialog.cpp:1038
+msgid "Specify the date of the transaction"
+msgstr "பரிமாற்றத் தேதியை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:473 src/transdialog.cpp:1039
+#, fuzzy
+msgid "Retard or advance the date of the transaction"
+msgstr "பரிமாற்றத் தேதியை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:478
+msgid "Reset date to the Due Date"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:485
+msgid "Pay Date"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:495 src/filtertransdialog.cpp:247 src/transdialog.cpp:1040
+msgid "Specify the status for the transaction"
+msgstr "பரிமாற்ற நிலையை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:497 src/billsdepositspanel.cpp:113
+#: src/filtertransdialog.cpp:237 src/import_export/qif_import_gui.cpp:229
+#: src/import_export/qif_import_gui.cpp:241 src/import_export/qif_import_gui.cpp:252
+#: src/mmcheckingpanel.cpp:980 src/reports/transactions.cpp:68 src/transdialog.cpp:348
+#: src/webappdialog.cpp:81
+msgid "Status"
+msgstr "நிலை"
+
+#: src/billsdepositsdialog.cpp:511 src/splitdetailsdialog.cpp:119 src/transdialog.cpp:1041
+msgid "Specify the type of transactions to be created."
+msgstr "உருவாக்கப்படும் பரிமாற்ற வகைகளை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:512 src/transdialog.cpp:362
+#, fuzzy
+msgid "&Advanced"
+msgstr "மேலும்"
+
+#: src/billsdepositsdialog.cpp:515 src/transdialog.cpp:1045
+#, fuzzy
+msgid "Allows the setting of different amounts in the FROM and TO accounts."
+msgstr "பரிமாற்ற கணக்கை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:525 src/billsdepositsdialog.cpp:799 src/transdialog.cpp:1029
+msgid "Specify the amount for this transaction"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:526
+#, fuzzy
+msgid "Specify the amount to be transfered"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:528 src/billsdepositspanel.cpp:116 src/budgetingpanel.cpp:318
+#: src/mmhomepagepanel.cpp:382 src/mmhomepagepanel.cpp:758
+#: src/reports/budgetcategorysummary.cpp:110 src/reports/categexp.cpp:136
+#: src/reports/incexpenses.cpp:124 src/reports/transactions.cpp:73
+#: src/splitdetailsdialog.cpp:122 src/splittransactionsdialog.cpp:134
+#: src/transdialog.cpp:385 src/webappdialog.cpp:85
+msgid "Amount"
+msgstr "தொகை"
+
+#: src/billsdepositsdialog.cpp:540 src/transdialog.cpp:1025
+#, fuzzy
+msgid "Specify the transfer amount in the To Account"
+msgstr "பரிமாற்ற கணக்கை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:552 src/billsdepositspanel.cpp:111
+#: src/filtertransdialog.cpp:175 src/import_export/qif_import_gui.cpp:91
+#: src/import_export/qif_import_gui.cpp:151 src/import_export/qif_import_gui.cpp:221
+#: src/import_export/qif_import_gui.cpp:686 src/reports/transactions.cpp:66
+#: src/transdialog.cpp:220 src/transdialog.cpp:392 src/webappdialog.cpp:80
+msgid "Account"
+msgstr "கணக்கு"
+
+#: src/billsdepositsdialog.cpp:553 src/billsdepositsdialog.cpp:682
+#: src/billsdepositsdialog.cpp:712 src/billsdepositsdialog.cpp:762
+msgid "Select Account"
+msgstr "தேர்ந்தெடு"
+
+#: src/billsdepositsdialog.cpp:555
+msgid "Specify the Account that will own the recurring transaction"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:558 src/billsdepositsdialog.cpp:862
+#: src/billsdepositspanel.cpp:112 src/filtertransdialog.cpp:204
+#: src/import_export/qif_import_gui.cpp:94 src/import_export/qif_import_gui.cpp:234
+#: src/import_export/univcsvdialog.cpp:77 src/mmcheckingpanel.cpp:979
+#: src/mmhomepagepanel.cpp:382 src/reports/payee.cpp:113 src/reports/transactions.cpp:67
+#: src/transdialog.cpp:216 src/transdialog.cpp:397 src/webappdialog.cpp:83
+msgid "Payee"
+msgstr "பெறுநர்"
+
+#: src/billsdepositsdialog.cpp:560 src/billsdepositsdialog.cpp:892
+msgid "Select Payee"
+msgstr "பெறுநரை தேர்ந்தெடு"
+
+#: src/billsdepositsdialog.cpp:562
+#, fuzzy
+msgid "Specify where the transaction is going to"
+msgstr "எங்கிருந்து எங்கு பரிமாற்றம் என குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:570 src/transdialog.cpp:410
+msgid "Split"
+msgstr "பிரி"
+
+#: src/billsdepositsdialog.cpp:573 src/transdialog.cpp:1042
+#, fuzzy
+msgid "Use split Categories"
+msgstr "வகையைப் பிரி"
+
+#: src/billsdepositsdialog.cpp:579 src/billsdepositspanel.cpp:114 src/budgetingpanel.cpp:315
+#: src/filtertransdialog.cpp:215 src/import_export/qif_import_gui.cpp:96
+#: src/import_export/qif_import_gui.cpp:246 src/import_export/univcsvdialog.cpp:79
+#: src/mmcheckingpanel.cpp:981 src/mmhomepagepanel.cpp:201
+#: src/reports/budgetcategorysummary.cpp:109 src/reports/budgetingperf.cpp:128
+#: src/reports/categexp.cpp:135 src/reports/categovertimeperf.cpp:109
+#: src/reports/transactions.cpp:69 src/splitdetailsdialog.cpp:130
+#: src/splittransactionsdialog.cpp:133 src/transdialog.cpp:420 src/webappdialog.cpp:84
+msgid "Category"
+msgstr "வகை"
+
+#: src/billsdepositsdialog.cpp:580 src/billsdepositsdialog.cpp:1451 src/transdialog.cpp:285
+msgid "Select Category"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/billsdepositsdialog.cpp:590 src/transdialog.cpp:1043
+msgid "Specify any associated check number or transaction number"
+msgstr "தொடர்புடைய காசோலை அல்லது பரிமாற்ற எண்ணை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:592 src/billsdepositspanel.cpp:121
+#: src/filtertransdialog.cpp:297 src/import_export/qif_import_gui.cpp:93
+#: src/import_export/univcsvdialog.cpp:81 src/mmcheckingpanel.cpp:978
+#: src/reports/transactions.cpp:71 src/transdialog.cpp:435
+msgid "Number"
+msgstr "எண்"
+
+#: src/billsdepositsdialog.cpp:601
+msgid "Organize attachments of this recurring transaction"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:605 src/transdialog.cpp:446
+msgid "Select one of the frequently used notes"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:615 src/transdialog.cpp:1044
+msgid "Specify any text notes you want to add to this transaction."
+msgstr "இப்பரிமாற்றத்துக்கான தகவல் ஏதும் இருப்பின் குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:681
+#, fuzzy
+msgid "Choose Bank Account or Term Account"
+msgstr "கணக்கை தேர்ந்தெடு"
+
+#: src/billsdepositsdialog.cpp:712 src/billsdepositsdialog.cpp:762
+#, fuzzy
+msgid "Account name"
+msgstr "கணக்கு பெயர்"
+
+#: src/billsdepositsdialog.cpp:802
+#, fuzzy
+msgid "Specify which account the transfer is going to"
+msgstr "எந்த கணக்கிலிருந்து இந்த பரிமாற்றம் நிகழ்கிறதெனக் குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:805
+msgid "Specify to whom the transaction is going to or coming from "
+msgstr "யாரிடமிருந்து அல்லது யாருக்கு இப்பரிமாற்றம் என குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:839 src/billsdepositsdialog.cpp:850
+#: src/billsdepositsdialog.cpp:873 src/transdialog.cpp:218 src/transdialog.cpp:261
+msgid "From"
+msgstr "அனுப்புநர்"
+
+#: src/billsdepositsdialog.cpp:849 src/transdialog.cpp:259
+msgid "To"
+msgstr "பெறுதல்"
+
+#: src/billsdepositsdialog.cpp:851
+msgid "Select To Account"
+msgstr "பெறுநரை தேர்ந்தெடு"
+
+#: src/billsdepositsdialog.cpp:874 src/transdialog.cpp:1034
+#, fuzzy
+msgid "Specify where the transaction is coming from"
+msgstr "எங்கிருந்து எங்கு பரிமாற்றம் என குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:1242
+#, fuzzy
+msgid "Specify the transfer amount in the From Account"
+msgstr "பரிமாற்ற கணக்கை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:1288
+#, fuzzy
+msgid "Activates"
+msgstr "உயர்கிறது"
+
+#: src/billsdepositsdialog.cpp:1290
+msgid "Period: Days"
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:1291
+#, fuzzy
+msgid "Period: Months"
+msgstr "நான்கு மாதங்களுக்கொருமுறை"
+
+#: src/billsdepositsdialog.cpp:1299 src/billsdepositsdialog.cpp:1315
+msgid "Specify period in Days to activate."
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:1300 src/billsdepositsdialog.cpp:1308
+msgid "Becomes blank when not active."
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:1307 src/billsdepositsdialog.cpp:1323
+#, fuzzy
+msgid "Specify period in Months to activate."
+msgstr "உருவாக்கும் கணக்கு வகையை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:1316 src/billsdepositsdialog.cpp:1323
+msgid "Leave blank when not active."
+msgstr ""
+
+#: src/billsdepositsdialog.cpp:1330
+#, fuzzy
+msgid "Specify the number of times this series repeats."
+msgstr "எத்தனை முறை இத்தொடர் மீண்டும் நிகழும் எனக் குறிப்பிடு. கணக்கற்றமுறையெனில் ஏதும் குறிப்பிட வேண்டாம்."
+
+#: src/billsdepositsdialog.cpp:1331
+#, fuzzy
+msgid "Leave blank if this series continues forever."
+msgstr "எத்தனை முறை இத்தொடர் மீண்டும் நிகழும் எனக் குறிப்பிடு. கணக்கற்றமுறையெனில் ஏதும் குறிப்பிட வேண்டாம்."
+
+#: src/billsdepositsdialog.cpp:1425 src/transdialog.cpp:1002
+msgid "Specify the category for this transaction"
+msgstr "இப்பரிமாற்றத்துக்கான வகையை குறிப்பிடு"
+
+#: src/billsdepositsdialog.cpp:1443 src/categdialog.cpp:111
+#: src/import_export/qif_export.cpp:115 src/mmframereport.cpp:148 src/transdialog.cpp:275
+#: src/reports/categexp.h:191
+msgid "Categories"
+msgstr "வகை"
+
+#: src/billsdepositspanel.cpp:117 src/budgetingpanel.cpp:317
+#: src/reports/budgetcategorysummary.cpp:111
+msgid "Frequency"
+msgstr "இடைவெளி"
+
+#: src/billsdepositspanel.cpp:118
+#, fuzzy
+msgid "Repetitions"
+msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#: src/billsdepositspanel.cpp:119
+msgid "Autorepeat"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:120 src/mmhomepagepanel.cpp:382
+msgid "Payment"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:168
+msgid ""
+"MMEX allows regular payments to be set up as transactions. These transactions can also be "
+"regular deposits, or transfers that will occur at some future time. These transactions "
+"act as a reminder that an event is about to occur, and appears on the Home Page 14 days "
+"before the transaction is due. "
+msgstr ""
+
+#: src/billsdepositspanel.cpp:169
+msgid ""
+"Tip: These transactions can be set up to activate – allowing the user to adjust any "
+"values on the due date."
+msgstr ""
+
+#: src/billsdepositspanel.cpp:221 src/billsdepositspanel.cpp:896 src/mmframe.cpp:732
+#: src/mmhomepagepanel.cpp:424
+msgid "Recurring Transactions"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:238 src/filtertransdialog.cpp:96 src/mmcheckingpanel.cpp:387
+msgid "Transaction Filter"
+msgstr "பறிமாற்ற வடி"
+
+#: src/billsdepositspanel.cpp:282
+#, fuzzy
+msgid "New Bills & Deposit Series"
+msgstr "புது ரசீது && வைப்பு தொடர்"
+
+#: src/billsdepositspanel.cpp:286
+#, fuzzy
+msgid "Edit Bills & Deposit Series"
+msgstr "ரசீது && வைப்பு தொடரை மாற்று"
+
+#: src/billsdepositspanel.cpp:291
+#, fuzzy
+msgid "Delete Bills & Deposit Series"
+msgstr "ரசீது && வைப்பு தொடரை அழி"
+
+#: src/billsdepositspanel.cpp:295
+msgid "En&ter"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:296
+#, fuzzy
+msgid "Enter Next Bills & Deposit Occurrence"
+msgstr "அடுத்த ரசீது && வைப்பு நிகழ்வை இடு"
+
+#: src/billsdepositspanel.cpp:300
+msgid "&Skip"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:301
+#, fuzzy
+msgid "Skip Next Bills & Deposit Occurrence"
+msgstr "அடுத்த ரசீது && வைப்பு நிகழ்வை இடு"
+
+#: src/billsdepositspanel.cpp:413
+#, fuzzy
+msgid "Enter next Occurrence..."
+msgstr "அடுத்த நிகழ்வை இடு"
+
+#: src/billsdepositspanel.cpp:415
+#, fuzzy
+msgid "Skip next Occurrence"
+msgstr "அடுத்த நிகழ்வு"
+
+#: src/billsdepositspanel.cpp:417
+#, fuzzy
+msgid "&New Bills && Deposit Series..."
+msgstr "&புது ரசீது && வைப்பு தொடர்"
+
+#: src/billsdepositspanel.cpp:418
+#, fuzzy
+msgid "&Edit Bills && Deposit Series..."
+msgstr "ரசீது && வைப்பு தொடரை &மாற்று"
+
+#: src/billsdepositspanel.cpp:419
+#, fuzzy
+msgid "&Delete Bills && Deposit Series..."
+msgstr "ரசீது && வைப்பு தொடரை &அழி"
+
+#: src/billsdepositspanel.cpp:466
+#, fuzzy
+msgid "Manual"
+msgstr "ஜனவரி"
+
+#: src/billsdepositspanel.cpp:470
+msgid "Suggested"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:474
+#, fuzzy
+msgid "Automated"
+msgstr "மதிப்பிடப்பட்ட"
+
+#: src/billsdepositspanel.cpp:516 src/billsdepositspanel.cpp:582 src/mmhomepagepanel.cpp:345
+#, fuzzy, c-format
+msgid "%d days remaining"
+msgstr "மீதமுள்ள தேதி"
+
+#: src/billsdepositspanel.cpp:521 src/billsdepositspanel.cpp:528
+#: src/billsdepositspanel.cpp:535 src/billsdepositspanel.cpp:587
+#: src/billsdepositspanel.cpp:594 src/billsdepositspanel.cpp:598
+msgid "Inactive"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:526 src/mmhomepagepanel.cpp:346
+#, c-format
+msgid "%d days delay!"
+msgstr ""
+
+#: src/billsdepositspanel.cpp:533 src/billsdepositspanel.cpp:592 src/mmhomepagepanel.cpp:348
+#, fuzzy, c-format
+msgid "%d days overdue!"
+msgstr "காலாவதியான தேதி"
+
+#: src/billsdepositspanel.cpp:644
+msgid "Do you really want to delete the series?"
+msgstr "நிஜமாய் இத்தொடரை அழிக்க விருப்பமா?"
+
+#: src/billsdepositspanel.cpp:645
+msgid "Confirm Series Deletion"
+msgstr "தொடர் அழிப்பை உறுதி செய்"
+
+#: src/budgetentrydialog.cpp:49
+msgid "Budget Year Entry"
+msgstr "பட்ஜெட் ஆண்டு உள்ளீடு"
+
+#: src/budgetentrydialog.cpp:107
+#, fuzzy
+msgid "Category: "
+msgstr "வகை "
+
+#: src/budgetentrydialog.cpp:112
+#, fuzzy
+msgid "Sub Category: "
+msgstr "துணை வகை: \n"
+
+#: src/budgetentrydialog.cpp:119
+#, fuzzy
+msgid "Estimated:"
+msgstr "மதிப்பிடப்பட்ட"
+
+#: src/budgetentrydialog.cpp:121
+#, fuzzy
+msgid "Actual:"
+msgstr "உண்மையான"
+
+#: src/budgetentrydialog.cpp:124
+msgid "Type:"
+msgstr "வகை:"
+
+#: src/budgetentrydialog.cpp:127
+msgid "Expense"
+msgstr "செலவு"
+
+#: src/budgetentrydialog.cpp:128 src/mmhomepagepanel.cpp:759
+#: src/model/Model_Category.cpp:191 src/reports/incexpenses.cpp:101
+#: src/reports/incexpenses.cpp:228
+msgid "Income"
+msgstr "வரவு"
+
+#: src/budgetentrydialog.cpp:133
+msgid "Specify whether this category is an income or an expense category"
+msgstr "இது வரவா அல்லது செலவா என வகையை குறிப்பிடு"
+
+#: src/budgetentrydialog.cpp:135
+msgid "Frequency:"
+msgstr "இடைவெளி:"
+
+#: src/budgetentrydialog.cpp:140
+msgid "Specify the frequency of the expense or deposit"
+msgstr "செலவு அல்லது வைப்பிற்கான இடைவெளியை குறிப்பிடு"
+
+#: src/budgetentrydialog.cpp:143
+msgid "Amount:"
+msgstr "தொகை:"
+
+#: src/budgetentrydialog.cpp:148
+msgid "Enter the amount budgeted for this category."
+msgstr "இவ்வகைக்கான பட்ஜெட் தொகையை இடு"
+
+#: src/budgetingpanel.cpp:61
+msgid "View All Budget Categories"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/budgetingpanel.cpp:62
+msgid "View Non-Zero Budget Categories"
+msgstr "சுழி அல்லாத பட்ஜெட் வகைகளை பார்"
+
+#: src/budgetingpanel.cpp:63
+#, fuzzy
+msgid "View Planned Budget Categories"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/budgetingpanel.cpp:64
+msgid "View Income Budget Categories"
+msgstr "வரவு பட்ஜெட் வகைகளையும் பார்"
+
+#: src/budgetingpanel.cpp:65
+msgid "View Expense Budget Categories"
+msgstr "செலவு பட்ஜெட் வகைகளையும் பார்"
+
+#: src/budgetingpanel.cpp:66
+#, fuzzy
+msgid "View Budget Category Summary"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/budgetingpanel.cpp:187 src/reports/budget.cpp:79
+#, fuzzy, c-format
+msgid "Financial Year: %s - %i"
+msgstr "கடந்த ஆண்டு"
+
+#: src/budgetingpanel.cpp:191 src/reports/budget.cpp:81
+#, fuzzy, c-format
+msgid "Year: %s"
+msgstr "ஆண்டுக்கொருமுறை"
+
+#: src/budgetingpanel.cpp:196 src/reports/budget.cpp:83
+#, fuzzy, c-format
+msgid "Month: %s"
+msgstr "மாதம்"
+
+#: src/budgetingpanel.cpp:198
+#, fuzzy, c-format
+msgid "Budget Setup for %s"
+msgstr "பட்ஜெட் அமைப்பு :"
+
+#: src/budgetingpanel.cpp:264
+#, fuzzy
+msgid "Income: "
+msgstr "வரவு: "
+
+#: src/budgetingpanel.cpp:265 src/budgetingpanel.cpp:273
+#, fuzzy
+msgid "Estimated: "
+msgstr "மதிப்பிடப்பட்ட"
+
+#: src/budgetingpanel.cpp:267 src/budgetingpanel.cpp:275
+#, fuzzy
+msgid "Actual: "
+msgstr "உண்மையான"
+
+#: src/budgetingpanel.cpp:269 src/budgetingpanel.cpp:277
+#, fuzzy
+msgid "Difference: "
+msgstr "வேறுபாடு:"
+
+#: src/budgetingpanel.cpp:272
+#, fuzzy
+msgid "Expenses: "
+msgstr "செலவுகள்: "
+
+#: src/budgetingpanel.cpp:314
+msgid "Icon"
+msgstr ""
+
+#: src/budgetingpanel.cpp:316
+msgid "Sub Category"
+msgstr "துணை வகை"
+
+#: src/budgetingpanel.cpp:319 src/reports/budgetcategorysummary.cpp:112
+#: src/reports/budgetingperf.cpp:156 src/reports/budgetingperf.cpp:209
+msgid "Estimated"
+msgstr "மதிப்பிடப்பட்ட"
+
+#: src/budgetingpanel.cpp:320 src/reports/budgetcategorysummary.cpp:113
+#: src/reports/budgetingperf.cpp:167 src/reports/budgetingperf.cpp:219
+msgid "Actual"
+msgstr "உண்மையான"
+
+#: src/budgetyeardialog.cpp:46
+#, fuzzy
+msgid "Budget Editor"
+msgstr "பட்ஜெட் ஆண்டு மாற்றி"
+
+#: src/budgetyeardialog.cpp:93
+#, fuzzy
+msgid "&Add Year"
+msgstr "பட்ஜெட் ஆண்டை சேர்"
+
+#: src/budgetyeardialog.cpp:95
+msgid "Add a new budget year"
+msgstr "புது பட்ஜெட் ஆண்டை சேர்"
+
+#: src/budgetyeardialog.cpp:98
+#, fuzzy
+msgid "&Add Month"
+msgstr "மாதம்"
+
+#: src/budgetyeardialog.cpp:100
+#, fuzzy
+msgid "Add a new budget month"
+msgstr "புது பட்ஜெட் ஆண்டை சேர்"
+
+#: src/budgetyeardialog.cpp:105
+#, fuzzy
+msgid "Delete existing budget"
+msgstr "ஏற்கனவே உள்ள பட்ஜெட் ஆண்டை அழி"
+
+#: src/budgetyearentrydialog.cpp:42 src/budgetyearentrydialog.cpp:150
+#, fuzzy
+msgid "Budget Entry Details"
+msgstr "பட்ஜெட் உள்ளீட்டு சாளரம்"
+
+#: src/budgetyearentrydialog.cpp:44
+#, fuzzy
+msgid "Budget Month Entry"
+msgstr "பட்ஜெட் ஆண்டு உள்ளீடு"
+
+#: src/budgetyearentrydialog.cpp:71
+msgid "Budget Year:"
+msgstr "பட்ஜெட் ஆண்டு"
+
+#: src/budgetyearentrydialog.cpp:79
+msgid ""
+"Specify the required year.\n"
+"Use Spin buttons to increase or decrease the year."
+msgstr ""
+
+#: src/budgetyearentrydialog.cpp:85
+#, fuzzy
+msgid "Budget Month:"
+msgstr "இந்த மாதம்"
+
+#: src/budgetyearentrydialog.cpp:94
+msgid ""
+"Specify the required month.\n"
+"Use Spin buttons to increase or decrease the month."
+msgstr ""
+
+#: src/budgetyearentrydialog.cpp:100
+msgid "Base Budget On:"
+msgstr "அடிப்படை பட்ஜெட்:"
+
+#: src/budgetyearentrydialog.cpp:110
+msgid "Specify year to base budget on."
+msgstr "அடிப்படை பட்ஜெட் ஆண்டை குறிப்பிடு"
+
+#: src/budgetyearentrydialog.cpp:149
+msgid "Budget Year already exists"
+msgstr "பட்ஜெட் ஆண்டு ஏற்கனவே உள்ளது"
+
+#: src/categdialog.cpp:87 src/mmframe.cpp:1449 src/mmframe.cpp:1612
+msgid "Organize Categories"
+msgstr "வகை ஒழுங்கிடு"
+
+#: src/categdialog.cpp:178 src/mmframe.cpp:1466
+msgid "Reassign all categories to another category"
+msgstr ""
+
+#: src/categdialog.cpp:180
+#, fuzzy
+msgid "Expand"
+msgstr "செலவு"
+
+#: src/categdialog.cpp:185 src/maincurrencydialog.cpp:147
+msgid "Show All"
+msgstr ""
+
+#: src/categdialog.cpp:187
+#, fuzzy
+msgid "Show all hidden categories"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/categdialog.cpp:215
+msgid "Enter the name of the category to add or edit here"
+msgstr "இங்கே வகையின் பெயரை சேர்க்கவோ மாற்றவோ முடியும்"
+
+#: src/categdialog.cpp:222
+msgid "Add a new category"
+msgstr "புது வகையை சேர்"
+
+#: src/categdialog.cpp:226
+msgid "Edit the name of an existing category"
+msgstr "ஏற்கனவேயுள்ள வகையின் பெயரை மாற்று"
+
+#: src/categdialog.cpp:230
+msgid "Delete an existing category. The category cannot be used by existing transactions."
+msgstr "ஏற்கனவேயுள்ள பரிமாற்றங்களில் பயனில் இல்லாத ஏற்கனவேயுள்ள வகையை அழி. "
+
+#: src/categdialog.cpp:235 src/maincurrencydialog.cpp:193
+#, fuzzy
+msgid "&Select"
+msgstr "தேர்ந்தெடு"
+
+#: src/categdialog.cpp:237
+msgid "Select the currently selected category as the selected category for the transaction"
+msgstr "தற்போதுள்ள வகை தெரிவை பரிமாற்றத்துக்கான வகையாக தேர்ந்தெடு"
+
+#: src/categdialog.cpp:246
+#, fuzzy
+msgid "Enter the name for the new category:"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/categdialog.cpp:247
+#, fuzzy
+msgid "Add Category"
+msgstr "வகை"
+
+#: src/categdialog.cpp:256 src/categdialog.cpp:477
+msgid "Category with same name exists"
+msgstr "வகையின் பெயர் ஏற்கனவே உள்ளது"
+
+#: src/categdialog.cpp:257
+msgid ""
+"Tip: If category added now, check bottom of list.\n"
+"Category will be in sorted order next time dialog appears"
+msgstr ""
+
+#: src/categdialog.cpp:258 src/categdialog.cpp:283 src/categdialog.cpp:301
+#, fuzzy
+msgid "Organise Categories: Adding Error"
+msgstr "வகை ஒழுங்கிடு"
+
+#: src/categdialog.cpp:282 src/categdialog.cpp:494
+msgid "Sub Category with same name exists"
+msgstr "துணை வகையின் பெயர் ஏற்கனவே உள்ளது"
+
+#: src/categdialog.cpp:300
+msgid "Invalid Parent Category. Choose Root or Main Category node."
+msgstr "வகை செல்லாது. ஏற்ற வகையினை தெரிவு செய்"
+
+#: src/categdialog.cpp:309
+msgid ""
+"Tip: Change all transactions using this Category to\n"
+"another Category using the relocate command:"
+msgstr ""
+
+#: src/categdialog.cpp:311
+msgid ""
+"Tip: Change all transactions using this Sub-Category to\n"
+"another Sub-Category using the relocate command:"
+msgstr ""
+
+#: src/categdialog.cpp:313
+msgid "Tools -> Relocation of -> Categories"
+msgstr ""
+
+#: src/categdialog.cpp:315
+#, fuzzy
+msgid "Organise Categories: Delete Error"
+msgstr "வகை ஒழுங்கிடு"
+
+#: src/categdialog.cpp:332
+#, fuzzy
+msgid "Category in use."
+msgstr "வகை பயன்பாட்டிலுள்ளது"
+
+#: src/categdialog.cpp:342
+#, fuzzy
+msgid "Sub-Category in use."
+msgstr "துணை வகை பயன்பாட்டிலுள்ளது"
+
+#: src/categdialog.cpp:462
+#, fuzzy, c-format
+msgid "Enter a new name for %s"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/categdialog.cpp:464
+#, fuzzy
+msgid "Edit Category"
+msgstr "வகையைப் பிரி"
+
+#: src/categdialog.cpp:478 src/categdialog.cpp:495
+#, fuzzy
+msgid "Organise Categories: Editing Error"
+msgstr "வகை ஒழுங்கிடு"
+
+#: src/categdialog.cpp:566 src/mmframe.cpp:2667
+#, fuzzy
+msgid "Category Relocation Completed."
+msgstr "வகை செல்லாது"
+
+#: src/categdialog.cpp:567 src/mmframe.cpp:2668 src/mmframe.cpp:2683 src/payeedialog.cpp:320
+#, c-format
+msgid "Records have been updated in the database: %i"
+msgstr ""
+
+#: src/categdialog.cpp:569 src/mmframe.cpp:2670
+#, fuzzy
+msgid "Category Relocation Result"
+msgstr "வகை செல்லாது"
+
+#: src/categdialog.cpp:634
+#, fuzzy
+msgid "Hide Selected Category"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/categdialog.cpp:635
+#, fuzzy
+msgid "Unhide Selected Category"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/categdialog.cpp:637
+#, fuzzy
+msgid "Clear Settings"
+msgstr "அமைப்புகள்"
+
+#: src/constants.cpp:73
+msgid "Cancel"
+msgstr "தவிர்"
+
+#: src/constants.cpp:75 src/import_export/qif_export.cpp:232 src/reports/reportbase.cpp:78
+#, fuzzy
+msgid "&Cancel "
+msgstr "தவிர்"
+
+#: src/constants.cpp:79
+#, fuzzy
+msgid "Close"
+msgstr "மூடு"
+
+#: src/constants.cpp:81 src/import_export/qif_import_gui.cpp:272
+#: src/maincurrencydialog.cpp:202 src/stockdialog.cpp:328
+#, fuzzy
+msgid "&Close "
+msgstr "மூடு"
+
+#: src/constants.cpp:96
+#, fuzzy
+msgid "Version: "
+msgstr "வெளியீட்டு வரலாறு"
+
+#: src/constants.cpp:111
+msgid "MMEX is using the following support products"
+msgstr ""
+
+#: src/constants.cpp:190 src/mmcheckingpanel.h:256
+msgid "View All Transactions"
+msgstr "எல்லா பரிமாற்றங்களையும் பார்"
+
+#: src/constants.cpp:191 src/mmcheckingpanel.h:257
+#, fuzzy
+msgid "View Today"
+msgstr "30 நாட்களுக்கானதை பார்"
+
+#: src/constants.cpp:192 src/mmcheckingpanel.h:258
+msgid "View Current Month"
+msgstr "இந்த மாதம்"
+
+#: src/constants.cpp:193 src/mmcheckingpanel.h:259
+#, fuzzy
+msgid "View Last 30 days"
+msgstr "30 நாட்களுக்கானதை பார்"
+
+#: src/constants.cpp:194 src/mmcheckingpanel.h:260
+#, fuzzy
+msgid "View Last 90 days"
+msgstr "90 நாட்களுக்கானதை பார்"
+
+#: src/constants.cpp:195 src/mmcheckingpanel.h:261
+msgid "View Last Month"
+msgstr "கடந்த மாதம் பார்வையிடு"
+
+#: src/constants.cpp:196 src/mmcheckingpanel.h:262
+#, fuzzy
+msgid "View Last 3 Months"
+msgstr "கடந்த மாதம் பார்வையிடு"
+
+#: src/constants.cpp:197 src/mmcheckingpanel.h:263
+#, fuzzy
+msgid "View Last 12 Months"
+msgstr "கடந்த மாதம் பார்வையிடு"
+
+#: src/constants.cpp:198 src/mmcheckingpanel.h:264
+#, fuzzy
+msgid "View Current Year"
+msgstr "இந்த ஆண்டு"
+
+#: src/currencydialog.cpp:52
+msgid "Currency Manager"
+msgstr "நாணய மேலாண்மை"
+
+#: src/currencydialog.cpp:70
+#, fuzzy
+msgid "Currency name"
+msgstr "நாணயத்தின் பெயர்"
+
+#: src/currencydialog.cpp:121
+#, c-format
+msgid "%s Converted to: %s"
+msgstr ""
+
+#: src/currencydialog.cpp:126
+#, c-format
+msgid "%.2f Shown As: %s"
+msgstr ""
+
+#: src/currencydialog.cpp:163
+msgid "Currency Name"
+msgstr "நாணயத்தின் பெயர்"
+
+#: src/currencydialog.cpp:168
+#, fuzzy
+msgid "Currency Symbol"
+msgstr "நாணயத்தின் பெயர்"
+
+#: src/currencydialog.cpp:174
+msgid "Unit Name"
+msgstr "அலகு பெயர்"
+
+#: src/currencydialog.cpp:178
+msgid "Cents Name"
+msgstr "காசு பெயர்"
+
+#: src/currencydialog.cpp:182
+msgid "Prefix Symbol"
+msgstr "முன் குறியீடு"
+
+#: src/currencydialog.cpp:186
+msgid "Suffix Symbol"
+msgstr "பின் குறியீடு"
+
+#: src/currencydialog.cpp:190
+msgid "Decimal Char"
+msgstr "தசம குறியீடு"
+
+#: src/currencydialog.cpp:194
+msgid "Grouping Char"
+msgstr "குழுப் பிரிவு குறியீடு"
+
+#: src/currencydialog.cpp:202
+msgid "Scale"
+msgstr "அளவு"
+
+#: src/currencydialog.cpp:207
+msgid "Conversion to Base Rate"
+msgstr "பரிமாற்ற வீதம்"
+
+#: src/currencydialog.cpp:212
+msgid "Other currency conversion rate. Set Base Currency to 1."
+msgstr ""
+
+#: src/currencydialog.cpp:215
+msgid "Base Rate Conversion Sample:"
+msgstr ""
+
+#: src/currencydialog.cpp:223
+msgid "Value Display Sample:"
+msgstr ""
+
+#: src/currencydialog.cpp:234
+#, fuzzy
+msgid "&Update"
+msgstr "புதுப்பி"
+
+#: src/currencydialog.cpp:236
+msgid "Save any changes made"
+msgstr ""
+
+#: src/currencydialog.cpp:240
+msgid "Any changes will be lost without update"
+msgstr ""
+
+#: src/currencydialog.cpp:261
+#, fuzzy
+msgid "Currency with same name exists"
+msgstr "வகையின் பெயர் ஏற்கனவே உள்ளது"
+
+#: src/currencydialog.cpp:261
+#, fuzzy
+msgid "Organize Currency: Add Currency"
+msgstr "நாணய ஒழுங்கிடு"
+
+#: src/dbwrapper.cpp:70
+#, fuzzy
+msgid "When database file opening:"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/dbwrapper.cpp:74
+#, fuzzy
+msgid "Can't open file"
+msgstr "கோப்பை திறக்க முடியவில்லை."
+
+#: src/dbwrapper.cpp:74
+msgid "You must specify path to another database file"
+msgstr ""
+
+#: src/dbwrapper.cpp:78
+msgid ""
+"An incorrect password given for an encrypted file \n"
+"\n"
+"or \n"
+"\n"
+" Attempt to open a File that is not a database file \n"
+msgstr ""
+
+#: src/dbwrapper.cpp:82 src/webapp.cpp:124 src/wizard_update.cpp:225
+#, fuzzy, c-format
+msgid "Error: %s"
+msgstr "தவறு: %s"
+
+#: src/dbwrapper.cpp:85 src/mmframe.cpp:1680
+#, fuzzy
+msgid "Opening MMEX Database - Error"
+msgstr "கடைசியாய் திறந்த தகவல்தளத்தை திற"
+
+#: src/filtertransdialog.cpp:49 src/mmhomepagepanel.cpp:687
+#: src/model/Model_Billsdeposits.cpp:35 src/model/Model_Checking.cpp:35
+msgid "Reconciled"
+msgstr "சரிபார்க்கப்பட்டது"
+
+#: src/filtertransdialog.cpp:50 src/model/Model_Billsdeposits.cpp:36
+#: src/model/Model_Checking.cpp:36
+msgid "Void"
+msgstr "செல்லாதது"
+
+#: src/filtertransdialog.cpp:51 src/model/Model_Billsdeposits.cpp:37
+#: src/model/Model_Checking.cpp:37
+msgid "Follow up"
+msgstr "பின் தொடர்"
+
+#: src/filtertransdialog.cpp:52 src/model/Model_Billsdeposits.cpp:38
+#: src/model/Model_Checking.cpp:38
+msgid "Duplicate"
+msgstr "நகல்"
+
+#: src/filtertransdialog.cpp:53
+#, fuzzy
+msgid "Un-Reconciled"
+msgstr "சரிபார்க்கப்பட்டது"
+
+#: src/filtertransdialog.cpp:54
+#, fuzzy
+msgid "All Except Reconciled"
+msgstr "சரிபார்க்கப்படாத பரிமாற்றங்களைப் பார்"
+
+#: src/filtertransdialog.cpp:156
+#, fuzzy
+msgid " Specify "
+msgstr "வகையைக் குறிப்பிடு"
+
+#: src/filtertransdialog.cpp:186 src/reports/mmDateRange.cpp:27
+#, fuzzy
+msgid "Date Range"
+msgstr "தேதி வரிசையைக் குறிப்பிடு"
+
+#: src/filtertransdialog.cpp:228
+msgid "Include Similar"
+msgstr ""
+
+#: src/filtertransdialog.cpp:230
+msgid "Include all subcategories for the selected category."
+msgstr ""
+
+#: src/filtertransdialog.cpp:256 src/import_export/univcsvdialog.cpp:84
+#: src/mmcheckingpanel.cpp:982 src/model/Model_Billsdeposits.cpp:27
+#: src/model/Model_Checking.cpp:27 src/splitdetailsdialog.cpp:112
+#: src/splittransactionsdialog.cpp:143
+msgid "Withdrawal"
+msgstr "பற்று"
+
+#: src/filtertransdialog.cpp:258 src/import_export/univcsvdialog.cpp:85
+#: src/mmcheckingpanel.cpp:983 src/model/Model_Billsdeposits.cpp:28
+#: src/model/Model_Checking.cpp:28 src/splitdetailsdialog.cpp:113
+#: src/splittransactionsdialog.cpp:148
+msgid "Deposit"
+msgstr "வரவு"
+
+#: src/filtertransdialog.cpp:260
+#, fuzzy
+msgid "Transfer To"
+msgstr "பரிமாற்றம்"
+
+#: src/filtertransdialog.cpp:262
+#, fuzzy
+msgid "Transfer From"
+msgstr "பரிமாற்றம்"
+
+#: src/filtertransdialog.cpp:275
+#, fuzzy
+msgid "Amount Range"
+msgstr "தொகை வரிசையைக் குறிப்பிடு"
+
+#: src/filtertransdialog.cpp:345
+msgid "&Clear "
+msgstr ""
+
+#: src/filtertransdialog.cpp:423 src/filtertransdialog.cpp:433
+msgid "Invalid Amount Entered "
+msgstr "தவறான தொகை இடப்பட்டுள்ளது."
+
+#: src/filtertransdialog.cpp:423 src/filtertransdialog.cpp:433
+#: src/import_export/qif_import_gui.cpp:733 src/maincurrencydialog.cpp:434
+#: src/mmSimpleDialogs.cpp:153 src/mmframe.cpp:2784 src/splittransactionsdialog.cpp:211
+#: src/stockspanel.cpp:717 src/stockspanel.cpp:718
+msgid "Error"
+msgstr "தவறு"
+
+#: src/filtertransdialog.cpp:767
+#, fuzzy
+msgid "Filtering Details: "
+msgstr "பெறுநர் "
+
+#: src/general_report_manager.cpp:235 src/general_report_manager.cpp:606
+#, fuzzy
+msgid "General Reports Manager"
+msgstr "தனி SQL அறிக்கை"
+
+#: src/general_report_manager.cpp:277 src/mmframe.cpp:740 src/mmframe.cpp:2224
+msgid "Reports"
+msgstr "அறிக்கை"
+
+#: src/general_report_manager.cpp:364 src/import_export/univcsvdialog.cpp:314
+#: src/mmframe.cpp:1167 src/mmframe.cpp:1369
+#, fuzzy
+msgid "&Import"
+msgstr "இறக்கு"
+
+#: src/general_report_manager.cpp:366
+msgid "Locate and load a report file."
+msgstr ""
+
+#: src/general_report_manager.cpp:368 src/import_export/univcsvdialog.cpp:321
+#: src/mmframe.cpp:1163 src/mmframe.cpp:1363
+msgid "&Export"
+msgstr "&ஏற்று"
+
+#: src/general_report_manager.cpp:370
+msgid "Export the report to a new file."
+msgstr ""
+
+#: src/general_report_manager.cpp:373 src/stockdialog.cpp:327
+#, fuzzy
+msgid "&Save "
+msgstr "SQL சேமி"
+
+#: src/general_report_manager.cpp:375
+#, fuzzy
+msgid "Save changes."
+msgstr "பெறுநர்"
+
+#: src/general_report_manager.cpp:377
+msgid "&Run"
+msgstr ""
+
+#: src/general_report_manager.cpp:379
+#, fuzzy
+msgid "Run selected report."
+msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#: src/general_report_manager.cpp:391
+msgid "Output"
+msgstr ""
+
+#: src/general_report_manager.cpp:403
+msgid "SQL"
+msgstr ""
+
+#: src/general_report_manager.cpp:404
+msgid "Lua"
+msgstr ""
+
+#: src/general_report_manager.cpp:405
+#, fuzzy
+msgid "Template"
+msgstr "வார்ப்புருவை ஏற்று"
+
+#: src/general_report_manager.cpp:440
+msgid "&Test"
+msgstr ""
+
+#: src/general_report_manager.cpp:441
+#, fuzzy
+msgid "Create Template"
+msgstr "வார்ப்புருவாக சேமி"
+
+#: src/general_report_manager.cpp:487
+#, c-format
+msgid "Row(s) returned: %i  Duration: %ld ms"
+msgstr ""
+
+#: src/general_report_manager.cpp:511
+msgid "SQL Syntax Error"
+msgstr ""
+
+#: src/general_report_manager.cpp:540
+#, fuzzy
+msgid "Load report file:"
+msgstr "இறக்கு கோப்பு"
+
+#: src/general_report_manager.cpp:605
+#, fuzzy, c-format
+msgid ""
+"Unable to open file:\n"
+"%s\n"
+"\n"
+msgstr "கோப்பை திறக்க முடியவில்லை."
+
+#: src/general_report_manager.cpp:668
+#, fuzzy
+msgid "New Empty Report"
+msgstr "தனி SQL அறிக்கை"
+
+#: src/general_report_manager.cpp:669
+#, fuzzy
+msgid "New Sample Report"
+msgstr "தனி SQL அறிக்கை"
+
+#: src/general_report_manager.cpp:672
+msgid "Change Group"
+msgstr ""
+
+#: src/general_report_manager.cpp:674
+msgid "Rename Group"
+msgstr ""
+
+#: src/general_report_manager.cpp:675
+msgid "UnGroup"
+msgstr ""
+
+#: src/general_report_manager.cpp:676
+#, fuzzy
+msgid "Rename Report"
+msgstr "பெறுநர் "
+
+#: src/general_report_manager.cpp:678
+#, fuzzy
+msgid "Delete Report"
+msgstr "தனி SQL அறிக்கை"
+
+#: src/general_report_manager.cpp:774 src/general_report_manager.cpp:916
+#, fuzzy
+msgid "Enter the name for the report"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/general_report_manager.cpp:775 src/general_report_manager.cpp:917
+#: src/mmframe.cpp:1141 src/mmframe.cpp:1504 src/mmframe.cpp:1618
+#, fuzzy
+msgid "General Report Manager"
+msgstr "தனி SQL அறிக்கை"
+
+#: src/general_report_manager.cpp:793
+#, fuzzy
+msgid "Delete the Report Title:"
+msgstr "இறக்கு கோப்பு"
+
+#: src/general_report_manager.cpp:822 src/general_report_manager.cpp:900
+msgid "Enter or choose name for the new report group"
+msgstr ""
+
+#: src/general_report_manager.cpp:823
+msgid "Change report group"
+msgstr ""
+
+#: src/general_report_manager.cpp:839
+msgid "Enter or choose name for the new group"
+msgstr ""
+
+#: src/general_report_manager.cpp:840
+msgid "Rename group"
+msgstr ""
+
+#: src/general_report_manager.cpp:901
+msgid "Add Report Group"
+msgstr ""
+
+#: src/general_report_manager.cpp:914
+#, fuzzy, c-format
+msgid "New Report %s"
+msgstr "பெறுநர் "
+
+#: src/general_report_manager.cpp:925
+#, fuzzy
+msgid "New Report"
+msgstr "அறிக்கை"
+
+#: src/general_report_manager.cpp:956
+#, fuzzy
+msgid "Choose file to Save As Report"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/import_export/qif_export.cpp:39 src/import_export/qif_export.cpp:228
+#: src/import_export/qif_export.cpp:313
+#, fuzzy
+msgid "QIF Export"
+msgstr "QIF இறக்கு"
+
+#: src/import_export/qif_export.cpp:92
+#, fuzzy
+msgid "Parameters"
+msgstr "பெறுநர்"
+
+#: src/import_export/qif_export.cpp:97 src/import_export/qif_import_gui.cpp:193
+#, fuzzy
+msgid "Log"
+msgstr "பட்ஜெட்"
+
+#: src/import_export/qif_export.cpp:104
+msgid "QIF"
+msgstr ""
+
+#: src/import_export/qif_export.cpp:104
+msgid "CSV"
+msgstr ""
+
+#: src/import_export/qif_export.cpp:121 src/mmframe.cpp:2498 src/mmframe.cpp:2502
+#: src/mmframe.cpp:2521 src/mmframe.cpp:2525
+msgid "Accounts"
+msgstr "கணக்குகள்"
+
+#: src/import_export/qif_export.cpp:132 src/import_export/qif_import_gui.cpp:171
+#, fuzzy
+msgid "From Date"
+msgstr "ஆரம்ப தேதி: "
+
+#: src/import_export/qif_export.cpp:141 src/import_export/qif_import_gui.cpp:180
+#, fuzzy
+msgid "To Date"
+msgstr "தேதி"
+
+#: src/import_export/qif_export.cpp:154 src/import_export/qif_import_gui.cpp:137
+#: src/mmOptionGeneralSettings.cpp:110
+msgid "Date Format"
+msgstr "தேதி வடிவம்"
+
+#: src/import_export/qif_export.cpp:166
+msgid "Write to File"
+msgstr ""
+
+#: src/import_export/qif_export.cpp:169 src/import_export/qif_import_gui.cpp:121
+#: src/import_export/univcsvdialog.cpp:138
+#, fuzzy
+msgid "File Name:"
+msgstr "அலகு பெயர்"
+
+#: src/import_export/qif_export.cpp:170 src/import_export/qif_import_gui.cpp:122
+msgid "Choose &file"
+msgstr ""
+
+#: src/import_export/qif_export.cpp:192 src/import_export/univcsvdialog.cpp:340
+msgid "Clear"
+msgstr ""
+
+#: src/import_export/qif_export.cpp:227
+msgid "Choose Account to Export from:"
+msgstr "ஏற்றிடும் கணக்கை தேர்ந்தெடு:"
+
+#: src/import_export/qif_export.cpp:273 src/import_export/qif_import_gui.cpp:616
+#, fuzzy
+msgid "QIF Files"
+msgstr "&QIF கோப்புகள்"
+
+#: src/import_export/qif_export.cpp:273 src/import_export/univcsvdialog.cpp:1192
+#, fuzzy
+msgid "CSV Files"
+msgstr "&CSV கோப்புகள்"
+
+#: src/import_export/qif_export.cpp:276
+#, fuzzy
+msgid "Choose QIF data file to Export"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/import_export/qif_export.cpp:277 src/import_export/univcsvdialog.cpp:153
+#: src/import_export/univcsvdialog.cpp:1190
+msgid "Choose CSV data file to Export"
+msgstr "ஏற்றிடும் CSV தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/import_export/qif_export.cpp:293
+#, fuzzy
+msgid "No Account available for export"
+msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#: src/import_export/qif_export.cpp:297
+#, fuzzy
+msgid "No Accounts selected for export"
+msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#: src/import_export/qif_export.cpp:301
+#, fuzzy
+msgid "File name is empty"
+msgstr "காலியான தேதி, "
+
+#: src/import_export/qif_export.cpp:305
+msgid "To Date less than From Date"
+msgstr ""
+
+#: src/import_export/qif_export.cpp:389
+#, fuzzy
+msgid "Categories exported"
+msgstr "வகை "
+
+#: src/import_export/qif_export.cpp:397 src/import_export/qif_import_gui.cpp:303
+#: src/import_export/qif_import_gui.cpp:681
+#, fuzzy
+msgid "Please wait"
+msgstr "தயவு செய்து காத்திருக்கவும்"
+
+#: src/import_export/qif_export.cpp:397
+#, fuzzy
+msgid "Exporting"
+msgstr "&ஏற்று"
+
+#: src/import_export/qif_export.cpp:417
+#, fuzzy, c-format
+msgid "Exporting transaction %i"
+msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/import_export/qif_export.cpp:467
+#, fuzzy, c-format
+msgid "Number of transactions exported: %ld"
+msgstr "பரிமாற்ற அறிக்கை"
+
+#: src/import_export/qif_export.cpp:468 src/mmframe.cpp:1361
+#, fuzzy
+msgid "Export to QIF"
+msgstr "CSVக்கு ஏற்று"
+
+#: src/import_export/qif_import_gui.cpp:76 src/import_export/qif_import_gui.cpp:756
+msgid "QIF Import"
+msgstr "QIF இறக்கு"
+
+#: src/import_export/qif_import_gui.cpp:165
+#, fuzzy
+msgid "Filtering Details:"
+msgstr "பெறுநர் "
+
+#: src/import_export/qif_import_gui.cpp:202
+msgid "Data"
+msgstr ""
+
+#: src/import_export/qif_import_gui.cpp:297 src/import_export/qif_import_gui.cpp:439
+#: src/import_export/qif_import_gui.cpp:901 src/import_export/univcsvdialog.cpp:499
+#: src/import_export/univcsvdialog.cpp:559 src/import_export/univcsvdialog.cpp:563
+#: src/import_export/univcsvdialog.cpp:583 src/import_export/univcsvdialog.cpp:589
+#: src/webapp.cpp:391 src/webapp.cpp:395
+msgid "Unknown"
+msgstr "தெரியாத"
+
+#: src/import_export/qif_import_gui.cpp:303
+#, fuzzy
+msgid "Scanning"
+msgstr "எச்சரிக்கை"
+
+#: src/import_export/qif_import_gui.cpp:321
+#, c-format
+msgid "Reading line %i, %ld ms"
+msgstr ""
+
+#: src/import_export/qif_import_gui.cpp:327
+#, fuzzy, c-format
+msgid "Line %i \t %s\n"
+msgstr "வரி : "
+
+#: src/import_export/qif_import_gui.cpp:383
+#, fuzzy, c-format
+msgid "Number of lines read from QIF file: %i in %ld ms"
+msgstr "பரிமாற்ற அறிக்கை"
+
+#: src/import_export/qif_import_gui.cpp:386
+msgid "Press OK Button to continue"
+msgstr ""
+
+#: src/import_export/qif_import_gui.cpp:527 src/import_export/qif_import_gui.cpp:546
+#: src/import_export/qif_import_gui.cpp:563
+msgid "OK"
+msgstr "சரி"
+
+#: src/import_export/qif_import_gui.cpp:529
+#, fuzzy
+msgid "Warning"
+msgstr "எச்சரிக்கை"
+
+#: src/import_export/qif_import_gui.cpp:532 src/import_export/qif_import_gui.cpp:546
+#, fuzzy
+msgid "Missing"
+msgstr "வங்கிக் கணக்குகள்"
+
+#: src/import_export/qif_import_gui.cpp:617
+#, fuzzy
+msgid "Choose QIF data file to Import"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/import_export/qif_import_gui.cpp:674
+#, fuzzy
+msgid "Do you want to import all transaction ?"
+msgstr "நிஜமாய் பார்வையிலுள்ள அனைத்து பரிமாற்றங்களையும் அழிக்க விருப்பமா?"
+
+#: src/import_export/qif_import_gui.cpp:675
+msgid "All missing account, payees and categories will be created."
+msgstr ""
+
+#: src/import_export/qif_import_gui.cpp:676
+#, fuzzy
+msgid "Confirm Import"
+msgstr "QIF இறக்கு உறுதி செய்"
+
+#: src/import_export/qif_import_gui.cpp:681
+#, fuzzy
+msgid "Importing"
+msgstr "CSVலிருந்து இறக்கு "
+
+#: src/import_export/qif_import_gui.cpp:683
+#, fuzzy
+msgid "Importing Accounts"
+msgstr "இறக்கிடும் கணக்கு வகை"
+
+#: src/import_export/qif_import_gui.cpp:689
+#, fuzzy
+msgid "Importing Payees"
+msgstr "CSVலிருந்து இறக்கு "
+
+#: src/import_export/qif_import_gui.cpp:692
+#, fuzzy
+msgid "Importing Categories"
+msgstr "வகை ஒழுங்கிடு"
+
+#: src/import_export/qif_import_gui.cpp:707
+#, fuzzy, c-format
+msgid "Importing transaction %i of %i"
+msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#: src/import_export/qif_import_gui.cpp:738
+#, fuzzy
+msgid "Importing Transfers"
+msgstr "CSVலிருந்து இறக்கு "
+
+#: src/import_export/qif_import_gui.cpp:742
+#, fuzzy
+msgid "Importing Split transactions"
+msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/import_export/qif_import_gui.cpp:746
+msgid "Import finished successfully"
+msgstr ""
+
+#: src/import_export/qif_import_gui.cpp:754 src/import_export/univcsvdialog.cpp:764
+msgid "Imported transactions discarded by user!"
+msgstr ""
+
+#: src/import_export/qif_import_gui.cpp:950
+#, fuzzy, c-format
+msgid "Added account: %s"
+msgstr "தொகை "
+
+#: src/import_export/qif_import_gui.cpp:981 src/import_export/univcsvdialog.cpp:567
+#, fuzzy, c-format
+msgid "Added payee: %s"
+msgstr "வகை"
+
+#: src/import_export/univcsvdialog.cpp:78
+msgid "Amount(+/-)"
+msgstr "தொகை(+/-)"
+
+#: src/import_export/univcsvdialog.cpp:80
+msgid "SubCategory"
+msgstr "துணைவகை"
+
+#: src/import_export/univcsvdialog.cpp:83
+msgid "Don't Care"
+msgstr "கவலையில்லை"
+
+#: src/import_export/univcsvdialog.cpp:86 src/mmcheckingpanel.cpp:984
+#: src/mmhomepagepanel.cpp:688 src/reports/summary.cpp:135 src/reports/summary.cpp:137
+#: src/reports/summary.cpp:227
+msgid "Balance"
+msgstr "இருப்பு"
+
+#: src/import_export/univcsvdialog.cpp:150
+#, fuzzy
+msgid "&Search"
+msgstr "மார்ச்"
+
+#: src/import_export/univcsvdialog.cpp:153
+#, fuzzy
+msgid "Choose CSV data file to Import"
+msgstr "ஏற்றிடும் CSV தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/import_export/univcsvdialog.cpp:176
+#, fuzzy
+msgid "Save Template"
+msgstr "வார்ப்புருவாக சேமி"
+
+#: src/import_export/univcsvdialog.cpp:180
+msgid "Specify the order of fields in the CSV file"
+msgstr "CSV கோப்பில் தலைப்பு வரிசையை குறிப்பிடு"
+
+#: src/import_export/univcsvdialog.cpp:211
+msgid "&MMEX format"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:213
+msgid "MMEX standard format"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:229
+#, fuzzy
+msgid "&Up"
+msgstr "புதுப்பி"
+
+#: src/import_export/univcsvdialog.cpp:231
+#, fuzzy
+msgid "Move Up"
+msgstr "மேலே நகர்த்து"
+
+#: src/import_export/univcsvdialog.cpp:234
+#, fuzzy
+msgid "&Down"
+msgstr "கீழே நகர்த்து"
+
+#: src/import_export/univcsvdialog.cpp:236
+#, fuzzy
+msgid "Move &Down"
+msgstr "கீழே நகர்த்து"
+
+#: src/import_export/univcsvdialog.cpp:250
+#, fuzzy
+msgid "Account: "
+msgstr "கணக்குகள்"
+
+#: src/import_export/univcsvdialog.cpp:263
+#, fuzzy
+msgid "Date Format: "
+msgstr "தேதி வடிவம்"
+
+#: src/import_export/univcsvdialog.cpp:275
+msgid "Comma"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:275
+msgid "Semicolon"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:275
+msgid "TAB"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:275 src/mmOptionAttachmentSettings.cpp:184
+msgid "User Defined"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:281 src/mmOptionMiscSettings.cpp:165
+msgid "Specify the delimiter to use when importing/exporting CSV files"
+msgstr "CSV கோப்பு இறக்கும்/ஏற்றும் போது பயன்படும் எல்லைக்குறியீட்டை குறிப்பிடு"
+
+#: src/import_export/univcsvdialog.cpp:288
+msgid "CSV Delimiter"
+msgstr "CSV எல்லைக்குறி"
+
+#: src/import_export/univcsvdialog.cpp:298
+msgid "Preview"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:317
+#, fuzzy
+msgid "Import File"
+msgstr "இறக்கு கோப்பு"
+
+#: src/import_export/univcsvdialog.cpp:324
+#, fuzzy
+msgid "Export File"
+msgstr "இறக்கு கோப்பு"
+
+#: src/import_export/univcsvdialog.cpp:604
+#, fuzzy
+msgid "Incorrect fields specified for CSV import! Requires at least Date and Amount."
+msgstr "தவறான CSV தலைப்பு குறிப்பிடப்பட்டுள்ளது! தேதி,தொகை,பெறுநர் மட்டுமாவது தேவை. "
+
+#: src/import_export/univcsvdialog.cpp:605 src/import_export/univcsvdialog.cpp:644
+#: src/import_export/univcsvdialog.cpp:953 src/mmframe.cpp:2069
+#, fuzzy
+msgid "Universal CSV Import"
+msgstr "பொது CSV இறக்கு சாளரம்"
+
+#: src/import_export/univcsvdialog.cpp:645
+#, fuzzy
+msgid "Transactions imported from CSV: "
+msgstr " பரிமாற்றங்கள் QIFலிருந்து இறக்கப்பட்டது"
+
+#: src/import_export/univcsvdialog.cpp:652
+#, fuzzy, c-format
+msgid ""
+"Transactions imported from CSV\n"
+"to account %s : %ld"
+msgstr " பரிமாற்றங்கள் QIFலிருந்து இறக்கப்பட்டது"
+
+#: src/import_export/univcsvdialog.cpp:679 src/import_export/univcsvdialog.cpp:681
+#: src/import_export/univcsvdialog.cpp:701 src/import_export/univcsvdialog.cpp:703
+#, fuzzy, c-format
+msgid "Line: %ld"
+msgstr "வரி : "
+
+#: src/import_export/univcsvdialog.cpp:680 src/import_export/univcsvdialog.cpp:682
+msgid " file contains insufficient number of tokens"
+msgstr "கோப்பில் தேவையான அளவு தகவல் இல்லை"
+
+#: src/import_export/univcsvdialog.cpp:702 src/import_export/univcsvdialog.cpp:704
+#, fuzzy
+msgid " One of the following fields: Date, Amount, Type is missing, skipping"
+msgstr "பின்வரும் தலைப்புகளுள் ஏதோ ஒன்று இல்லை: தேதி,பெறுநர்,தொகை,வகை - தவிர்க்கப்பட்டது."
+
+#: src/import_export/univcsvdialog.cpp:728 src/import_export/univcsvdialog.cpp:729
+#, fuzzy, c-format
+msgid "Line : %ld imported OK."
+msgstr "தகவல் சரியாய் இறக்கப்பட்டது"
+
+#: src/import_export/univcsvdialog.cpp:734 src/stockdialog.cpp:599
+#, fuzzy, c-format
+msgid "Total Lines : %ld"
+msgstr "மொத்த சொத்துக்கள்:"
+
+#: src/import_export/univcsvdialog.cpp:736 src/stockdialog.cpp:601
+#, fuzzy, c-format
+msgid "Total Imported : %ld"
+msgstr "மொத்த தொகை: "
+
+#: src/import_export/univcsvdialog.cpp:738
+#, c-format
+msgid "Log file written to : %s"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:741 src/stockdialog.cpp:607
+#, fuzzy
+msgid "Please confirm saving..."
+msgstr "தயவு செய்து காத்திருக்கவும்"
+
+#: src/import_export/univcsvdialog.cpp:743 src/stockdialog.cpp:609
+#, fuzzy
+msgid "Importing CSV"
+msgstr "CSVலிருந்து இறக்கு "
+
+#: src/import_export/univcsvdialog.cpp:747
+#, fuzzy
+msgid "Imported transactions have been flagged so you can review them."
+msgstr ""
+"மொத்த வரிகள் : %d\n"
+"மொத்த இறக்கம் : %d\n"
+"குறிப்பு கோப்பு : %s \n"
+"\n"
+"இறக்கப்பட்ட பரிமாற்றங்கள் உங்கள் பார்வைக்காக குறிக்கப்பட்டன. "
+
+#: src/import_export/univcsvdialog.cpp:758
+msgid "Transactions saved to database in account: "
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:784
+#, fuzzy
+msgid "Incorrect fields specified for CSV export! Requires at least Date and Amount."
+msgstr "தவறான CSV தலைப்பு குறிப்பிடப்பட்டுள்ளது! தேதி,தொகை,பெறுநர் மட்டுமாவது தேவை. "
+
+#: src/import_export/univcsvdialog.cpp:785
+#, fuzzy
+msgid "Universal CSV Export"
+msgstr "பொது CSV இறக்கு சாளரம்"
+
+#: src/import_export/univcsvdialog.cpp:798
+msgid "Overwrite?"
+msgstr ""
+
+#: src/import_export/univcsvdialog.cpp:798
+#, fuzzy
+msgid "File exists."
+msgstr "காலியான தேதி, "
+
+#: src/import_export/univcsvdialog.cpp:916
+#, fuzzy, c-format
+msgid "Transactions exported: %ld"
+msgstr "பரிமாற்ற அறிக்கை"
+
+#: src/import_export/univcsvdialog.cpp:917 src/mmframe.cpp:1360
+msgid "Export to CSV"
+msgstr "CSVக்கு ஏற்று"
+
+#: src/import_export/univcsvdialog.cpp:953 src/import_export/univcsvdialog.cpp:1207
+#: src/mmSimpleDialogs.cpp:215
+msgid "Unable to open file."
+msgstr "கோப்பை திறக்க முடியவில்லை."
+
+#: src/import_export/univcsvdialog.cpp:1190 src/stockdialog.cpp:515
+#, fuzzy
+msgid "Choose CSV data file to import"
+msgstr "ஏற்றிடும் CSV தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/maincurrencydialog.cpp:59 src/reports/summarystocks.cpp:184 src/stockdialog.cpp:188
+#: src/stockdialog.cpp:399
+msgid "Symbol"
+msgstr "குறீயீடு"
+
+#: src/maincurrencydialog.cpp:61
+#, fuzzy
+msgid "Base Rate"
+msgstr "தேதி"
+
+#: src/maincurrencydialog.cpp:65 src/maincurrencydialog.cpp:246
+#: src/maincurrencydialog.cpp:251
+msgid "Currency Dialog"
+msgstr "நாணயத்தின் பெயர்"
+
+#: src/maincurrencydialog.cpp:140
+msgid "Online update currency rate"
+msgstr ""
+
+#: src/maincurrencydialog.cpp:144
+#, fuzzy
+msgid "Online Update"
+msgstr "புதுப்பிக்க சோதி"
+
+#: src/maincurrencydialog.cpp:149
+msgid "Show all even the unused currencies"
+msgstr ""
+
+#: src/maincurrencydialog.cpp:245
+msgid ""
+"Attempt to delete a currency being used by an account\n"
+" or as the base currency."
+msgstr ""
+
+#: src/maincurrencydialog.cpp:250
+#, fuzzy
+msgid "Do you really want to delete the selected Currency?"
+msgstr "நிஜமாய் இந்த பரிமாற்றத்தை அழிக்க விருப்பமா?"
+
+#: src/maincurrencydialog.cpp:352
+msgid "Could not find base currency symbol!"
+msgstr ""
+
+#: src/maincurrencydialog.cpp:400 src/maincurrencydialog.cpp:428
+#, fuzzy
+msgid "Currency rate updated"
+msgstr "நாணய மேலாண்மை"
+
+#: src/maincurrencydialog.cpp:412
+#, c-format
+msgid "%s\t: %0.4f -> %0.4f\n"
+msgstr ""
+
+#: src/maincurrencydialog.cpp:421
+#, c-format
+msgid "%s\t: %s\n"
+msgstr ""
+
+#: src/maincurrencydialog.cpp:421
+#, fuzzy
+msgid "Invalid value "
+msgstr "செல்லாது "
+
+#: src/maincurrencydialog.cpp:470
+#, fuzzy
+msgid "Set as Base Currency"
+msgstr "அடிப்படை நாணயம்"
+
+#: src/maincurrencydialog.cpp:471
+#, fuzzy
+msgid "Online Update Currency Rate"
+msgstr "அடிப்படை நாணயம் அமைக்கப்படவில்லை"
+
+#: src/mmOptionAttachmentSettings.cpp:57
+#, fuzzy
+msgid "Attachments Settings"
+msgstr "பொது அமைப்புகள்"
+
+#: src/mmOptionAttachmentSettings.cpp:64
+#, c-format
+msgid "Attachment archive folder for %s only:"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:68
+msgid "Every OS type (Win,Mac,Unix) has its attachment folder"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:84
+msgid "Browse for folder"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:91 src/mmOptionAttachmentSettings.cpp:231
+msgid "Real path:"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:96
+#, fuzzy
+msgid "Legend "
+msgstr "பொருள்:"
+
+#: src/mmOptionAttachmentSettings.cpp:101
+#, c-format
+msgid "%s -> User document directory"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:102
+#, c-format
+msgid "%s -> User profile folder"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:103
+#, c-format
+msgid "%s -> Folder of.MMB database file"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:104
+#, c-format
+msgid "%s -> MMEX Application data folder"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:110
+msgid "Other OS folders "
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:115
+msgid "Not yet set"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:123
+msgid "Windows folder -> "
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:131
+msgid "Mac folder -> "
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:139
+msgid "Unix folder -> "
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:149
+#, fuzzy
+msgid "Create and use Attachments subfolder"
+msgstr "கோப்பில் எழுத முடியவில்லை"
+
+#: src/mmOptionAttachmentSettings.cpp:161
+msgid "Delete file after import"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:163
+msgid "Select to delete file after import in attachments archive"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:167
+msgid "When remove attachment, move file instead of delete"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:169
+msgid ""
+"Select to don't delete file when attachment is removed, but instead move it to 'Deleted' "
+"subfolder"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:176
+msgid "System documents directory"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:178
+msgid "Application data directory"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:180
+#, fuzzy
+msgid "Database file directory"
+msgstr "தகவல்தளத்தை &வேறாக சேமி "
+
+#: src/mmOptionAttachmentSettings.cpp:182
+msgid "Dropbox folder"
+msgstr ""
+
+#: src/mmOptionAttachmentSettings.cpp:209
+msgid "Choose folder to set as attachments archive"
+msgstr ""
+
+#: src/mmOptionGeneralSettings.cpp:64
+#, fuzzy
+msgid "Display Heading"
+msgstr "காட்டு"
+
+#: src/mmOptionGeneralSettings.cpp:69 src/wizard_newdb.cpp:137
+msgid "User Name"
+msgstr "பயனர் பெயர்"
+
+#: src/mmOptionGeneralSettings.cpp:74
+msgid "The User Name is used as a title for the database."
+msgstr ""
+
+#: src/mmOptionGeneralSettings.cpp:79
+msgid "Language"
+msgstr "மொழி"
+
+#: src/mmOptionGeneralSettings.cpp:88
+msgid "Specify the language to use"
+msgstr "பயன்பாட்டு மொழியைக் குறிப்பிடு"
+
+#: src/mmOptionGeneralSettings.cpp:98
+msgid "Base Currency"
+msgstr "அடிப்படை நாணயம்"
+
+#: src/mmOptionGeneralSettings.cpp:100 src/wizard_newdb.cpp:108
+msgid "Set Currency"
+msgstr "நாணயத்தை அமை"
+
+#: src/mmOptionGeneralSettings.cpp:106
+#, fuzzy
+msgid "Sets the default currency for the database."
+msgstr "இக்கணக்கில் பயன்படும் நாணயத்தை குறிப்பிடு"
+
+#: src/mmOptionGeneralSettings.cpp:122
+msgid "Specify the date format for display"
+msgstr "காட்டும் தேதி வடிவை குறிப்பிடு"
+
+#: src/mmOptionGeneralSettings.cpp:127
+msgid "New date format sample:"
+msgstr ""
+
+#: src/mmOptionGeneralSettings.cpp:132
+#, fuzzy
+msgid "Financial Year"
+msgstr "கடந்த ஆண்டு"
+
+#: src/mmOptionGeneralSettings.cpp:139
+#, fuzzy
+msgid "Start Day"
+msgstr "செயலி துவக்க சாளரம்"
+
+#: src/mmOptionGeneralSettings.cpp:145
+msgid "Specify Day for start of financial year"
+msgstr ""
+
+#: src/mmOptionGeneralSettings.cpp:149
+#, fuzzy
+msgid "Start Month"
+msgstr "இந்த மாதம்"
+
+#: src/mmOptionGeneralSettings.cpp:161
+#, fuzzy
+msgid "Specify month for start of financial year"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/mmOptionGeneralSettings.cpp:166
+msgid "Use Original Date when Pasting Transactions"
+msgstr "பரிமாற்றங்களை ஒட்டும் போது அசல் தேதியை பயன்படுத்து"
+
+#: src/mmOptionGeneralSettings.cpp:168
+msgid ""
+"Select whether to use the original transaction date or current date when copying/pasting "
+"transactions"
+msgstr "நகல்/ஒட்டும் போது பயன்படுத்த பரிமாற்ற தேதியா அல்லது இன்றைய தேதியா என தேர்ந்தெடு"
+
+#: src/mmOptionGeneralSettings.cpp:171
+msgid "Use Transaction Sound"
+msgstr "பரிமாற்ற ஒலியைப் பயன்படுத்து"
+
+#: src/mmOptionGeneralSettings.cpp:173
+msgid "Select whether to use sounds when entering transactions"
+msgstr "பரிமாற்றங்களின் போது ஒலியை பயன்படுத்த வேண்டுமா  என குறிப்பிடு"
+
+#: src/mmOptionGeneralSettings.cpp:188
+#, fuzzy
+msgid "Remember to update currency rate"
+msgstr "அடிப்படை நாணயம் அமைக்கப்படவில்லை"
+
+#: src/mmOptionGeneralSettings.cpp:188
+#, fuzzy
+msgid "Important note"
+msgstr "இறக்கு கோப்பு"
+
+#: src/mmOptionMiscSettings.cpp:54
+msgid "Stock Quote Web Page"
+msgstr "பங்கு விலை வலைப்பக்கம்"
+
+#: src/mmOptionMiscSettings.cpp:63
+msgid "Clear the field to Reset the value to system default."
+msgstr ""
+
+#: src/mmOptionMiscSettings.cpp:67
+#, fuzzy
+msgid "New Transaction Dialog Settings"
+msgstr "பரிமாற்றப் பிரிவு சாளரம்"
+
+#: src/mmOptionMiscSettings.cpp:75
+#, fuzzy
+msgid "Last Used"
+msgstr "கடந்த ஆண்டு"
+
+#: src/mmOptionMiscSettings.cpp:87
+msgid "Last used for payee"
+msgstr ""
+
+#: src/mmOptionMiscSettings.cpp:105
+#, fuzzy
+msgid "Default Date:"
+msgstr "பெறுநரை தேர்ந்தெடு"
+
+#: src/mmOptionMiscSettings.cpp:107
+#, fuzzy
+msgid "Default Payee:"
+msgstr "பெறுநரை தேர்ந்தெடு"
+
+#: src/mmOptionMiscSettings.cpp:109
+#, fuzzy
+msgid "Default Category:"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/mmOptionMiscSettings.cpp:111
+#, fuzzy
+msgid "Default Status:"
+msgstr "கணக்கு நிலை:"
+
+#: src/mmOptionMiscSettings.cpp:122
+#, fuzzy
+msgid "Database Backup"
+msgstr "ஒரு தகவல்தளமும் திறக்கபடவில்லை"
+
+#: src/mmOptionMiscSettings.cpp:129
+#, fuzzy
+msgid "Create a new backup when MMEX Start"
+msgstr "புது தகவல் கோப்பை உருவாக்கி ஆரம்பி"
+
+#: src/mmOptionMiscSettings.cpp:131
+msgid ""
+"When MMEX Starts,\n"
+"creates the backup database: dbFile_start_YYYY-MM-DD.ext."
+msgstr ""
+
+#: src/mmOptionMiscSettings.cpp:135
+msgid "Backup database on exit."
+msgstr ""
+
+#: src/mmOptionMiscSettings.cpp:137
+msgid ""
+"When MMEX shuts down and changes made to database,\n"
+"creates or updates the backup database: dbFile_update_YYYY-MM-DD.ext."
+msgstr ""
+
+#: src/mmOptionMiscSettings.cpp:144
+msgid "Specify max number of backup files"
+msgstr ""
+
+#: src/mmOptionMiscSettings.cpp:147
+#, fuzzy
+msgid "Max Files"
+msgstr "&CSV கோப்புகள்"
+
+#: src/mmOptionMiscSettings.cpp:154
+#, fuzzy
+msgid "CSV Settings"
+msgstr "அமைப்புகள்"
+
+#: src/mmOptionMiscSettings.cpp:162
+#, fuzzy
+msgid "Delimiter"
+msgstr "CSV எல்லைக்குறி"
+
+#: src/mmOptionNetSettings.cpp:52
+#, fuzzy
+msgid "WebApp Settings"
+msgstr "அமைப்புகள்"
+
+#: src/mmOptionNetSettings.cpp:59
+msgid "Url"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:63
+msgid "Specify the Web App URL without final slash"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:66
+msgid "GUID"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:70
+msgid "Specify the Web App GUID"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:74
+#, fuzzy
+msgid "Proxy Settings"
+msgstr "அமைப்புகள்"
+
+#: src/mmOptionNetSettings.cpp:82
+#, fuzzy
+msgid "Specify the proxy IP address"
+msgstr "பயனர் பெயரைக் குறிப்பிடு"
+
+#: src/mmOptionNetSettings.cpp:88
+#, fuzzy
+msgid "Specify proxy port number"
+msgstr "எண்ணை குறிப்பிடு"
+
+#: src/mmOptionNetSettings.cpp:91
+msgid "Proxy"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:93 src/mmOptionNetSettings.cpp:117
+msgid "Port"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:99
+#, fuzzy
+msgid "Web Server"
+msgstr "யாஹூ வழங்கி"
+
+#: src/mmOptionNetSettings.cpp:105
+msgid "Enable"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:107
+msgid "Enable internal web server when MMEX Starts."
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:113
+#, fuzzy
+msgid "Specify web server port number"
+msgstr "எண்ணை குறிப்பிடு"
+
+#: src/mmOptionNetSettings.cpp:123
+#, fuzzy
+msgid "Usage statistics"
+msgstr "பரிமாற்றப் புள்ளிவிவரம்"
+
+#: src/mmOptionNetSettings.cpp:129
+msgid "Send anonymous statistics usage data"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:131
+msgid "Enable to help us sending anonymous data about MMEX usage."
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:136
+msgid "Timeout"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:145
+msgid "Specify a network communication timeout value to use."
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:148
+msgid "Seconds"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:154
+#, fuzzy
+msgid "Updates"
+msgstr "புதுப்பி"
+
+#: src/mmOptionNetSettings.cpp:160
+#, fuzzy
+msgid "Check for updates at StartUp"
+msgstr "&புதுப்பிக்க சோதி"
+
+#: src/mmOptionNetSettings.cpp:162
+msgid "Enable to automatically check if new MMEX version is available at StartUp"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:169
+msgid "Stable"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:170
+msgid "Unstable"
+msgstr ""
+
+#: src/mmOptionNetSettings.cpp:174
+#, fuzzy
+msgid "Updates source:"
+msgstr "அடிப்படை நாணயம் அமைக்கப்படவில்லை"
+
+#: src/mmOptionViewSettings.cpp:53 src/optionsdialog.cpp:130
+msgid "View Options"
+msgstr "விருப்பங்களை பார்"
+
+#: src/mmOptionViewSettings.cpp:61 src/mmframe.cpp:1175
+msgid "Accounts Visible"
+msgstr "தெரியும் கணக்குகள்"
+
+#: src/mmOptionViewSettings.cpp:75
+msgid "Specify which accounts are visible"
+msgstr "காட்சியில் தெரியும் கணக்குகளை குறிப்பிடு"
+
+#: src/mmOptionViewSettings.cpp:77
+msgid "Transactions Visible"
+msgstr "பார்வையிலுள்ள பறிமாற்றங்கள்"
+
+#: src/mmOptionViewSettings.cpp:99
+msgid "Specify which transactions are visible by default"
+msgstr "காட்சியில் தெரியும் பரிமாற்றங்களை குறிப்பிடு"
+
+#: src/mmOptionViewSettings.cpp:101
+msgid "Report Font Size"
+msgstr "அறிக்கை எழுத்தளவு"
+
+#: src/mmOptionViewSettings.cpp:104
+msgid "XSmall"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:105
+msgid "Small"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:106
+msgid "Normal"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:107
+msgid "Large"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:108
+msgid "XLarge"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:109
+msgid "XXLarge"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:110
+msgid "Huge"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:120
+msgid "Specify which font size is used on the report tables"
+msgstr "அறிக்கைப் பட்டியலின் எழுத்துரு அளவை குறிப்பிடு"
+
+#: src/mmOptionViewSettings.cpp:124
+#, fuzzy
+msgid "View Budgets as Financial Years"
+msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#: src/mmOptionViewSettings.cpp:130
+#, fuzzy
+msgid "View Budgets with 'transfer' transactions"
+msgstr "நகல் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/mmOptionViewSettings.cpp:136
+msgid "View Budgets Setup Without Budget Summaries"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:142
+#, fuzzy
+msgid "View Budget Summary Report without Categories"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/mmOptionViewSettings.cpp:148
+#, fuzzy
+msgid "View Reports without Future Transactions"
+msgstr "சரிபார்க்கப்பட்ட பரிமாற்றங்களைப் பார்"
+
+#: src/mmOptionViewSettings.cpp:154
+#, fuzzy
+msgid "User Colors"
+msgstr "வண்ணங்கள்"
+
+#: src/mmOptionViewSettings.cpp:160
+msgid "1"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:164
+msgid "2"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:168
+msgid "3"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:172
+msgid "4"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:176
+msgid "5"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:180
+msgid "6"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:184
+msgid "7"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:188
+msgid "Display MMEX News on home page"
+msgstr ""
+
+#: src/mmOptionViewSettings.cpp:204 src/mmframe.cpp:1173 src/mmframe.cpp:1607
+#: src/model/Model_Account.cpp:24
+msgid "Open"
+msgstr "திற"
+
+#: src/mmOptionViewSettings.cpp:205 src/mmframe.cpp:1174
+msgid "Favorites"
+msgstr "விருப்பங்கள்"
+
+#: src/mmSimpleDialogs.cpp:152
+#, c-format
+msgid ""
+"Directory of language files does not exist:\n"
+"%s"
+msgstr ""
+
+#: src/mmSimpleDialogs.cpp:200
+#, fuzzy, c-format
+msgid "Entry %s is invalid"
+msgstr " செல்லாது."
+
+#: src/mmSimpleDialogs.cpp:201
+msgid "Invalid Entry"
+msgstr "உள்ளீடு செல்லாது"
+
+#: src/mmSimpleDialogs.cpp:206
+#, fuzzy
+msgid "Invalid Category"
+msgstr "தவறான வகை இடப்பட்டுள்ளது."
+
+#: src/mmSimpleDialogs.cpp:207
+msgid ""
+"Please use this button for category selection\n"
+"or use the 'Split' checkbox for multiple categories."
+msgstr ""
+
+#: src/mmSimpleDialogs.cpp:215
+#, fuzzy
+msgid "File name is empty."
+msgstr "காலியான தேதி, "
+
+#: src/mmSimpleDialogs.cpp:216
+#, fuzzy
+msgid "Please select the file for this operation."
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/mmSimpleDialogs.cpp:218
+msgid "Selection can be made by using Search button."
+msgstr ""
+
+#: src/mmSimpleDialogs.cpp:228
+#, fuzzy
+msgid "Invalid Account"
+msgstr "பெறுதல் தொகை செல்லாது"
+
+#: src/mmSimpleDialogs.cpp:231
+#, fuzzy
+msgid "Please select the account for this transaction."
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/mmSimpleDialogs.cpp:233
+#, fuzzy
+msgid "Please specify which account the transfer is going to."
+msgstr "எந்த கணக்கிலிருந்து இந்த பரிமாற்றம் நிகழ்கிறதெனக் குறிப்பிடு"
+
+#: src/mmSimpleDialogs.cpp:235
+msgid "Selection can be made by using the dropdown button."
+msgstr ""
+
+#: src/mmSimpleDialogs.cpp:245 src/mmcombobox.h:77
+#, fuzzy
+msgid "Invalid Payee"
+msgstr "செல்லாது "
+
+#: src/mmSimpleDialogs.cpp:246
+msgid ""
+"Please type in a new payee,\n"
+"or make a selection using the dropdown button."
+msgstr ""
+
+#: src/mmSimpleDialogs.cpp:255
+#, fuzzy
+msgid "Invalid Name"
+msgstr "செல்லாது "
+
+#: src/mmSimpleDialogs.cpp:256
+msgid "Please type in a non empty name."
+msgstr ""
+
+#: src/mmcheckingpanel.cpp:397 src/mmcheckingpanel.cpp:543
+#, fuzzy
+msgid "Displayed Bal: "
+msgstr "காட்டு"
+
+#: src/mmcheckingpanel.cpp:403
+#, fuzzy
+msgid "Account Bal: "
+msgstr "கணக்குகள்"
+
+#: src/mmcheckingpanel.cpp:405
+#, fuzzy
+msgid "Reconciled Bal: "
+msgstr "சரிபார்க்கப்பட்டது"
+
+#: src/mmcheckingpanel.cpp:407
+#, fuzzy
+msgid "Diff: "
+msgstr "வேறுபாடு:"
+
+#: src/mmcheckingpanel.cpp:470 src/mmframe.cpp:1622 src/transdialog.cpp:128
+msgid "New Transaction"
+msgstr "புதிய பரிமாற்றம்"
+
+#: src/mmcheckingpanel.cpp:474
+#, fuzzy
+msgid "Edit selected transaction"
+msgstr "பரிமாற்றத்தை அழி"
+
+#: src/mmcheckingpanel.cpp:479
+#, fuzzy
+msgid "Delete selected transaction"
+msgstr "குறிக்கப்பட்ட அனைத்து பரிமாற்றங்களையும் அழி"
+
+#: src/mmcheckingpanel.cpp:483
+#, fuzzy
+msgid "D&uplicate "
+msgstr "நகல்"
+
+#: src/mmcheckingpanel.cpp:484
+#, fuzzy
+msgid "Duplicate selected transaction"
+msgstr "குறிக்கப்பட்ட அனைத்து பரிமாற்றங்களையும் அழி"
+
+#: src/mmcheckingpanel.cpp:501
+msgid "Enter any string to find it in the nearest transaction notes"
+msgstr ""
+
+#: src/mmcheckingpanel.cpp:518
+#, fuzzy, c-format
+msgid "Account View : %s"
+msgstr "பார்வையிலுள்ள கணக்கு:"
+
+#: src/mmcheckingpanel.cpp:765
+#, fuzzy
+msgid "Select account used in transfer transactions"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/mmcheckingpanel.cpp:1060
+msgid "&New Transaction"
+msgstr "&புது பரிமாற்றம்"
+
+#: src/mmcheckingpanel.cpp:1063
+msgid "&Edit Transaction"
+msgstr "பரிமாற்றத்தை &மாற்று"
+
+#: src/mmcheckingpanel.cpp:1066
+msgid "&Copy Transaction"
+msgstr "&நகல் பரிமாற்றம்"
+
+#: src/mmcheckingpanel.cpp:1069
+msgid "&Paste Transaction"
+msgstr "&ஒட்டு பரிமாற்றம்"
+
+#: src/mmcheckingpanel.cpp:1072
+#, fuzzy
+msgid "D&uplicate Transaction"
+msgstr "நகல் பரிமாற்றங்களை பார்"
+
+#: src/mmcheckingpanel.cpp:1075
+#, fuzzy
+msgid "&Move Transaction"
+msgstr "&புது பரிமாற்றம்"
+
+#: src/mmcheckingpanel.cpp:1081
+#, fuzzy
+msgid "&View Split Categories"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/mmcheckingpanel.cpp:1089
+#, fuzzy
+msgid "Create Reoccuring T&ransaction"
+msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#: src/mmcheckingpanel.cpp:1094
+#, fuzzy
+msgid "Hide Deleted (Void)"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/mmcheckingpanel.cpp:1094
+#, fuzzy
+msgid "Show Deleted (Void)"
+msgstr "அழி"
+
+#: src/mmcheckingpanel.cpp:1098
+msgid "&Delete Transaction"
+msgstr "பரிமாற்றத்தை &அழி"
+
+#: src/mmcheckingpanel.cpp:1101
+msgid "Delete all transactions in current view"
+msgstr "பார்வையிலுள்ள அனைத்து பரிமாற்றங்களையும் அழி"
+
+#: src/mmcheckingpanel.cpp:1102
+#, fuzzy
+msgid "Delete Viewed \"Follow Up\" Trans."
+msgstr "எல்லா பரிமாற்றங்களையும் பார்"
+
+#: src/mmcheckingpanel.cpp:1103
+#, fuzzy
+msgid "Delete Viewed \"Unreconciled\" Trans."
+msgstr "எல்லா பரிமாற்றங்களையும் பார்"
+
+#: src/mmcheckingpanel.cpp:1108
+msgid "Mark As &Reconciled"
+msgstr "&சரிபார்க்கப்பட்டது என குறி"
+
+#: src/mmcheckingpanel.cpp:1110
+msgid "Mark As &Unreconciled"
+msgstr "&சரிபார்க்கப்படாததாக் குறி"
+
+#: src/mmcheckingpanel.cpp:1112
+msgid "Mark As &Void"
+msgstr "&செல்லாதது என குறி"
+
+#: src/mmcheckingpanel.cpp:1114
+msgid "Mark For &Followup"
+msgstr "&பின் தொடரக் குறி"
+
+#: src/mmcheckingpanel.cpp:1116
+msgid "Mark As &Duplicate"
+msgstr "&நகல் என குறி"
+
+#: src/mmcheckingpanel.cpp:1121
+msgid "as Reconciled"
+msgstr "சரிபார்க்கப்பட்டது என"
+
+#: src/mmcheckingpanel.cpp:1122
+msgid "as Unreconciled"
+msgstr "சரிபார்க்கப்படாதது என"
+
+#: src/mmcheckingpanel.cpp:1123
+msgid "as Void"
+msgstr "செல்லாதது என"
+
+#: src/mmcheckingpanel.cpp:1124
+msgid "as needing Followup"
+msgstr "பின் தொடர் என"
+
+#: src/mmcheckingpanel.cpp:1125
+msgid "as Duplicate"
+msgstr "நகலாக"
+
+#: src/mmcheckingpanel.cpp:1126
+#, fuzzy
+msgid "Mark all being viewed"
+msgstr "எல்லாவற்றையும் குறி"
+
+#: src/mmcheckingpanel.cpp:1191
+msgid "Do you really want to delete all the transactions shown?"
+msgstr "நிஜமாய் பார்வையிலுள்ள அனைத்து பரிமாற்றங்களையும் அழிக்க விருப்பமா?"
+
+#: src/mmcheckingpanel.cpp:1192 src/mmcheckingpanel.cpp:1205 src/mmcheckingpanel.cpp:1490
+msgid "Confirm Transaction Deletion"
+msgstr "பரிமாற்ற அழிப்பை உறுதி செய்"
+
+#: src/mmcheckingpanel.cpp:1201
+#, fuzzy
+msgid "Follow Up"
+msgstr "பின் தொடர்"
+
+#: src/mmcheckingpanel.cpp:1201
+#, fuzzy
+msgid "Unreconciled"
+msgstr "சரிபார்க்கப்படாதது என"
+
+#: src/mmcheckingpanel.cpp:1204
+#, fuzzy, c-format
+msgid "Do you really want to delete all the \"%s\" transactions shown?"
+msgstr "நிஜமாய் பார்வையிலுள்ள அனைத்து பரிமாற்றங்களையும் அழிக்க விருப்பமா?"
+
+#: src/mmcheckingpanel.cpp:1489
+#, fuzzy
+msgid "Do you really want to delete the selected transaction?"
+msgstr "நிஜமாய் இந்த பரிமாற்றத்தை அழிக்க விருப்பமா?"
+
+#: src/mmcheckingpanel.cpp:1599 src/stockspanel.cpp:273
+#, fuzzy, c-format
+msgid "Moving Transaction from %s to..."
+msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#: src/mmcheckingpanel.cpp:1602 src/stockspanel.cpp:274
+#, fuzzy
+msgid "Select the destination Account "
+msgstr "பெறுநரை தேர்ந்தெடு"
+
+#: src/mmcheckingpanel.cpp:1656
+#, fuzzy
+msgid "Reoccuring Transaction saved."
+msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#: src/mmex.cpp:84
+msgid ""
+"Fatal error occured.\n"
+"Application will be terminated."
+msgstr ""
+
+#: src/mmframe.cpp:301
+#, fuzzy
+msgid "Toolbar"
+msgstr "&கருவிகள்"
+
+#: src/mmframe.cpp:502 src/mmframe.cpp:714
+msgid "Bank Accounts"
+msgstr "வங்கிக் கணக்குகள்"
+
+#: src/mmframe.cpp:503 src/mmframe.cpp:721 src/reports/summary.cpp:225
+#, fuzzy
+msgid "Term Accounts"
+msgstr "அனுப்புநர் கணக்கு "
+
+#: src/mmframe.cpp:504 src/mmframe.cpp:724 src/mmhomepagepanel.cpp:64
+#: src/mmhomepagepanel.cpp:82 src/reports/summary.cpp:226
+msgid "Stocks"
+msgstr "பங்குகள்"
+
+#: src/mmframe.cpp:545
+#, fuzzy
+msgid " Auto Repeat Transactions"
+msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#: src/mmframe.cpp:691
+msgid "Navigation"
+msgstr "உலாவல்"
+
+#: src/mmframe.cpp:709
+msgid "Home Page"
+msgstr "இல்லப்பக்கம்"
+
+#: src/mmframe.cpp:717 src/mmhomepagepanel.cpp:685 src/reports/summary.cpp:224
+#, fuzzy
+msgid "Credit Card Accounts"
+msgstr "கணக்கை மாற்று"
+
+#: src/mmframe.cpp:736 src/mmframe.cpp:1480
+msgid "Budget Setup"
+msgstr "பட்ஜெட் அமைப்பு"
+
+#: src/mmframe.cpp:748 src/mmframe.cpp:2269
+msgid "Help"
+msgstr "உதவி"
+
+#: src/mmframe.cpp:1066
+msgid "Do you really want to delete the account?"
+msgstr "நிஜமாய் இந்தக் கணக்கை அழிக்க விருப்பமா?"
+
+#: src/mmframe.cpp:1067 src/mmframe.cpp:2533
+msgid "Confirm Account Deletion"
+msgstr "கணக்கு அழிப்பை உறுதி செய்"
+
+#: src/mmframe.cpp:1087
+msgid "MMEX has been opened without an active database."
+msgstr ""
+
+#: src/mmframe.cpp:1088
+msgid "MMEX: Menu Popup Error"
+msgstr ""
+
+#: src/mmframe.cpp:1114 src/mmframe.cpp:1153 src/mmframe.cpp:1429
+msgid "&Edit Account"
+msgstr "கணக்கை &மாற்று"
+
+#: src/mmframe.cpp:1115 src/mmframe.cpp:1438
+#, fuzzy
+msgid "&Reallocate Account"
+msgstr "கணக்கை &அழி"
+
+#: src/mmframe.cpp:1116 src/mmframe.cpp:1152 src/mmframe.cpp:1433
+msgid "&Delete Account"
+msgstr "கணக்கை &அழி"
+
+#: src/mmframe.cpp:1118
+msgid "&Launch Account Website"
+msgstr "கணக்கு வலைத்தளத்தில் உலாவு"
+
+#: src/mmframe.cpp:1151 src/mmframe.cpp:1420
+msgid "New &Account"
+msgstr "புது &கணக்கு"
+
+#: src/mmframe.cpp:1154
+#, fuzzy
+msgid "Account &List (Home)"
+msgstr "கணக்கு &பட்டி"
+
+#: src/mmframe.cpp:1161 src/mmframe.cpp:1165 src/mmframe.cpp:1360 src/mmframe.cpp:1366
+#, fuzzy
+msgid "&CSV Files..."
+msgstr "&CSV கோப்புகள்"
+
+#: src/mmframe.cpp:1162 src/mmframe.cpp:1166 src/mmframe.cpp:1361 src/mmframe.cpp:1367
+#, fuzzy
+msgid "&QIF Files..."
+msgstr "&QIF கோப்புகள்"
+
+#: src/mmframe.cpp:1341
+msgid "&New Database\tCtrl-N"
+msgstr "புது தகவல்தளம்\tCtrl-N"
+
+#: src/mmframe.cpp:1341 src/mmframe.cpp:1606 src/wizard_newdb.cpp:155
+msgid "New Database"
+msgstr "எளிய முறையில் புதிய தகவல்தளம்"
+
+#: src/mmframe.cpp:1343
+msgid "&Open Database\tCtrl-O"
+msgstr "தகவல்தளத்தை &திற\tCtrl-O"
+
+#: src/mmframe.cpp:1343 src/mmframe.cpp:1607
+msgid "Open Database"
+msgstr "தகவல்தளத்தை &திற\tCtrl-O"
+
+#: src/mmframe.cpp:1345
+msgid "Save Database &As"
+msgstr "தகவல்தளத்தை &வேறாக சேமி "
+
+#: src/mmframe.cpp:1345
+msgid "Save Database As"
+msgstr "தகவல்தளத்தை &வேறாக சேமி "
+
+#: src/mmframe.cpp:1353
+msgid "&Recent Files..."
+msgstr ""
+
+#: src/mmframe.cpp:1354
+msgid "&Clear Recent Files"
+msgstr ""
+
+#: src/mmframe.cpp:1362
+msgid "&Report to HTML"
+msgstr "HTMLக்கு &மாற்று"
+
+#: src/mmframe.cpp:1362
+msgid "Export to HTML"
+msgstr "HTMLக்கு ஏற்று"
+
+#: src/mmframe.cpp:1366
+msgid "Import from any CSV file"
+msgstr "ஏதாவது CSVலிருந்து இறக்கு"
+
+#: src/mmframe.cpp:1367
+msgid "Import from QIF"
+msgstr "QIFலிருந்து இறக்கு"
+
+#: src/mmframe.cpp:1368
+msgid "&WebApp..."
+msgstr ""
+
+#: src/mmframe.cpp:1368
+#, fuzzy
+msgid "Import from WebApp"
+msgstr "QIFலிருந்து இறக்கு"
+
+#: src/mmframe.cpp:1374
+#, fuzzy
+msgid "&Print..."
+msgstr "அச்சிடு..."
+
+#: src/mmframe.cpp:1374
+#, fuzzy
+msgid "Print current view"
+msgstr "தற்போதைய அறிக்கையை அச்சிடு "
+
+#: src/mmframe.cpp:1380
+msgid "E&xit\tAlt-X"
+msgstr "வெளியேறு\tAlt-X"
+
+#: src/mmframe.cpp:1380
+msgid "Quit this program"
+msgstr "இந்த செயலியிலிருந்து வெளியேறு"
+
+#: src/mmframe.cpp:1387
+msgid "&Toolbar"
+msgstr "&கருவிகள்"
+
+#: src/mmframe.cpp:1387
+msgid "Show/Hide the toolbar"
+msgstr "கருவிப்பட்டையை காட்டு/மறை"
+
+#: src/mmframe.cpp:1389
+#, fuzzy
+msgid "&Navigation"
+msgstr "உலாவல்"
+
+#: src/mmframe.cpp:1389
+msgid "Show/Hide the Navigation tree control"
+msgstr "உலாவும் வழியை காட்டு/மறை"
+
+#: src/mmframe.cpp:1391
+#, fuzzy
+msgid "Budgets: As &Financial Years"
+msgstr "இந்த ஆண்டு"
+
+#: src/mmframe.cpp:1391
+msgid "Display Budgets in Financial Year Format"
+msgstr ""
+
+#: src/mmframe.cpp:1393
+msgid "Budgets: &Include Transfers in Totals"
+msgstr ""
+
+#: src/mmframe.cpp:1393
+#, fuzzy
+msgid "Include the transfer transactions in the Budget Totals"
+msgstr " பரிமாற்றங்கள் இறக்கப்பட்டவில்லை"
+
+#: src/mmframe.cpp:1395
+#, fuzzy
+msgid "Budget Setup: &Without Summaries"
+msgstr "பட்ஜெட் அமைப்பு :"
+
+#: src/mmframe.cpp:1395
+msgid "Display the Budget Setup without category summaries"
+msgstr ""
+
+#: src/mmframe.cpp:1397
+msgid "Budget Summary: Include &Categories"
+msgstr ""
+
+#: src/mmframe.cpp:1397
+msgid "Include the categories in the Budget Category Summary"
+msgstr ""
+
+#: src/mmframe.cpp:1399
+#, fuzzy
+msgid "Ignore F&uture Transactions"
+msgstr "வருங்கால பரிமாற்றங்கள்"
+
+#: src/mmframe.cpp:1399
+#, fuzzy
+msgid "Ignore Future transactions"
+msgstr "வருங்கால பரிமாற்றங்கள்"
+
+#: src/mmframe.cpp:1413 src/mmframe.cpp:1627
+msgid "Toggle Fullscreen\tF11"
+msgstr ""
+
+#: src/mmframe.cpp:1413 src/mmframe.cpp:1627
+msgid "Toggle Fullscreen"
+msgstr ""
+
+#: src/mmframe.cpp:1425
+msgid "Account &List"
+msgstr "கணக்கு &பட்டி"
+
+#: src/mmframe.cpp:1425 src/mmframe.cpp:1610
+msgid "Show Account List"
+msgstr "கணக்கு பட்டியை காட்டு"
+
+#: src/mmframe.cpp:1433
+msgid "Delete Account from database"
+msgstr "தகவல்தளத்திலிருந்து கணக்கை அழி"
+
+#: src/mmframe.cpp:1438
+#, fuzzy
+msgid "Change the account type of an account."
+msgstr "பரிமாற்ற வகையை குறிப்பிடு"
+
+#: src/mmframe.cpp:1449
+#, fuzzy
+msgid "Organize &Categories..."
+msgstr "&வகை ஒழுங்கிடு"
+
+#: src/mmframe.cpp:1454
+#, fuzzy
+msgid "Organize &Payees..."
+msgstr "&பெறுநர் ஒழுங்கிடு"
+
+#: src/mmframe.cpp:1454 src/mmframe.cpp:1613 src/payeedialog.cpp:78
+msgid "Organize Payees"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/mmframe.cpp:1459
+#, fuzzy
+msgid "Organize Currency..."
+msgstr "நாணய ஒழுங்கிடு"
+
+#: src/mmframe.cpp:1459 src/mmframe.cpp:1614
+msgid "Organize Currency"
+msgstr "நாணய ஒழுங்கிடு"
+
+#: src/mmframe.cpp:1465
+#, fuzzy
+msgid "&Categories..."
+msgstr "வகை"
+
+#: src/mmframe.cpp:1469
+#, fuzzy
+msgid "&Payees..."
+msgstr "பெறுநர்"
+
+#: src/mmframe.cpp:1470
+msgid "Reassign all payees to another payee"
+msgstr ""
+
+#: src/mmframe.cpp:1474
+msgid "Relocation of..."
+msgstr ""
+
+#: src/mmframe.cpp:1475
+#, fuzzy
+msgid "Relocate Categories && Payees"
+msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#: src/mmframe.cpp:1480
+#, fuzzy
+msgid "&Budget Setup"
+msgstr "பட்ஜெட் அமைப்பு"
+
+#: src/mmframe.cpp:1485
+msgid "&Recurring Transactions"
+msgstr ""
+
+#: src/mmframe.cpp:1485
+msgid "Bills && Deposits"
+msgstr "ரசீது && வைப்புகள்"
+
+#: src/mmframe.cpp:1490
+#, fuzzy
+msgid "&Assets"
+msgstr "சொத்துக்கள்"
+
+#: src/mmframe.cpp:1497
+#, fuzzy
+msgid "&Transaction Report Filter..."
+msgstr "பறிமாற்ற வடி"
+
+#: src/mmframe.cpp:1497 src/mmframe.cpp:1616
+#, fuzzy
+msgid "Transaction Report Filter"
+msgstr "பரிமாற்ற அறிக்கை"
+
+#: src/mmframe.cpp:1504
+#, fuzzy
+msgid "&General Report Manager..."
+msgstr "தனி SQL அறிக்கை"
+
+#: src/mmframe.cpp:1511 src/mmframe.cpp:1620
+#, fuzzy
+msgid "&Options..."
+msgstr "&தெரிவுகள்"
+
+#: src/mmframe.cpp:1511 src/mmframe.cpp:1620
+msgid "Show the Options Dialog"
+msgstr "தெரிவுகள் சாளரம்"
+
+#: src/mmframe.cpp:1519
+msgid "Convert Encrypted &DB"
+msgstr ""
+
+#: src/mmframe.cpp:1520
+msgid "Convert Encrypted DB to Non-Encrypted DB"
+msgstr ""
+
+#: src/mmframe.cpp:1523
+msgid "Change Encrypted &Password"
+msgstr ""
+
+#: src/mmframe.cpp:1524
+#, fuzzy
+msgid "Change the password of an encrypted database"
+msgstr "தகவல்தள திறப்பில் பிழை"
+
+#: src/mmframe.cpp:1527
+#, fuzzy
+msgid "Optimize &Database"
+msgstr "தகவல்தளத்தை &திற\tCtrl-O"
+
+#: src/mmframe.cpp:1528
+msgid "Optimize database space and performance"
+msgstr ""
+
+#: src/mmframe.cpp:1532
+#, fuzzy
+msgid "Database"
+msgstr "எளிய முறையில் புதிய தகவல்தளம்"
+
+#: src/mmframe.cpp:1533
+msgid "Database management"
+msgstr ""
+
+#: src/mmframe.cpp:1540 src/mmframe.cpp:1625
+#, fuzzy
+msgid "&Help\tF1"
+msgstr "&உதவி"
+
+#: src/mmframe.cpp:1540 src/mmframe.cpp:1625
+msgid "Show the Help file"
+msgstr "உதவிக் கோப்பினைக் காட்டு"
+
+#: src/mmframe.cpp:1545
+#, fuzzy
+msgid "&Show App Start Dialog"
+msgstr "செயலி துவக்க சாளரத்தை காட்டு"
+
+#: src/mmframe.cpp:1545
+msgid "App Start Dialog"
+msgstr "செயலி துவக்க சாளரம்"
+
+#: src/mmframe.cpp:1552
+msgid "Check for &Updates"
+msgstr "&புதுப்பிக்க சோதி"
+
+#: src/mmframe.cpp:1552
+msgid "Check For Updates"
+msgstr "புதுப்பிக்க சோதி"
+
+#: src/mmframe.cpp:1557
+msgid "Get Android Version"
+msgstr ""
+
+#: src/mmframe.cpp:1558
+msgid "Run this program in your Android smart phone or tablet"
+msgstr ""
+
+#: src/mmframe.cpp:1563
+msgid "Visit MMEX Forum"
+msgstr ""
+
+#: src/mmframe.cpp:1564
+#, fuzzy
+msgid ""
+"Visit the MMEX forum. See existing user comments, or report new issues with the software."
+msgstr "மடற்குழுவுக்கு மின்னஞ்சல் மூலம் வழு/பின்னூட்டம் தெரிவி"
+
+#: src/mmframe.cpp:1569
+msgid "Register/View Release &Notifications"
+msgstr ""
+
+#: src/mmframe.cpp:1570
+msgid "Sign up to Notification Mailing List or View existing announcements."
+msgstr ""
+
+#: src/mmframe.cpp:1575
+msgid "Visit us on Facebook"
+msgstr ""
+
+#: src/mmframe.cpp:1580 src/mmframe.cpp:1624
+msgid "&About..."
+msgstr "&பற்றி"
+
+#: src/mmframe.cpp:1580 src/mmframe.cpp:1624
+msgid "Show about dialog"
+msgstr "பற்றி சாளரத்தை காட்டு"
+
+#: src/mmframe.cpp:1585
+msgid "&File"
+msgstr "&கோப்பு"
+
+#: src/mmframe.cpp:1586
+msgid "&Accounts"
+msgstr "&கணக்குகள்"
+
+#: src/mmframe.cpp:1587
+msgid "&Tools"
+msgstr "&கருவிகள்"
+
+#: src/mmframe.cpp:1588
+msgid "&View"
+msgstr "&காட்டு"
+
+#: src/mmframe.cpp:1589
+msgid "&Help"
+msgstr "&உதவி"
+
+#: src/mmframe.cpp:1606 src/mmframe.cpp:1622
+msgid "New"
+msgstr "புதிய"
+
+#: src/mmframe.cpp:1610
+msgid "Account List"
+msgstr "கணக்கு பட்டி"
+
+#: src/mmframe.cpp:1612
+msgid "Show Organize Categories Dialog"
+msgstr "வகை ஒழுங்கிடு சாளரத்தை காட்டு"
+
+#: src/mmframe.cpp:1613
+msgid "Show Organize Payees Dialog"
+msgstr "பெறுநர் ஒழுங்கிடு சாளரத்தை காட்டு"
+
+#: src/mmframe.cpp:1614
+msgid "Show Organize Currency Dialog"
+msgstr "நாணய ஒழுங்கிடு சாளரத்தை காட்டு"
+
+#: src/mmframe.cpp:1674
+#, fuzzy, c-format
+msgid ""
+"Please enter password for Database\n"
+"\n"
+"%s"
+msgstr "தகவல்தள திறப்பில் பிழை"
+
+#: src/mmframe.cpp:1675 src/mmframe.cpp:1878 src/mmframe.cpp:1996
+msgid "MMEX: Encrypted Database"
+msgstr ""
+
+#: src/mmframe.cpp:1720 src/mmframe.cpp:1762
+msgid " - No File opened "
+msgstr " - கோப்பேதும் திறப்பிலில்லை"
+
+#: src/mmframe.cpp:1722
+#, fuzzy
+msgid "Sorry. The Database version is too old or Database password is incorrect"
+msgstr "மன்னிக்க. தகவல்தளம் மிகப் பழையது அல்லது கடவுச்சொல் தவறானது"
+
+#: src/mmframe.cpp:1753
+msgid "&Next ->"
+msgstr ""
+
+#: src/mmframe.cpp:1765
+#, fuzzy
+msgid "Cannot locate previously opened database.\n"
+msgstr "முன் திறந்த தகவல்தளத்தை திற : "
+
+#: src/mmframe.cpp:1767
+msgid "Password not entered for encrypted Database.\n"
+msgstr ""
+
+#: src/mmframe.cpp:1785
+msgid "portable mode"
+msgstr ""
+
+#: src/mmframe.cpp:1828
+#, fuzzy
+msgid "Choose database file to create"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:1851
+#, fuzzy
+msgid "Choose database file to open"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:1868
+#, fuzzy
+msgid "Choose Encrypted database file to open"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:1878
+#, fuzzy
+msgid "Enter password for database"
+msgstr "தகவல்தள திறப்பில் பிழை"
+
+#: src/mmframe.cpp:1883
+#, fuzzy
+msgid "Choose database file to Save As"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:1905
+msgid "Converted DB!"
+msgstr ""
+
+#: src/mmframe.cpp:1905
+msgid "MMEX message"
+msgstr ""
+
+#: src/mmframe.cpp:1911
+msgid "MMEX: Encryption Password Change"
+msgstr ""
+
+#: src/mmframe.cpp:1912
+#, fuzzy, c-format
+msgid ""
+"New password for database\n"
+"\n"
+"%s"
+msgstr "தகவல்தள திறப்பில் பிழை"
+
+#: src/mmframe.cpp:1917
+msgid "New password must not be empty."
+msgstr ""
+
+#: src/mmframe.cpp:1921
+#, fuzzy
+msgid "Please confirm new password"
+msgstr "தயவு செய்து காத்திருக்கவும்"
+
+#: src/mmframe.cpp:1925
+#, fuzzy
+msgid "Password change completed."
+msgstr "வகை செல்லாது"
+
+#: src/mmframe.cpp:1929
+msgid "Confirm password failed."
+msgstr ""
+
+#: src/mmframe.cpp:1938
+msgid "Make sure you have a backup of DB before optimize it"
+msgstr ""
+
+#: src/mmframe.cpp:1938
+#, fuzzy
+msgid "Do you want to proceed?"
+msgstr ""
+"முன் திறந்த .mmb தகவல்தளத்தை கண்டறிய முடியவில்லை\n"
+"நீங்கள் கோப்பினை உலாவி கண்டுபிடிக்க விருப்பமா?"
+
+#: src/mmframe.cpp:1939 src/mmframe.cpp:1946
+msgid "DB Optimization"
+msgstr ""
+
+#: src/mmframe.cpp:1945
+#, fuzzy
+msgid "Database Optimization Completed!"
+msgstr "வகை செல்லாது"
+
+#: src/mmframe.cpp:1945
+msgid "Size before"
+msgstr ""
+
+#: src/mmframe.cpp:1945
+msgid "Size after"
+msgstr ""
+
+#: src/mmframe.cpp:1962 src/mmframe.cpp:1983
+#, fuzzy
+msgid "Save database file as"
+msgstr "தகவல்தளத்தை &வேறாக சேமி "
+
+#: src/mmframe.cpp:1983
+msgid "Can't copy file to itself"
+msgstr ""
+
+#: src/mmframe.cpp:1996
+#, fuzzy
+msgid "Enter password for new database"
+msgstr "தகவல்தள திறப்பில் பிழை"
+
+#: src/mmframe.cpp:2069
+#, fuzzy
+msgid "No account available to import"
+msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#: src/mmframe.cpp:2259
+msgid "MMEX Options have been updated."
+msgstr ""
+
+#: src/mmframe.cpp:2260 src/optionsdialog.cpp:55
+#, fuzzy
+msgid "MMEX Options"
+msgstr "விருப்பங்களை பார்"
+
+#: src/mmframe.cpp:2353
+#, fuzzy
+msgid "Choose HTML file to Export"
+msgstr "இறக்கிடும் QIF தகவல் கோப்பை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:2498
+#, fuzzy
+msgid "No account available to edit!"
+msgstr "ஒரு கணக்கும் இல்லை!"
+
+#: src/mmframe.cpp:2502
+msgid "Choose Account to Edit"
+msgstr "மாற்றும் கணக்கை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:2521
+#, fuzzy
+msgid "No account available to delete!"
+msgstr "ஒரு கணக்கும் இல்லை!"
+
+#: src/mmframe.cpp:2525
+msgid "Choose Account to Delete"
+msgstr "அழிக்கும் கணக்கை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:2530
+#, fuzzy, c-format
+msgid ""
+"Are you sure you want to delete\n"
+" %s account: %s ?"
+msgstr "நிஜமாய் சொத்து விவரத்தை அழிக்க விருப்பமா?"
+
+#: src/mmframe.cpp:2551
+#, fuzzy
+msgid "No account available to reallocate!"
+msgstr "ஒரு கணக்கும் இல்லை!"
+
+#: src/mmframe.cpp:2551 src/mmframe.cpp:2563 src/mmframe.cpp:2576
+#, fuzzy
+msgid "Account Reallocation"
+msgstr "கணக்கு காட்சிவிருப்பங்கள்"
+
+#: src/mmframe.cpp:2563
+#, fuzzy
+msgid "Choose account to reallocate account type"
+msgstr "அழிக்கும் கணக்கை தேர்ந்தெடு"
+
+#: src/mmframe.cpp:2576
+#, fuzzy, c-format
+msgid "Choose the new type for account: %s"
+msgstr "கணக்கின் அடிப்படை நாணயம்"
+
+#: src/mmframe.cpp:2682 src/payeedialog.cpp:319
+#, fuzzy
+msgid "Payee Relocation Completed."
+msgstr "வகை செல்லாது"
+
+#: src/mmframe.cpp:2686 src/payeedialog.cpp:323
+msgid "Payee Relocation Result"
+msgstr ""
+
+#: src/mmframe.cpp:2784
+#, c-format
+msgid "File %s not found"
+msgstr ""
+
+#: src/mmframereport.cpp:82
+#, fuzzy
+msgid "mmGeneralGroupReport"
+msgstr "தனி SQL அறிக்கை"
+
+#: src/mmframereport.cpp:122 src/reports/myusage.cpp:132
+msgid "My Usage"
+msgstr ""
+
+#: src/mmframereport.cpp:126
+#, fuzzy
+msgid "Monthly Summary of Accounts"
+msgstr "கணக்கு விவரங்கள்"
+
+#: src/mmframereport.cpp:134 src/reports/categexp.h:57
+msgid "Where the Money Goes"
+msgstr "எங்கே தொகை செல்கிறது"
+
+#: src/mmframereport.cpp:141 src/reports/categexp.h:124
+msgid "Where the Money Comes From"
+msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#: src/mmframereport.cpp:155
+#, fuzzy
+msgid "Payees"
+msgstr "பெறுநர்"
+
+#: src/mmframereport.cpp:162 src/reports/incexpenses.cpp:27 src/reports/incexpenses.cpp:148
+msgid "Income vs Expenses"
+msgstr "வரவு vs செலவு"
+
+#: src/mmframereport.cpp:166 src/mmframereport.cpp:245 src/mmframereport.cpp:430
+#: src/mmframereport.cpp:514 src/mmframereport.cpp:601 src/mmframereport.cpp:684
+msgid "Last Calendar Month"
+msgstr "கடந்த மாதம்"
+
+#: src/mmframereport.cpp:174 src/mmframereport.cpp:253 src/mmframereport.cpp:438
+#: src/mmframereport.cpp:522 src/mmframereport.cpp:609 src/mmframereport.cpp:692
+#: src/reports/categexp.cpp:205 src/reports/categexp.cpp:269 src/reports/categexp.cpp:334
+#: src/reports/mmDateRange.cpp:90 src/reports/payee.h:66
+#, fuzzy
+msgid "Current Month to Date"
+msgstr "இந்த மாதம்"
+
+#: src/mmframereport.cpp:182 src/mmframereport.cpp:261 src/mmframereport.cpp:446
+#: src/mmframereport.cpp:530 src/mmframereport.cpp:617 src/mmframereport.cpp:700
+#: src/reports/categexp.cpp:199 src/reports/categexp.cpp:263 src/reports/categexp.cpp:328
+#: src/reports/mmDateRange.cpp:74 src/reports/payee.h:58
+msgid "Current Month"
+msgstr "இந்த மாதம்"
+
+#: src/mmframereport.cpp:188 src/mmframereport.cpp:267 src/mmframereport.cpp:378
+#: src/mmframereport.cpp:453 src/mmframereport.cpp:537 src/mmframereport.cpp:623
+#: src/mmframereport.cpp:707 src/reports/categexp.cpp:217 src/reports/categexp.cpp:281
+#: src/reports/categexp.cpp:345 src/reports/mmDateRange.cpp:108 src/reports/payee.h:82
+msgid "Last 30 Days"
+msgstr "கடைசி 30 நாட்கள்"
+
+#: src/mmframereport.cpp:193 src/mmframereport.cpp:272 src/mmframereport.cpp:386
+#: src/mmframereport.cpp:458 src/mmframereport.cpp:543 src/mmframereport.cpp:628
+#: src/mmframereport.cpp:713 src/reports/categexp.cpp:223 src/reports/categexp.cpp:287
+#: src/reports/categexp.cpp:350 src/reports/mmDateRange.cpp:162 src/reports/payee.h:90
+msgid "Last Year"
+msgstr "கடந்த ஆண்டு"
+
+#: src/mmframereport.cpp:200 src/mmframereport.cpp:279 src/mmframereport.cpp:466
+#: src/mmframereport.cpp:551 src/mmframereport.cpp:636 src/mmframereport.cpp:721
+#: src/reports/categexp.cpp:234 src/reports/categexp.cpp:299 src/reports/categexp.cpp:362
+#: src/reports/mmDateRange.cpp:154 src/reports/payee.h:106
+#, fuzzy
+msgid "Current Year to Date"
+msgstr "இந்த மாதம்"
+
+#: src/mmframereport.cpp:207 src/mmframereport.cpp:286 src/mmframereport.cpp:390
+#: src/mmframereport.cpp:474 src/mmframereport.cpp:559 src/mmframereport.cpp:644
+#: src/mmframereport.cpp:729 src/reports/categexp.cpp:228 src/reports/categexp.cpp:293
+#: src/reports/categexp.cpp:356 src/reports/mmDateRange.cpp:146 src/reports/payee.h:98
+msgid "Current Year"
+msgstr "இந்த ஆண்டு"
+
+#: src/mmframereport.cpp:216 src/mmframereport.cpp:295 src/mmframereport.cpp:485
+#: src/mmframereport.cpp:570 src/mmframereport.cpp:653 src/mmframereport.cpp:738
+#: src/reports/categexp.cpp:240 src/reports/categexp.cpp:305 src/reports/categexp.cpp:368
+#: src/reports/mmDateRange.cpp:202 src/reports/payee.h:114
+#, fuzzy
+msgid "Last Financial Year"
+msgstr "கடந்த ஆண்டு"
+
+#: src/mmframereport.cpp:224 src/mmframereport.cpp:303 src/mmframereport.cpp:493
+#: src/mmframereport.cpp:578 src/mmframereport.cpp:661 src/mmframereport.cpp:746
+#: src/reports/categexp.cpp:252 src/reports/categexp.cpp:317 src/reports/categexp.cpp:380
+#: src/reports/mmDateRange.cpp:192 src/reports/payee.h:130
+#, fuzzy
+msgid "Current Financial Year to Date"
+msgstr "இந்த ஆண்டு"
+
+#: src/mmframereport.cpp:232 src/mmframereport.cpp:311 src/mmframereport.cpp:501
+#: src/mmframereport.cpp:586 src/mmframereport.cpp:669 src/mmframereport.cpp:754
+#: src/reports/categexp.cpp:246 src/reports/categexp.cpp:311 src/reports/categexp.cpp:374
+#: src/reports/mmDateRange.cpp:182 src/reports/payee.h:122
+#, fuzzy
+msgid "Current Financial Year"
+msgstr "இந்த ஆண்டு"
+
+#: src/mmframereport.cpp:241
+#, fuzzy
+msgid "Income vs Expenses - Specific Accounts"
+msgstr "வரவு vs செலவுகள்: இந்த மாதம்"
+
+#: src/mmframereport.cpp:327
+msgid "Budget Performance"
+msgstr "பட்ஜெட் செயல்பாடு"
+
+#: src/mmframereport.cpp:330
+#, fuzzy
+msgid "Budget Category Summary"
+msgstr "பட்ஜெட் ஆண்டு உள்ளீடு"
+
+#: src/mmframereport.cpp:352 src/reports/cashflow.cpp:33
+msgid "Cash Flow"
+msgstr "காசு நடை"
+
+#: src/mmframereport.cpp:355
+#, fuzzy
+msgid "Cash Flow - With Bank Accounts"
+msgstr "காசு நடை - குறிப்பிட்ட கணக்குகளுக்கு"
+
+#: src/mmframereport.cpp:358
+#, fuzzy
+msgid "Cash Flow - With Term Accounts"
+msgstr "காசு நடை - குறிப்பிட்ட கணக்குகளுக்கு"
+
+#: src/mmframereport.cpp:361
+msgid "Cash Flow - Specific Accounts"
+msgstr "காசு நடை - குறிப்பிட்ட கணக்குகளுக்கு"
+
+#: src/mmframereport.cpp:364
+#, fuzzy
+msgid "Daily Cash Flow - Specific Accounts"
+msgstr "காசு நடை - குறிப்பிட்ட கணக்குகளுக்கு"
+
+#: src/mmframereport.cpp:369
+msgid "Transaction Report"
+msgstr "பரிமாற்ற அறிக்கை"
+
+#: src/mmframereport.cpp:374
+#, fuzzy
+msgid "Stocks Report"
+msgstr "மொத்தம்:"
+
+#: src/mmframereport.cpp:382 src/reports/mmDateRange.cpp:230
+#, fuzzy
+msgid "Last 365 Days"
+msgstr "கடைசி 30 நாட்கள்"
+
+#: src/mmframereport.cpp:394
+#, fuzzy
+msgid "All Time"
+msgstr "&CSV கோப்புகள்"
+
+#: src/mmhelppanel.cpp:63
+msgid "&Back"
+msgstr ""
+
+#: src/mmhelppanel.cpp:64
+msgid "&Forward"
+msgstr ""
+
+#: src/mmhelppanel.cpp:66
+msgid " Help"
+msgstr "உதவி"
+
+#: src/mmhomepagepanel.cpp:82 src/reports/summarystocks.cpp:157
+#: src/reports/summarystocks.cpp:190 src/stockspanel.cpp:100
+msgid "Gain/Loss"
+msgstr "லாப/நட்டம்"
+
+#: src/mmhomepagepanel.cpp:83 src/reports/cashflow.cpp:279 src/reports/categexp.cpp:137
+#: src/reports/categovertimeperf.cpp:140
+msgid "Total"
+msgstr "மொத்தம்"
+
+#: src/mmhomepagepanel.cpp:106 src/mmhomepagepanel.cpp:721 src/reports/incexpenses.cpp:259
+#: src/reports/payee.cpp:138 src/reports/summarystocks.cpp:131
+#: src/splittransactionsdialog.cpp:139
+msgid "Total:"
+msgstr "மொத்தம்:"
+
+#: src/mmhomepagepanel.cpp:174
+#, fuzzy, c-format
+msgid "Top Withdrawals: %s"
+msgstr "பற்று"
+
+#: src/mmhomepagepanel.cpp:201
+msgid "Summary"
+msgstr "இருப்பு"
+
+#: src/mmhomepagepanel.cpp:587
+msgid "Upcoming Transactions"
+msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/mmhomepagepanel.cpp:685 src/reports/summary.cpp:223
+#, fuzzy
+msgid "Bank Account"
+msgstr "வங்கிக் கணக்குகள்"
+
+#: src/mmhomepagepanel.cpp:685
+#, fuzzy
+msgid "Term Account"
+msgstr "அனுப்புநர் கணக்கு "
+
+#: src/mmhomepagepanel.cpp:756 src/reports/incexpenses.cpp:29
+#: src/reports/incexpenses.cpp:152
+#, fuzzy, c-format
+msgid "Income vs Expenses: %s"
+msgstr "வரவு vs செலவு"
+
+#: src/mmhomepagepanel.cpp:761 src/reports/categovertimeperf.cpp:139
+#: src/reports/incexpenses.cpp:105 src/reports/incexpenses.cpp:229 src/reports/payee.cpp:115
+msgid "Expenses"
+msgstr "செலவுகள்"
+
+#: src/mmhomepagepanel.cpp:763 src/reports/incexpenses.cpp:131
+msgid "Difference:"
+msgstr "வேறுபாடு:"
+
+#: src/mmhomepagepanel.cpp:765
+#, fuzzy
+msgid "Income/Expenses"
+msgstr "வரவு vs செலவு"
+
+#: src/mmhomepagepanel.cpp:796
+msgid "Transaction Statistics"
+msgstr "பரிமாற்றப் புள்ளிவிவரம்"
+
+#: src/mmhomepagepanel.cpp:799
+#, fuzzy
+msgid "Follow Up On Transactions: "
+msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/mmhomepagepanel.cpp:801
+#, fuzzy
+msgid "Total Transactions: "
+msgstr "அனைத்து பரிமாற்றங்கள்"
+
+#: src/mmhomepagepanel.cpp:814 src/reports/summarystocks.cpp:152
+#, fuzzy
+msgid "Grand Total:"
+msgstr "மொத்தம்:"
+
+#: src/mmpanelbase.cpp:136
+msgid "Hide/Show Columns"
+msgstr ""
+
+#: src/mmpanelbase.cpp:137
+msgid "Hide this column"
+msgstr ""
+
+#: src/mmpanelbase.cpp:139
+msgid "Order by this column"
+msgstr ""
+
+#: src/mmpanelbase.cpp:140
+msgid "Reset columns"
+msgstr ""
+
+#: src/mmreportspanel.cpp:191
+msgid "REPORTS"
+msgstr "அறிக்கைகள்"
+
+#: src/model/Model_Account.cpp:25
+msgid "Closed"
+msgstr "மூடப்பட்டது"
+
+#: src/model/Model_Account.cpp:30
+msgid "Checking"
+msgstr "வங்கிக் கணக்கு"
+
+#: src/model/Model_Account.cpp:31
+msgid "Term"
+msgstr ""
+
+#: src/model/Model_Account.cpp:32
+msgid "Investment"
+msgstr "முதலீடு"
+
+#: src/model/Model_Account.cpp:33
+msgid "Credit Card"
+msgstr ""
+
+#: src/model/Model_Account.cpp:109
+#, fuzzy
+msgid "Account Error"
+msgstr "கணக்குகள்"
+
+#: src/model/Model_Asset.cpp:24
+msgid "Appreciates"
+msgstr "உயர்கிறது"
+
+#: src/model/Model_Asset.cpp:25
+msgid "Depreciates"
+msgstr "குறைகிறது"
+
+#: src/model/Model_Asset.cpp:30
+msgid "Property"
+msgstr "சொத்து"
+
+#: src/model/Model_Asset.cpp:31 src/model/Model_Category.cpp:103
+msgid "Automobile"
+msgstr "வாகனம்"
+
+#: src/model/Model_Asset.cpp:32
+msgid "Household Object"
+msgstr "வீட்டுபயோகப் பொருள்"
+
+#: src/model/Model_Asset.cpp:33
+msgid "Art"
+msgstr "கலை"
+
+#: src/model/Model_Asset.cpp:34
+msgid "Jewellery"
+msgstr "நகை"
+
+#: src/model/Model_Asset.cpp:35
+msgid "Cash"
+msgstr "காசு"
+
+#: src/model/Model_Asset.cpp:36
+msgid "Other"
+msgstr "பிற"
+
+#: src/model/Model_Billsdeposits.cpp:29 src/model/Model_Category.cpp:209
+#: src/model/Model_Checking.cpp:29
+msgid "Transfer"
+msgstr "பரிமாற்றம்"
+
+#: src/model/Model_Category.cpp:65
+msgid "Telephone"
+msgstr ""
+
+#: src/model/Model_Category.cpp:66
+msgid "Electricity"
+msgstr ""
+
+#: src/model/Model_Category.cpp:67 src/model/Model_Category.cpp:99
+msgid "Gas"
+msgstr ""
+
+#: src/model/Model_Category.cpp:68
+#, fuzzy
+msgid "Internet"
+msgstr "முதலீடு"
+
+#: src/model/Model_Category.cpp:69
+#, fuzzy
+msgid "Rent"
+msgstr "அறிக்கை"
+
+#: src/model/Model_Category.cpp:70
+msgid "Cable TV"
+msgstr ""
+
+#: src/model/Model_Category.cpp:71
+#, fuzzy
+msgid "Water"
+msgstr "தேதி"
+
+#: src/model/Model_Category.cpp:73
+msgid "Bills"
+msgstr ""
+
+#: src/model/Model_Category.cpp:79
+msgid "Groceries"
+msgstr ""
+
+#: src/model/Model_Category.cpp:80
+msgid "Dining out"
+msgstr ""
+
+#: src/model/Model_Category.cpp:82
+msgid "Food"
+msgstr ""
+
+#: src/model/Model_Category.cpp:88
+#, fuzzy
+msgid "Movies"
+msgstr "மேலே நகர்த்து"
+
+#: src/model/Model_Category.cpp:89
+msgid "Video Rental"
+msgstr ""
+
+#: src/model/Model_Category.cpp:90
+msgid "Magazines"
+msgstr ""
+
+#: src/model/Model_Category.cpp:92
+msgid "Leisure"
+msgstr ""
+
+#: src/model/Model_Category.cpp:98
+msgid "Maintenance"
+msgstr ""
+
+#: src/model/Model_Category.cpp:100
+#, fuzzy
+msgid "Parking"
+msgstr "எச்சரிக்கை"
+
+#: src/model/Model_Category.cpp:101
+msgid "Registration"
+msgstr ""
+
+#: src/model/Model_Category.cpp:109
+msgid "Books"
+msgstr ""
+
+#: src/model/Model_Category.cpp:110
+msgid "Tuition"
+msgstr ""
+
+#: src/model/Model_Category.cpp:113
+msgid "Education"
+msgstr ""
+
+#: src/model/Model_Category.cpp:119
+#, fuzzy
+msgid "Clothing"
+msgstr "வங்கிக் கணக்கு"
+
+#: src/model/Model_Category.cpp:120
+msgid "Furnishing"
+msgstr ""
+
+#: src/model/Model_Category.cpp:123
+msgid "Homeneeds"
+msgstr ""
+
+#: src/model/Model_Category.cpp:129 src/model/Model_Category.cpp:144
+#, fuzzy
+msgid "Health"
+msgstr "வைத்திருப்பு"
+
+#: src/model/Model_Category.cpp:130
+#, fuzzy
+msgid "Dental"
+msgstr "பொது"
+
+#: src/model/Model_Category.cpp:131
+msgid "Eyecare"
+msgstr ""
+
+#: src/model/Model_Category.cpp:132
+msgid "Physician"
+msgstr ""
+
+#: src/model/Model_Category.cpp:133
+#, fuzzy
+msgid "Prescriptions"
+msgstr "பரிமாற்றங்கள்"
+
+#: src/model/Model_Category.cpp:135
+msgid "Healthcare"
+msgstr ""
+
+#: src/model/Model_Category.cpp:141
+#, fuzzy
+msgid "Auto"
+msgstr "வரை"
+
+#: src/model/Model_Category.cpp:142
+msgid "Life"
+msgstr ""
+
+#: src/model/Model_Category.cpp:143
+#, fuzzy
+msgid "Home"
+msgstr "இல்லப்பக்கம்"
+
+#: src/model/Model_Category.cpp:146
+msgid "Insurance"
+msgstr ""
+
+#: src/model/Model_Category.cpp:152
+msgid "Travel"
+msgstr ""
+
+#: src/model/Model_Category.cpp:153
+#, fuzzy
+msgid "Lodging"
+msgstr "பட்ஜெட்"
+
+#: src/model/Model_Category.cpp:154
+msgid "Sightseeing"
+msgstr ""
+
+#: src/model/Model_Category.cpp:156
+#, fuzzy
+msgid "Vacation"
+msgstr "உலாவல்"
+
+#: src/model/Model_Category.cpp:162
+#, fuzzy
+msgid "Income Tax"
+msgstr "வரவு"
+
+#: src/model/Model_Category.cpp:163
+msgid "House Tax"
+msgstr ""
+
+#: src/model/Model_Category.cpp:164
+msgid "Water Tax"
+msgstr ""
+
+#: src/model/Model_Category.cpp:167
+msgid "Taxes"
+msgstr ""
+
+#: src/model/Model_Category.cpp:174
+msgid "Miscellaneous"
+msgstr ""
+
+#: src/model/Model_Category.cpp:181
+msgid "Gifts"
+msgstr ""
+
+#: src/model/Model_Category.cpp:187
+#, fuzzy
+msgid "Salary"
+msgstr "இருப்பு"
+
+#: src/model/Model_Category.cpp:188
+msgid "Reimbursement/Refunds"
+msgstr ""
+
+#: src/model/Model_Category.cpp:189
+#, fuzzy
+msgid "Investment Income"
+msgstr "முதலீடு"
+
+#: src/model/Model_Category.cpp:197
+#, fuzzy
+msgid "Other Income"
+msgstr "வரவு"
+
+#: src/model/Model_Category.cpp:203
+#, fuzzy
+msgid "Other Expenses"
+msgstr "செலவுகள்"
+
+#: src/model/Model_Currency.cpp:107 src/wizard_newdb.cpp:155
+msgid "Base Currency Not Set"
+msgstr "அடிப்படை நாணயம் அமைக்கப்படவில்லை"
+
+#: src/model/Model_Payee.cpp:80
+#, fuzzy
+msgid "Payee Error"
+msgstr "பெறுநர் சேர்ப்பு "
+
+#: src/model/Model_Report.cpp:113
+#, c-format
+msgid ""
+"The SQL script:\n"
+"%s \n"
+"will modify database! aborted!"
+msgstr ""
+
+#: src/optionsdialog.cpp:129
+msgid "General"
+msgstr "பொது"
+
+#: src/optionsdialog.cpp:131 src/webappdialog.cpp:87
+msgid "Attachments"
+msgstr ""
+
+#: src/optionsdialog.cpp:132
+msgid "Network"
+msgstr ""
+
+#: src/optionsdialog.cpp:150
+msgid "&Apply"
+msgstr ""
+
+#: src/optionsdialog.cpp:188
+#, c-format
+msgid "%s page has been saved."
+msgstr ""
+
+#: src/payeedialog.cpp:68
+#, fuzzy
+msgid "Default Category"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/payeedialog.cpp:126
+#, fuzzy
+msgid "Search:"
+msgstr "மார்ச்"
+
+#: src/payeedialog.cpp:187 src/payeedialog.cpp:226 src/payeedialog.cpp:254
+msgid "Payee with same name exists"
+msgstr "பெறுநர் பெயர் ஏற்கனவே உள்ளது"
+
+#: src/payeedialog.cpp:188 src/payeedialog.cpp:211 src/payeedialog.cpp:226
+#, fuzzy
+msgid "Organize Payees: Add Payee"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/payeedialog.cpp:210
+#, fuzzy
+msgid "Enter the name for the new payee:"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/payeedialog.cpp:237
+#, fuzzy
+msgid "Modify the name for the payee:"
+msgstr "சொத்தின் பெயரை இடு"
+
+#: src/payeedialog.cpp:238 src/payeedialog.cpp:254
+#, fuzzy
+msgid "Organize Payees: Edit Payee"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/payeedialog.cpp:268
+#, fuzzy
+msgid "Payee in use."
+msgstr "பெறுநர் பயன்பாட்டில் உள்ளது"
+
+#: src/payeedialog.cpp:271
+msgid ""
+"Tip: Change all transactions using this Payee to another Payee\n"
+"using the relocate command:"
+msgstr ""
+
+#: src/payeedialog.cpp:272
+msgid "Tools -> Relocation of -> Payees"
+msgstr ""
+
+#: src/payeedialog.cpp:273
+#, fuzzy
+msgid "Organize Payees: Delete Error"
+msgstr "பெறுநர் ஒழுங்கிடு"
+
+#: src/payeedialog.cpp:365
+#, fuzzy
+msgid "Define Default Category"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/payeedialog.cpp:380
+#, fuzzy
+msgid "Relocate Payee"
+msgstr "பெறுநர் ஒழுங்கிடு சாளரத்தை காட்டு"
+
+#: src/relocatecategorydialog.cpp:57
+#, fuzzy
+msgid "Relocate Category Dialog"
+msgstr "வகையை தேர்ந்தெடு"
+
+#: src/relocatecategorydialog.cpp:85
+msgid "Relocate all source categories to the destination category"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:88
+#, fuzzy
+msgid "Source Category"
+msgstr "துணை வகை"
+
+#: src/relocatecategorydialog.cpp:93
+#, fuzzy
+msgid "Destination Category"
+msgstr "வகையைப் பிரி"
+
+#: src/relocatecategorydialog.cpp:106 src/relocatepayeedialog.cpp:104
+msgid "Relocate:"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:107 src/relocatepayeedialog.cpp:105
+#, fuzzy
+msgid "to:"
+msgstr " முடிவு தேதி: "
+
+#: src/relocatecategorydialog.cpp:184 src/relocatepayeedialog.cpp:136
+#, fuzzy
+msgid "Please Confirm:"
+msgstr "தயவு செய்து காத்திருக்கவும்"
+
+#: src/relocatecategorydialog.cpp:186
+#, fuzzy, c-format
+msgid "Records found in transactions: %i"
+msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/relocatecategorydialog.cpp:187
+#, fuzzy, c-format
+msgid "Records found in split transactions: %i"
+msgstr "நகல் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/relocatecategorydialog.cpp:188
+#, c-format
+msgid "Records found in recurring transactions: %i"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:189
+#, c-format
+msgid "Records found in recurring split transactions: %i"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:190
+#, c-format
+msgid "Records found as Default Payee Category: %i"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:191
+#, c-format
+msgid "Records found in budget: %i"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:192
+#, c-format
+msgid ""
+"Changing all categories of: \n"
+"%s to category: %s"
+msgstr ""
+
+#: src/relocatecategorydialog.cpp:195
+msgid "Category Relocation Confirmation"
+msgstr ""
+
+#: src/relocatepayeedialog.cpp:50
+#, fuzzy
+msgid "Relocate Payee Dialog"
+msgstr "பெறுநர் ஒழுங்கிடு சாளரத்தை காட்டு"
+
+#: src/relocatepayeedialog.cpp:78
+msgid "Relocate all source payees to the destination payee"
+msgstr ""
+
+#: src/relocatepayeedialog.cpp:138
+#, c-format
+msgid ""
+"Changing all payees of: %s \n"
+"\n"
+"  to payee: %s"
+msgstr ""
+
+#: src/relocatepayeedialog.cpp:141
+msgid "Payee Relocation Confirmation"
+msgstr ""
+
+#: src/reports/budgetcategorysummary.cpp:97
+#, fuzzy, c-format
+msgid "Budget Categories for %s"
+msgstr "எல்லா பட்ஜெட் வகைகளையும் பார்"
+
+#: src/reports/budgetcategorysummary.cpp:97
+#, fuzzy, c-format
+msgid "Budget Category Summary for %s"
+msgstr "பட்ஜெட் அமைப்பு :"
+
+#: src/reports/budgetcategorysummary.cpp:99
+#, fuzzy
+msgid "( Estimated Vs Actual )"
+msgstr "மதிப்பிடப்பட்ட வரவு: உண்மையான வரவு: "
+
+#: src/reports/budgetcategorysummary.cpp:190
+#, fuzzy
+msgid "Estimated Income:"
+msgstr "மதிப்பிடப்பட்ட வரவு: உண்மையான வரவு: "
+
+#: src/reports/budgetcategorysummary.cpp:192
+#, fuzzy
+msgid "Actual Income:"
+msgstr "வரவு: "
+
+#: src/reports/budgetcategorysummary.cpp:194
+#, fuzzy
+msgid "Difference Income:"
+msgstr "வேறுபாடு:"
+
+#: src/reports/budgetcategorysummary.cpp:199
+#, fuzzy
+msgid "Estimated Expenses:"
+msgstr "மதிப்பிடப்பட்ட செலவுகள்: உண்மையான செலவுகள்: "
+
+#: src/reports/budgetcategorysummary.cpp:201
+#, fuzzy
+msgid "Actual Expenses:"
+msgstr "செலவுகள்: "
+
+#: src/reports/budgetcategorysummary.cpp:203
+#, fuzzy
+msgid "Difference Expenses:"
+msgstr "செலவுகள்"
+
+#: src/reports/budgetingperf.cpp:122
+#, fuzzy
+msgid "Budget Performance for "
+msgstr "பட்ஜெட் செயல்பாடு"
+
+#: src/reports/budgetingperf.cpp:137 src/reports/categovertimeperf.cpp:116
+msgid "Overall"
+msgstr "மொத்தம்"
+
+#: src/reports/budgetingperf.cpp:138
+msgid "%"
+msgstr "%"
+
+#: src/reports/cashflow.cpp:236
+#, fuzzy, c-format
+msgid "Cash Flow Forecast for %i Years Ahead"
+msgstr "காசு நடை எல்லா கணக்குகளின் ஓராண்டு முன்னோட்டம்"
+
+#: src/reports/cashflow.cpp:238 src/reports/incexpenses.cpp:46
+#: src/reports/incexpenses.cpp:164
+#, fuzzy
+msgid "Accounts: "
+msgstr "கணக்குகள்"
+
+#: src/reports/cashflow.cpp:242 src/reports/incexpenses.cpp:49
+#: src/reports/incexpenses.cpp:167
+#, fuzzy
+msgid "All Accounts"
+msgstr "கணக்குகள்"
+
+#: src/reports/cashflow.cpp:244
+#, fuzzy
+msgid "All Bank Accounts"
+msgstr "வங்கிக் கணக்குகள்"
+
+#: src/reports/cashflow.cpp:246
+#, fuzzy
+msgid "All Term Accounts"
+msgstr "அனுப்புநர் கணக்கு "
+
+#: src/reports/cashflow.cpp:280 src/reports/incexpenses.cpp:230 src/reports/payee.cpp:116
+msgid "Difference"
+msgstr "வேறுபாடு"
+
+#: src/reports/categexp.cpp:161
+#, fuzzy
+msgid "Category Total: "
+msgstr "வகை "
+
+#: src/reports/categexp.cpp:176
+#, fuzzy
+msgid "Total Expenses: "
+msgstr "செலவுகள்: "
+
+#: src/reports/categexp.cpp:177
+#, fuzzy
+msgid "Total Income: "
+msgstr "வரவு: "
+
+#: src/reports/categexp.cpp:179
+#, fuzzy
+msgid "Grand Total: "
+msgstr "மொத்தம்: %s"
+
+#: src/reports/categexp.cpp:199 src/reports/categexp.cpp:205 src/reports/categexp.cpp:211
+#: src/reports/categexp.cpp:217 src/reports/categexp.cpp:223 src/reports/categexp.cpp:228
+#: src/reports/categexp.cpp:234 src/reports/categexp.cpp:240 src/reports/categexp.cpp:246
+#: src/reports/categexp.cpp:252
+#, fuzzy, c-format
+msgid "Where the Money Goes - %s"
+msgstr "எங்கே தொகை செல்கிறது"
+
+#: src/reports/categexp.cpp:211 src/reports/categexp.cpp:275 src/reports/categexp.cpp:339
+#: src/reports/mmDateRange.cpp:98 src/reports/payee.h:74
+#, fuzzy
+msgid "Last Month"
+msgstr "கடந்த மாதம் பார்வையிடு"
+
+#: src/reports/categexp.cpp:263 src/reports/categexp.cpp:269 src/reports/categexp.cpp:275
+#: src/reports/categexp.cpp:281 src/reports/categexp.cpp:287 src/reports/categexp.cpp:293
+#: src/reports/categexp.cpp:299 src/reports/categexp.cpp:305 src/reports/categexp.cpp:311
+#: src/reports/categexp.cpp:317
+#, fuzzy, c-format
+msgid "Where the Money Comes From - %s"
+msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#: src/reports/categexp.cpp:328 src/reports/categexp.cpp:334 src/reports/categexp.cpp:339
+#: src/reports/categexp.cpp:345 src/reports/categexp.cpp:350 src/reports/categexp.cpp:356
+#: src/reports/categexp.cpp:362 src/reports/categexp.cpp:368 src/reports/categexp.cpp:374
+#: src/reports/categexp.cpp:380
+#, fuzzy, c-format
+msgid "Categories - %s"
+msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#: src/reports/categovertimeperf.cpp:36
+#, fuzzy, c-format
+msgid "Category Income/Expenses: %s"
+msgstr "கடந்த 12 மாதங்களின் வரவு/செலவு வகைகள் "
+
+#: src/reports/categovertimeperf.cpp:138 src/reports/payee.cpp:114
+#, fuzzy
+msgid "Incomes"
+msgstr "வரவு"
+
+#: src/reports/htmlbuilder.cpp:119
+#, fuzzy, c-format
+msgid "Today's Date: %s"
+msgstr "இன்றைய தேதி: "
+
+#: src/reports/htmlbuilder.cpp:305
+#, fuzzy, c-format
+msgid "From %s till %s"
+msgstr "%s மேல் %s"
+
+#: src/reports/htmlbuilder.cpp:311 src/reports/mmDateRange.cpp:208
+msgid "Over Time"
+msgstr ""
+
+#: src/reports/incexpenses.cpp:128
+msgid "Income:"
+msgstr "வரவு: "
+
+#: src/reports/incexpenses.cpp:129
+msgid "Expenses:"
+msgstr "செலவுகள்: "
+
+#: src/reports/incexpenses.cpp:226
+#, fuzzy
+msgid "Year"
+msgstr "ஆண்டுக்கொருமுறை"
+
+#: src/reports/incexpenses.cpp:227
+msgid "Month"
+msgstr "மாதம்"
+
+#: src/reports/mmDateRange.cpp:82
+#, fuzzy
+msgid "Today"
+msgstr "30 நாட்களுக்கானதை பார்"
+
+#: src/reports/mmDateRange.cpp:118
+#, fuzzy
+msgid "Last 90 Days"
+msgstr "கடைசி 30 நாட்கள்"
+
+#: src/reports/mmDateRange.cpp:128
+#, fuzzy
+msgid "Last 3 Months"
+msgstr "கடந்த மாதம் பார்வையிடு"
+
+#: src/reports/mmDateRange.cpp:138
+#, fuzzy
+msgid "Last 12 Months"
+msgstr "கடந்த மாதம் பார்வையிடு"
+
+#: src/reports/reportbase.cpp:37
+#, fuzzy
+msgid " - "
+msgstr " : "
+
+#: src/reports/reportbase.cpp:74
+msgid "Choose Accounts"
+msgstr "கணக்கை தேர்ந்தெடு"
+
+#: src/reports/summary.cpp:122
+msgid "Summary of Accounts"
+msgstr "கணக்கு விவரங்கள்"
+
+#: src/reports/summary.cpp:131 src/reports/summary.cpp:133
+msgid "Account Name"
+msgstr "கணக்கு பெயர்"
+
+#: src/reports/summary.cpp:150
+#, fuzzy
+msgid "Bank Accounts Total:"
+msgstr "வங்கிக் கணக்குகள்"
+
+#: src/reports/summary.cpp:167
+#, fuzzy
+msgid "Term Accounts Total:"
+msgstr "அனுப்புநர் கணக்கு "
+
+#: src/reports/summary.cpp:173
+#, fuzzy
+msgid "Stocks Total:"
+msgstr "மொத்தம்:"
+
+#: src/reports/summary.cpp:185
+msgid "Total Balance on all Accounts"
+msgstr "அனைத்து கணக்குகளின் மொத்த இருப்பு: "
+
+#: src/reports/summary.cpp:215
+#, fuzzy, c-format
+msgid "Account Balance - %s"
+msgstr "கணக்குகள்"
+
+#: src/reports/summary.cpp:215
+#, fuzzy
+msgid "Monthly Report"
+msgstr "மாதமொருமுறை"
+
+#: src/reports/summary.cpp:215
+#, fuzzy
+msgid "Yearly Report"
+msgstr "பெறுநர் "
+
+#: src/reports/summarystocks.cpp:96
+msgid "Summary of Stocks"
+msgstr "பங்குகள் விவரம்"
+
+#: src/reports/summarystocks.cpp:185 src/stockspanel.cpp:94
+msgid "Purchase Date"
+msgstr "வாங்கிய தேதி"
+
+#: src/reports/summarystocks.cpp:186
+msgid "Quantity"
+msgstr ""
+
+#: src/reports/summarystocks.cpp:187 src/stockdialog.cpp:209
+msgid "Purchase Price"
+msgstr "வாங்கிய விலை"
+
+#: src/reports/summarystocks.cpp:188 src/stockdialog.cpp:220
+msgid "Current Price"
+msgstr "தற்போதைய விலை"
+
+#: src/reports/summarystocks.cpp:189 src/stockdialog.cpp:235 src/stockspanel.cpp:104
+msgid "Commission"
+msgstr "தரகு"
+
+#: src/reports/summarystocks.cpp:200
+#, fuzzy
+msgid "Stocks Performance Charts"
+msgstr "பட்ஜெட் செயல்பாடு"
+
+#: src/reports/transactions.cpp:50
+#, fuzzy
+msgid "Transaction List "
+msgstr "பரிமாற்றப் பட்டி"
+
+#: src/reports/transactions.cpp:53
+#, fuzzy, c-format
+msgid "Transaction List for Account: %s"
+msgstr "பரிமாற்றப் பட்டி"
+
+#: src/reports/transactions.cpp:115
+msgid "Total Amount: "
+msgstr "மொத்த தொகை: "
+
+#: src/splitdetailsdialog.cpp:68
+msgid "Split Detail Dialog"
+msgstr "பிரிவு விவர சாளரம்"
+
+#: src/splitdetailsdialog.cpp:97
+#, fuzzy
+msgid "Split Transaction Details"
+msgstr "பரிமாற்ற விவரம்"
+
+#: src/splittransactionsdialog.cpp:71
+msgid "Split Transaction Dialog"
+msgstr "பரிமாற்றப் பிரிவு சாளரம்"
+
+#: src/splittransactionsdialog.cpp:125
+#, fuzzy
+msgid " Split Category Details"
+msgstr "வகையைப் பிரி"
+
+#: src/splittransactionsdialog.cpp:211
+#, fuzzy
+msgid "Invalid Total Amount"
+msgstr "பெறுதல் தொகை செல்லாது"
+
+#: src/stockdialog.cpp:132 src/stockspanel.cpp:488
+msgid "Edit Stock Investment"
+msgstr "பங்கு முதலீட்டை மாற்று"
+
+#: src/stockdialog.cpp:132 src/stockspanel.cpp:484
+msgid "New Stock Investment"
+msgstr "புது பங்கு முதலீடு"
+
+#: src/stockdialog.cpp:163
+msgid "Stock Investment Details"
+msgstr "பங்கு முதலீட்டு விவரங்கள்"
+
+#: src/stockdialog.cpp:173
+msgid "Stock Name"
+msgstr "பங்கின் பெயர்"
+
+#: src/stockdialog.cpp:177
+msgid "Enter the stock company name"
+msgstr "பங்கு நிறுவனப் பெயரை இடு"
+
+#: src/stockdialog.cpp:185
+msgid "Specify the purchase date of the stock investment"
+msgstr "பங்கு முதலீட்டை வாங்கிய தேதியை குறிப்பிடு"
+
+#: src/stockdialog.cpp:195
+#, fuzzy
+msgid "Enter the stock symbol. (Optional) Include exchange. eg: IBM.BE"
+msgstr "பங்கு குறியீட்டை இடு (தேவையெனில்)"
+
+#: src/stockdialog.cpp:198 src/stockspanel.cpp:97
+msgid "Number of Shares"
+msgstr "பங்கு எண்ணிக்கை"
+
+#: src/stockdialog.cpp:204
+msgid "Enter number of shares held"
+msgstr "வைத்திருக்கும் பங்கு எண்ணிக்கையை இடு"
+
+#: src/stockdialog.cpp:215
+msgid "Enter purchase price for each stock"
+msgstr "ஒவ்வொரு பங்கின் வாங்கிய விலையை குறிப்பிடு"
+
+#: src/stockdialog.cpp:224
+msgid "Enter current stock price"
+msgstr "தற்போதைய பங்கு விலையை இடு"
+
+#: src/stockdialog.cpp:229
+#, fuzzy
+msgid "Price Date"
+msgstr "வாங்கிய தேதி"
+
+#: src/stockdialog.cpp:233
+#, fuzzy
+msgid "Specify the stock price date"
+msgstr "சொத்து வாங்கிய தேதியை இடு"
+
+#: src/stockdialog.cpp:239
+msgid "Enter any commission paid"
+msgstr "செலுத்திய தரகுத் தொகையை இடு"
+
+#: src/stockdialog.cpp:254
+#, fuzzy
+msgid "Organize attachments of this stock"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/stockdialog.cpp:257
+msgid "Display the web page for the specified Stock symbol"
+msgstr ""
+
+#: src/stockdialog.cpp:264
+msgid "Enter notes associated with this investment"
+msgstr "முதலீட்டு குறிப்பு விவரங்களை இடு"
+
+#: src/stockdialog.cpp:272
+msgid "Stock History Options"
+msgstr ""
+
+#: src/stockdialog.cpp:279
+msgid "Stock Price History"
+msgstr ""
+
+#: src/stockdialog.cpp:291 src/stockdialog.cpp:603
+msgid "Price"
+msgstr ""
+
+#: src/stockdialog.cpp:298
+#, fuzzy
+msgid "Diff."
+msgstr "வேறுபாடு:"
+
+#: src/stockdialog.cpp:310
+msgid "Download Stock Price history"
+msgstr ""
+
+#: src/stockdialog.cpp:313
+msgid "Import Stock Price history (CSV Format)"
+msgstr ""
+
+#: src/stockdialog.cpp:315
+#, fuzzy
+msgid "Delete selected Stock Price"
+msgstr "குறிக்கப்பட்ட அனைத்து பரிமாற்றங்களையும் அழி"
+
+#: src/stockdialog.cpp:317
+msgid "Add Stock Price to history"
+msgstr ""
+
+#: src/stockdialog.cpp:393
+msgid "Held At"
+msgstr "வைத்திருப்பு"
+
+#: src/stockdialog.cpp:528
+msgid "Stock History CSV Import"
+msgstr ""
+
+#: src/stockdialog.cpp:529 src/stockdialog.cpp:544
+#, fuzzy
+msgid "Quotes imported from CSV: "
+msgstr " பரிமாற்றங்கள் QIFலிருந்து இறக்கப்பட்டது"
+
+#: src/stockdialog.cpp:648
+msgid "Days"
+msgstr ""
+
+#: src/stockdialog.cpp:649
+#, fuzzy
+msgid "Weeks"
+msgstr "வாரமொருமுறை"
+
+#: src/stockdialog.cpp:650
+#, fuzzy
+msgid "Months"
+msgstr "மாதம்"
+
+#: src/stockdialog.cpp:652
+#, fuzzy
+msgid "Specify type frequency of stock history"
+msgstr "செலவு அல்லது வைப்பிற்கான இடைவெளியை குறிப்பிடு"
+
+#: src/stockdialog.cpp:653 src/stockdialog.cpp:665
+#, fuzzy
+msgid "Stock History Update"
+msgstr "புதுப்பிக்க சோதி"
+
+#: src/stockdialog.cpp:664
+msgid "Specify how many stock history prices download from purchase date"
+msgstr ""
+
+#: src/stockdialog.cpp:665
+#, fuzzy, c-format
+msgid "Number of %s:"
+msgstr "பங்கு எண்ணிக்கை"
+
+#: src/stockdialog.cpp:686
+msgid ""
+"End date is in the future\n"
+"Quotes will be updated until today"
+msgstr ""
+
+#: src/stockdialog.cpp:687 src/stockdialog.cpp:714
+msgid "Stock History Error"
+msgstr ""
+
+#: src/stockdialog.cpp:713
+msgid "Stock history not found!"
+msgstr ""
+
+#: src/stockspanel.cpp:39
+msgid "Using MMEX it is possible to track stocks/mutual funds investments."
+msgstr ""
+
+#: src/stockspanel.cpp:40
+msgid ""
+"To create new stocks entry the Symbol, Number of shares and Purchase prise should be "
+"entered."
+msgstr ""
+
+#: src/stockspanel.cpp:41
+msgid "Sample of UK (HSBC HLDG) share: HSBA.L"
+msgstr ""
+
+#: src/stockspanel.cpp:42
+msgid "If the Stock Name field is empty it will be filed when prices updated"
+msgstr ""
+
+#: src/stockspanel.cpp:95
+msgid "Share Name"
+msgstr "பங்கு பெயர்"
+
+#: src/stockspanel.cpp:96
+#, fuzzy
+msgid "Share Symbol"
+msgstr "முன் குறியீடு"
+
+#: src/stockspanel.cpp:98
+#, fuzzy
+msgid "Unit Price"
+msgstr "தற்போதைய விலை"
+
+#: src/stockspanel.cpp:99
+msgid "Total Price"
+msgstr ""
+
+#: src/stockspanel.cpp:101
+msgid "Curr. unit value"
+msgstr ""
+
+#: src/stockspanel.cpp:102
+#, fuzzy
+msgid "Curr. total value"
+msgstr "தற்போதைய காட்சி"
+
+#: src/stockspanel.cpp:103
+msgid "Value Date"
+msgstr ""
+
+#: src/stockspanel.cpp:142
+msgid "&New Stock Investment"
+msgstr "&புது பங்கு முதலீடு"
+
+#: src/stockspanel.cpp:144
+msgid "&Edit Stock Investment"
+msgstr "பங்கு முதலீட்டை &மாற்று"
+
+#: src/stockspanel.cpp:145
+msgid "&Delete Stock Investment"
+msgstr "பங்கு முதலீட்டை &அழி"
+
+#: src/stockspanel.cpp:253
+msgid "Do you really want to delete the stock investment?"
+msgstr "நிஜமாக இந்த பங்கு முதலீட்டை அழிக்க விருப்பமா?"
+
+#: src/stockspanel.cpp:254
+msgid "Confirm Stock Investment Deletion"
+msgstr "பங்கு முதலீடு அழிப்பை உறுதி செய்"
+
+#: src/stockspanel.cpp:493
+msgid "Delete Stock Investment"
+msgstr "பங்கு முதலீட்டை அழி"
+
+#: src/stockspanel.cpp:497
+#, fuzzy
+msgid "&Move"
+msgstr "மேலே நகர்த்து"
+
+#: src/stockspanel.cpp:498
+msgid "Move selected transaction to another account"
+msgstr ""
+
+#: src/stockspanel.cpp:511
+#, fuzzy
+msgid "Refresh"
+msgstr "புதுப்பி"
+
+#: src/stockspanel.cpp:512
+msgid "Refresh Stock Prices from Yahoo"
+msgstr "பங்கு விலையை யாஹூவிலிருந்து புதுப்பி"
+
+#: src/stockspanel.cpp:625
+#, fuzzy, c-format
+msgid "Stock Investments: %s"
+msgstr "பங்கு முதலீடுகள்: "
+
+#: src/stockspanel.cpp:667
+#, fuzzy, c-format
+msgid "Total Shares: %s"
+msgstr "மொத்த சொத்துக்கள்:"
+
+#: src/stockspanel.cpp:669
+#, fuzzy, c-format
+msgid "Invested: %s"
+msgstr "முதலீடு"
+
+#: src/stockspanel.cpp:670
+#, fuzzy, c-format
+msgid "Gain: %s"
+msgstr "லாப நட்டம்  "
+
+#: src/stockspanel.cpp:670
+#, c-format
+msgid "Loss: %s"
+msgstr ""
+
+#: src/stockspanel.cpp:707
+msgid "Stock prices successfully updated"
+msgstr ""
+
+#: src/stockspanel.cpp:709 src/stockspanel.cpp:920
+#, c-format
+msgid "Last updated %s"
+msgstr ""
+
+#: src/stockspanel.cpp:727
+msgid "Nothing to update"
+msgstr ""
+
+#: src/stockspanel.cpp:754
+msgid "Connecting..."
+msgstr ""
+
+#: src/stockspanel.cpp:798
+#, c-format
+msgid "%s\t -> %s\n"
+msgstr ""
+
+#: src/stockspanel.cpp:828
+#, c-format
+msgid "%s on %s"
+msgstr "%s மேல் %s"
+
+#: src/stockspanel.cpp:885
+#, fuzzy, c-format
+msgid "Symbol: %s"
+msgstr "குறீயீடு"
+
+#: src/transdialog.cpp:127
+#, fuzzy
+msgid "Duplicate Transaction"
+msgstr "நகல் பரிமாற்றங்களை பார்"
+
+#: src/transdialog.cpp:128
+msgid "Edit Transaction"
+msgstr "பரிமாற்றத்தை மாற்று"
+
+#: src/transdialog.cpp:433
+msgid "Populate Transaction #"
+msgstr " பரிமாற்றத்தை செயல்படுத்து"
+
+#: src/transdialog.cpp:454
+#, fuzzy
+msgid "Organize attachments of this transaction"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/transdialog.cpp:532
+#, fuzzy, c-format
+msgid ""
+"Do you want to add new payee: \n"
+"%s?"
+msgstr "நிஜமாய் இத்தொடரை அழிக்க விருப்பமா?"
+
+#: src/transdialog.cpp:533
+msgid "Confirm to add new payee"
+msgstr ""
+
+#: src/transdialog.cpp:1020
+#, fuzzy
+msgid "Specify account the money is taken from"
+msgstr "எந்த கணக்கிலிருந்து இந்த பரிமாற்றம் நிகழ்கிறதெனக் குறிப்பிடு"
+
+#: src/transdialog.cpp:1021
+#, fuzzy
+msgid "Specify account the money is moved to"
+msgstr "எந்த கணக்கிலிருந்து இந்த பரிமாற்றம் நிகழ்கிறதெனக் குறிப்பிடு"
+
+#: src/transdialog.cpp:1022
+#, fuzzy
+msgid "Specify the transfer amount in the From Account."
+msgstr "பரிமாற்ற கணக்கை குறிப்பிடு"
+
+#: src/transdialog.cpp:1030
+#, fuzzy
+msgid "Specify account for the transaction"
+msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#: src/transdialog.cpp:1032
+#, fuzzy
+msgid "Specify to whom the transaction is going to"
+msgstr "எங்கிருந்து எங்கு பரிமாற்றம் என குறிப்பிடு"
+
+#: src/util.cpp:116
+msgid "Syntax error in the URL string"
+msgstr ""
+
+#: src/util.cpp:117
+msgid "Found no protocol which can get this URL"
+msgstr ""
+
+#: src/util.cpp:118
+msgid "A host name is required for this protocol"
+msgstr ""
+
+#: src/util.cpp:119
+msgid "A path is required for this protocol"
+msgstr ""
+
+#: src/util.cpp:120
+msgid "Connection error"
+msgstr ""
+
+#: src/util.cpp:121 src/webapp.cpp:189
+msgid "An error occurred during negotiation"
+msgstr ""
+
+#: src/util.cpp:122
+msgid "Cannot get data from WWW!"
+msgstr ""
+
+#: src/util.cpp:123 src/webapp.cpp:196
+#, fuzzy
+msgid "Unknown error"
+msgstr "தெரியாத"
+
+#: src/util.cpp:267
+msgid "January"
+msgstr "ஜனவரி"
+
+#: src/util.cpp:267
+msgid "February"
+msgstr "பிப்ரவரி"
+
+#: src/util.cpp:267
+msgid "March"
+msgstr "மார்ச்"
+
+#: src/util.cpp:268
+msgid "April"
+msgstr "ஏப்ரல்"
+
+#: src/util.cpp:268 src/util.cpp:276
+msgid "May"
+msgstr "மே"
+
+#: src/util.cpp:268
+msgid "June"
+msgstr "ஜூன்"
+
+#: src/util.cpp:269
+msgid "July"
+msgstr "ஜூலை"
+
+#: src/util.cpp:269
+msgid "August"
+msgstr "ஆகஸ்ட்"
+
+#: src/util.cpp:269
+msgid "September"
+msgstr "செப்டம்பர்"
+
+#: src/util.cpp:270
+msgid "October"
+msgstr "அக்டோபர்"
+
+#: src/util.cpp:270
+msgid "November"
+msgstr "நவம்பர்"
+
+#: src/util.cpp:270
+msgid "December"
+msgstr "டிசம்பர்"
+
+#: src/util.cpp:275
+msgid "Jan"
+msgstr "ஜனவரி"
+
+#: src/util.cpp:275
+msgid "Feb"
+msgstr "பிப்ரவரி"
+
+#: src/util.cpp:275
+msgid "Mar"
+msgstr "மார்ச்"
+
+#: src/util.cpp:276
+msgid "Apr"
+msgstr "ஏப்ரல்"
+
+#: src/util.cpp:276
+msgid "Jun"
+msgstr "ஜூன்"
+
+#: src/util.cpp:277
+msgid "Jul"
+msgstr "ஜூலை"
+
+#: src/util.cpp:277
+msgid "Aug"
+msgstr "ஆகஸ்ட்"
+
+#: src/util.cpp:277
+msgid "Sep"
+msgstr "செப்டம்பர்"
+
+#: src/util.cpp:278
+msgid "Oct"
+msgstr "அக்டோபர்"
+
+#: src/util.cpp:278
+msgid "Nov"
+msgstr "நவம்பர்"
+
+#: src/util.cpp:278
+msgid "Dec"
+msgstr "டிசம்பர்"
+
+#: src/util.cpp:283
+msgid "Sunday"
+msgstr "ஞாயிறு"
+
+#: src/util.cpp:283
+msgid "Monday"
+msgstr "திங்கள்"
+
+#: src/util.cpp:283
+msgid "Tuesday"
+msgstr "செவ்வாய்"
+
+#: src/util.cpp:284
+msgid "Wednesday"
+msgstr "புதன்"
+
+#: src/util.cpp:284
+msgid "Thursday"
+msgstr "வியாழன்"
+
+#: src/util.cpp:284
+msgid "Friday"
+msgstr "வெள்ளி"
+
+#: src/util.cpp:285
+msgid "Saturday"
+msgstr "சனி"
+
+#: src/webapp.cpp:115
+msgid "Wrong WebApp GUID:"
+msgstr ""
+
+#: src/webapp.cpp:116
+msgid "please check it in network options."
+msgstr ""
+
+#: src/webapp.cpp:117
+msgid "Wrong WebApp settings"
+msgstr ""
+
+#: src/webapp.cpp:122
+#, fuzzy
+msgid "Unable to connect to WebApp:"
+msgstr "இணைப்பை சரிபார்க்கவும்"
+
+#: src/webapp.cpp:123
+msgid "please check settings and / or internet connection."
+msgstr ""
+
+#: src/webapp.cpp:125
+msgid "WebApp connection error"
+msgstr ""
+
+#: src/webapp.cpp:135
+msgid "Wrong WebApp API version:"
+msgstr ""
+
+#: src/webapp.cpp:136
+#, c-format
+msgid "WebApp   API version -> %s"
+msgstr ""
+
+#: src/webapp.cpp:137
+#, c-format
+msgid "Expected API version -> %s"
+msgstr ""
+
+#: src/webapp.cpp:138
+msgid "Wrong WebApp API version"
+msgstr ""
+
+#: src/webapp.cpp:188
+msgid "A generic network error occurred"
+msgstr ""
+
+#: src/webapp.cpp:190
+msgid "The client failed to connect the server"
+msgstr ""
+
+#: src/webapp.cpp:191
+#, fuzzy
+msgid "Invalid value"
+msgstr "செல்லாது "
+
+#: src/webapp.cpp:192
+msgid "The remote file doesn't exist"
+msgstr ""
+
+#: src/webapp.cpp:193
+msgid "An error occurred during reconnection"
+msgstr ""
+
+#: src/webapp.cpp:194
+msgid "Someone tried to send a command during a transfer"
+msgstr ""
+
+#: src/webapp.cpp:195
+msgid "Cannot get data from website"
+msgstr ""
+
+#: src/webapp.cpp:452
+#, c-format
+msgid "Account '%s' not found!"
+msgstr ""
+
+#: src/webapp.cpp:454
+#, c-format
+msgid ""
+"Transaction will be inserted with the first bank account:\n"
+"'%s' and marked as  'Follow Up'"
+msgstr ""
+
+#: src/webapp.cpp:456
+#, fuzzy
+msgid "Wrong WebApp account"
+msgstr "அனுப்புநர் கணக்கு "
+
+#: src/webapp.cpp:538 src/webapp.cpp:571
+#, fuzzy
+msgid "Unable to download attachments from webapp."
+msgstr "கோப்பில் எழுத முடியவில்லை"
+
+#: src/webapp.cpp:539
+msgid "Attachments folder not set or unavailable"
+msgstr ""
+
+#: src/webapp.cpp:540
+#, fuzzy
+msgid "Transaction not downloaded:"
+msgstr "பரிமாற்ற அறிக்கை"
+
+#: src/webapp.cpp:541
+msgid "please fix attachments folder or delete attachments from WebApp"
+msgstr ""
+
+#: src/webapp.cpp:542
+msgid "Attachment folder error"
+msgstr ""
+
+#: src/webapp.cpp:562
+#, fuzzy
+msgid "Attachment"
+msgstr "தகவல்தளத்தை &திற\tCtrl-O"
+
+#: src/webapp.cpp:572
+msgid "Communication error"
+msgstr ""
+
+#: src/webapp.cpp:573
+msgid ""
+"Transaction not downloaded: please close and open MMEX to try re-download transaction"
+msgstr ""
+
+#: src/webapp.cpp:574
+msgid "Attachment download error"
+msgstr ""
+
+#: src/webappdialog.cpp:54
+#, fuzzy
+msgid "Import WebApp transactions"
+msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#: src/webappdialog.cpp:97
+#, fuzzy
+msgid "&Import all "
+msgstr "இறக்கு"
+
+#: src/webappdialog.cpp:98
+#, fuzzy
+msgid "Import and open all "
+msgstr "இறக்கு கோப்பு"
+
+#: src/webappdialog.cpp:182
+#, fuzzy
+msgid "Unable to insert transaction in MMEX database"
+msgstr " பரிமாற்றங்கள் இறக்கப்பட்டவில்லை"
+
+#: src/webappdialog.cpp:183
+msgid "WebApp communication error"
+msgstr ""
+
+#: src/webappdialog.cpp:269
+#, fuzzy
+msgid "Open Attachment"
+msgstr "தகவல்தளத்தை &திற\tCtrl-O"
+
+#: src/webappdialog.cpp:270
+#, fuzzy
+msgid "Import"
+msgstr "இறக்கு"
+
+#: src/webappdialog.cpp:271
+#, fuzzy
+msgid "Delete"
+msgstr "அழி"
+
+#: src/wizard_newaccount.cpp:25
+msgid "Add Account Wizard"
+msgstr "எளிய முறையில் கணக்கை சேர்"
+
+#: src/wizard_newaccount.cpp:33
+#, fuzzy
+msgid ""
+" models all transactions as belonging to accounts.\n"
+"\n"
+"The next pages will help you create a new account.\n"
+"\n"
+"To help you get started, begin by making a list of all\n"
+"financial institutions where you hold an account."
+msgstr ""
+"மணி மேனேஜர் எல்லா பரிமாற்றங்களையும் கணக்குக்கு\n"
+" \n"
+"உரியதாக்குகிறது. பின்வரும் பக்கங்கள் புது கணக்கை\n"
+"\n"
+"சேர்க்க உதவும். நீங்கள் துவங்க, எல்லா நிதியக்\n"
+"கணக்குகளையும் பட்டியலிட்டு சேருங்கள்"
+
+#: src/wizard_newaccount.cpp:70
+msgid "Account Name Invalid"
+msgstr "கணக்குப் பெயர் செல்லாது"
+
+#: src/wizard_newaccount.cpp:77
+msgid "Account Name already exists"
+msgstr "கணக்கு பெயர் ஏற்கனவே உள்ளது"
+
+#: src/wizard_newaccount.cpp:91
+msgid "Name of the Account"
+msgstr "கணக்குப் பெயர்"
+
+#: src/wizard_newaccount.cpp:95
+#, fuzzy
+msgid "Specify a descriptive name for the account."
+msgstr "பரிமாற்ற நிலையை குறிப்பிடு"
+
+#: src/wizard_newaccount.cpp:96
+#, fuzzy
+msgid ""
+"This is generally the name of a financial institution\n"
+"where the account is held. For example: 'ABC Bank'."
+msgstr ""
+"\n"
+"கணக்கின் பெயரை குறிப்பிடு. பொதுவாக \n"
+"இது நிதி நிறுவனத்தின் பெயர்\n"
+"உ.ம்:'ABC வங்கி'"
+
+#: src/wizard_newaccount.cpp:115
+msgid "Type of Account"
+msgstr "கணக்கு வகை"
+
+#: src/wizard_newaccount.cpp:119
+#, fuzzy
+msgid "Select the type of account you want to create:"
+msgstr "உருவாக்கும் கணக்கு வகையை குறிப்பிடு"
+
+#: src/wizard_newaccount.cpp:120
+#, fuzzy
+msgid ""
+"General bank accounts cover a wide variety of account\n"
+"types like Checking, Savings and Credit card type accounts."
+msgstr ""
+"\n"
+"கணக்கின் வகையை குறிப்பிடு\n"
+"\n"
+"வங்கிக் கணக்குகள் காசோலை/சேமிப்பு/கடன்\n"
+"என பல வகைப்படும்."
+
+#: src/wizard_newaccount.cpp:124
+#, fuzzy
+msgid ""
+"Investment accounts are specialized accounts that only\n"
+"have stock/mutual fund investments associated with them."
+msgstr ""
+"\n"
+"முதலீட்டு கணக்குகள் பங்கு/பரஸ்பர நிதி \n"
+"முதலிய சிறப்பு வகை கணக்குகள்\n"
+"கொண்டது.\n"
+
+#: src/wizard_newaccount.cpp:128
+msgid ""
+"Term accounts are specialized bank accounts. Intended for asset\n"
+"type accounts such as Term Deposits and Bonds. These accounts\n"
+"can have regular money coming in and out, being outside the\n"
+"general income stream."
+msgstr ""
+
+#: src/wizard_newaccount.cpp:141
+#, fuzzy
+msgid "Base Account Currency Not set."
+msgstr "அடிப்படை நாணயம் அமைக்கப்படவில்லை"
+
+#: src/wizard_newaccount.cpp:142
+#, fuzzy
+msgid "Set that first using Tools->Options menu and then add a new account."
+msgstr ""
+"அடிப்படை நாணயம் அமைக்கப்படவில்லை\n"
+"முதலில் தெரிவுகளில் சென்று அதை அமைத்து பின்னர் புதுக் கணக்கை சேர்"
+
+#: src/wizard_newdb.cpp:30
+msgid "New Database Wizard"
+msgstr "எளிய முறையில் புதிய தகவல்தளம்"
+
+#: src/wizard_newdb.cpp:50
+msgid "The next pages will help you create a new database."
+msgstr ""
+
+#: src/wizard_newdb.cpp:51
+#, fuzzy
+msgid "Your database file is stored with an extension of .mmb."
+msgstr "ஏற்கனவே (*.mmb) நீட்சியுடன் உருவாக்கப்பட்ட மணி மேனேஜர் தகவல்தளத்தை கோப்பை திற"
+
+#: src/wizard_newdb.cpp:52
+msgid ""
+"As this file contains important financial information,\n"
+"we recommended creating daily backups with the Options\n"
+"setting: 'Backup before opening', and store your backups\n"
+"in a separate location."
+msgstr ""
+
+#: src/wizard_newdb.cpp:53
+msgid ""
+"The database can later be encrypted if required, by\n"
+"using the option: 'Save database as' and changing the\n"
+"file type before saving."
+msgstr ""
+
+#: src/wizard_newdb.cpp:120
+msgid "Base Currency for account"
+msgstr "கணக்கின் அடிப்படை நாணயம்"
+
+#: src/wizard_newdb.cpp:129
+#, fuzzy
+msgid ""
+"Specify the base (or default) currency to be used for the\n"
+"database. The base currency can later be changed by using\n"
+"the options dialog. New accounts, will use this currency by\n"
+"default, and can be changed when editing account details."
+msgstr ""
+"\n"
+"தகவல்தளத்தின் அடிப்படை நாணயத்தை \n"
+"குறிப்பிடு. ஒவ்வொரு கணக்கின் நாணயத்தையும் \n"
+"பிறகு மாற்ற இயலும்.\n"
+
+#: src/wizard_newdb.cpp:143
+msgid "(Optional) Specify a title or your name."
+msgstr ""
+
+#: src/wizard_newdb.cpp:144
+msgid "Used as a database title for displayed and printed reports."
+msgstr ""
+
+#: src/wizard_update.cpp:32
+msgid "Update Wizard"
+msgstr ""
+
+#: src/wizard_update.cpp:40
+msgid "A new version of MMEX is available!"
+msgstr ""
+
+#: src/wizard_update.cpp:41
+#, c-format
+msgid "Your version is %s"
+msgstr ""
+
+#: src/wizard_update.cpp:42
+#, c-format
+msgid "New version is %s"
+msgstr ""
+
+#: src/wizard_update.cpp:43
+msgid "Click on finish to open our website and download."
+msgstr ""
+
+#: src/wizard_update.cpp:57
+msgid "What's new:"
+msgstr ""
+
+#: src/wizard_update.cpp:141
+msgid "Download in progress"
+msgstr ""
+
+#: src/wizard_update.cpp:224
+#, fuzzy
+msgid "Unable to check for updates!"
+msgstr "&புதுப்பிக்க சோதி"
+
+#: src/wizard_update.cpp:226 src/wizard_update.cpp:329
+msgid "MMEX Update Check"
+msgstr ""
+
+#: src/wizard_update.cpp:328
+#, fuzzy, c-format
+msgid "You already have the latest version %s"
+msgstr "புதிய வெளியீடு நிறுவப்பட்டுள்ளது!"
+
+#: src/import_export/univcsvdialog.h:28
+#, fuzzy
+msgid "Universal CSV Dialog"
+msgstr "பொது CSV இறக்கு சாளரம்"
+
+#: src/mmTips.h:22
+msgid "Recommendation: Always backup your .mmb database file regularly."
+msgstr ""
+
+#: src/mmTips.h:23
+msgid ""
+"Recommendation: If upgrading to a new version of MMEX, make sure you backup your .mmb "
+"database file before doing so."
+msgstr ""
+
+#: src/mmTips.h:24
+msgid ""
+"Recommendation: Use copy (Ctrl+C) and paste (Ctrl+V) for frequently used transactions."
+msgstr ""
+
+#: src/mmTips.h:25
+msgid "Tip: Remember to make backups of your .mmb."
+msgstr ""
+
+#: src/mmTips.h:26
+msgid ""
+"Tip: The .mmb file is not encrypted. That means anyone else having the proper know how "
+"can actually open the file and read the contents. So make sure that if you are storing "
+"any sensitive financial information it is properly guarded."
+msgstr ""
+
+#: src/mmTips.h:27
+msgid ""
+"Tip: To mark a transaction as reconciled, just select the transaction and hit the 'r' or "
+"'R' key. To mark a transaction as unreconciled, just select the transaction and hit the "
+"'u' or 'U' key."
+msgstr ""
+
+#: src/mmTips.h:28
+msgid ""
+"Tip: To mark a transaction as requiring followup, just select the transaction and hit the "
+"'f' or 'F' key."
+msgstr ""
+
+#: src/mmTips.h:29
+msgid ""
+"Tip: MMEX supports printing of all reports that can be viewed. The print options are "
+"available under the menu, File->Print."
+msgstr ""
+
+#: src/mmTips.h:30
+msgid ""
+"Tip: You can modify some runtime behavior of MMEX by changing the options in the Options "
+"Dialog. "
+msgstr ""
+
+#: src/mmTips.h:31
+msgid ""
+"Tip: To print a statement with transactions from any arbitary set of criteria, use the "
+"transaction filter to select the transactions you want and then do a print from the menu."
+msgstr ""
+
+#: src/mmTips.h:32
+msgid ""
+"Tip: Set exchange rate for currencies in case if you have accounts with different "
+"currencies."
+msgstr ""
+
+#: src/mmTips.h:34
+msgid ""
+"Organize Categories Dialog Tip: Pressing the h key will cycle through all categories "
+"starting with the letter h"
+msgstr ""
+
+#: src/mmTips.h:35
+msgid ""
+"Organize Categories Dialog Tip: Pressing 2 key combination will cycle through all "
+"categories starting with that key combination. Example: Pressing ho will select "
+"Homeneeds, Home, House Tax, etc..."
+msgstr ""
+
+#: src/mmTips.h:37
+#, c-format
+msgid ""
+"Tip to get out of debt: Pay yourself 10% first. Put this into an account that is hard to "
+"touch. Make sure it is a chore to get the money out (you have to drive to the bank), so "
+"you will only tap it consciously and for major expenses."
+msgstr ""
+
+#: src/mmTips.h:38
+msgid "Tip to get out of debt: Establish an emergency fund."
+msgstr ""
+
+#: src/mmTips.h:39
+msgid "Tip to get out of debt: Stop acquiring new debt."
+msgstr ""
+
+#: src/mmTips.h:40
+msgid "Tip to get out of debt: Create a realistic budget for your expenses."
+msgstr ""
+
+#: src/mmTips.h:41
+msgid "Tip to get out of debt: Spend less than you earn."
+msgstr ""
+
+#: src/mmTips.h:42
+msgid "Tip to get out of debt: Pay more than the minimum."
+msgstr ""
+
+#: src/mmTips.h:43
+msgid ""
+"Before going to a shop and buy something: take the time making a list of what you really "
+"need. In the shop buy what is in your list."
+msgstr ""
+
+#: src/mmcombobox.h:78
+msgid ""
+"Please type in an exiting payee name,\n"
+"or make a selection using the dropdown button."
+msgstr ""
+
+#: src/mmtextctrl.h:89
+#, fuzzy
+msgid "Invalid Amount."
+msgstr "பெறுதல் தொகை செல்லாது"
+
+#: src/mmtextctrl.h:90
+msgid "Please enter a positive or calculated value."
+msgstr ""
+
+#: src/mmtextctrl.h:92
+msgid ""
+"Tip: For calculations, enter expressions like (2+2)*(2+2)\n"
+"Calculations will be evaluated and the result used as the entry."
+msgstr ""
+
+#: src/reports/payee.h:31
+#, fuzzy
+msgid "Payee Report"
+msgstr "பெறுநர் "
+
+#: src/reports/payee.h:58 src/reports/payee.h:66 src/reports/payee.h:74
+#: src/reports/payee.h:82 src/reports/payee.h:90 src/reports/payee.h:98
+#: src/reports/payee.h:106 src/reports/payee.h:114 src/reports/payee.h:122
+#: src/reports/payee.h:130
+#, fuzzy, c-format
+msgid "Payee Report - %s"
+msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Note: Split transactions not set"
+#~ msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Reoccuring Transaction Creation"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்ற விவரம்"
+
+#, fuzzy
+#~ msgid "Total Value"
+#~ msgstr "செல்லாது "
+
+#, fuzzy
+#~ msgid "Curr. unit price"
+#~ msgstr "தற்போதைய விலை"
+
+#, fuzzy
+#~ msgid "New Repeating Transaction"
+#~ msgstr "புது/மாற்று திட்டமிட்ட‌ பரிமாற்றம்"
+
+#, fuzzy
+#~ msgid " Edit Repeating Transaction"
+#~ msgstr "புது/மாற்று திட்டமிட்ட‌ பரிமாற்றம்"
+
+#, fuzzy
+#~ msgid " Enter Repeating Transaction"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#~ msgid "Repeating Transaction Details"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்ற விவரம்"
+
+#, fuzzy
+#~ msgid "Specify the Account that will own the repeating transaction"
+#~ msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#, fuzzy
+#~ msgid "Organize attachments of this repeating transaction"
+#~ msgstr "பரிமாற்றத் தொகையை குறிப்பிடு"
+
+#~ msgid "Repeating Transactions"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#, fuzzy
+#~ msgid "&Repeating Transactions"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#, fuzzy
+#~ msgid "Records found in repeating transactions: %i"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்றங்கள்"
+
+#, fuzzy
+#~ msgid "Modify the description for the attachment:"
+#~ msgstr "சொத்தின் பெயரை இடு"
+
+#~ msgid "Specify the date of the next bill or deposit"
+#~ msgstr "அடுத்த ரசீது அல்லது வைப்புக்கான தேதியை குறிப்பிடு"
+
+#, fuzzy
+#~ msgid "Enter the name for the new report group"
+#~ msgstr "சொத்தின் பெயரை இடு"
+
+#~ msgid "May "
+#~ msgstr "மே"
+
+#, fuzzy
+#~ msgid "Next Occurrence"
+#~ msgstr "அடுத்த நிகழ்வு"
+
+#~ msgid "Next Due Date"
+#~ msgstr "அடுத்த கடைசி தேதி"
+
+#~ msgid "Remaining Days"
+#~ msgstr "மீதமுள்ள நாட்கள்"
+
+#, fuzzy
+#~ msgid "Your current version is: %s"
+#~ msgstr "வெளியீட்டு வரலாறு"
+
+#, fuzzy
+#~ msgid "New version is: %s"
+#~ msgstr "வெளியீட்டு வரலாறு"
+
+#, fuzzy
+#~ msgid "Would you like to download it now ?"
+#~ msgstr ""
+#~ "முன் திறந்த .mmb தகவல்தளத்தை கண்டறிய முடியவில்லை\n"
+#~ "நீங்கள் கோப்பினை உலாவி கண்டுபிடிக்க விருப்பமா?"
+
+#, fuzzy
+#~ msgid "Total: "
+#~ msgstr "மொத்தம்:"
+
+#~ msgid "Split Category"
+#~ msgstr "வகையைப் பிரி"
+
+#~ msgid "Select To Acct"
+#~ msgstr "பெறுநர் கணக்கை தேர்ந்தெடு"
+
+#~ msgid "Specify where the transaction is going to or coming from "
+#~ msgstr "எங்கிருந்து எங்கு பரிமாற்றம் என குறிப்பிடு"
+
+#, fuzzy
+#~ msgid "Specify which account the transfer is comming from"
+#~ msgstr "எந்த கணக்கிலிருந்து இந்த பரிமாற்றம் நிகழ்கிறதெனக் குறிப்பிடு"
+
+#~ msgid "Select From Account"
+#~ msgstr "அனுப்புநரை தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "From Account"
+#~ msgstr "அனுப்புநர் கணக்கு "
+
+#, fuzzy
+#~ msgid "To Account"
+#~ msgstr "பெறுநர் கணக்கு "
+
+#~ msgid "From and To Account cannot be the same."
+#~ msgstr "அனுப்புநர் மற்றும் பெறுநர் கணக்குகள் ஒன்றாயிருக்க இயலாது."
+
+#, fuzzy
+#~ msgid "Report with same name exists"
+#~ msgstr "வகையின் பெயர் ஏற்கனவே உள்ளது"
+
+#~ msgid "Invalid Value "
+#~ msgstr "செல்லாது "
+
+#, fuzzy
+#~ msgid "database file"
+#~ msgstr "தகவல்தளத்தை &வேறாக சேமி "
+
+#, fuzzy
+#~ msgid "New transactions found on web app"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Download WebApp new transaction"
+#~ msgstr "இனிவரும் பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "&Bank Accounts"
+#~ msgstr "வங்கிக் கணக்குகள்"
+
+#, fuzzy
+#~ msgid "Expand Bank Accounts on navigation tree"
+#~ msgstr "வங்கிக் கணக்குகள்"
+
+#, fuzzy
+#~ msgid "Term &Accounts"
+#~ msgstr "&கணக்குகள்"
+
+#, fuzzy
+#~ msgid "Expand Term Accounts on navigation tree"
+#~ msgstr "வங்கிக் கணக்குகள்"
+
+#, fuzzy
+#~ msgid "&Stock Accounts"
+#~ msgstr "வங்கிக் கணக்குகள்"
+
+#~ msgid "Set"
+#~ msgstr "தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "Stock Accounts"
+#~ msgstr "வங்கிக் கணக்குகள்"
+
+#~ msgid "Invalid number of shares entered "
+#~ msgstr "பங்கு எண்ணிக்கை செல்லாது"
+
+#~ msgid "Invalid purchase price entered "
+#~ msgstr "பங்கு விலை செல்லாது"
+
+#~ msgid "Invalid commission entered "
+#~ msgstr "தரகுத் தொகை செல்லாது"
+
+#~ msgid "Current"
+#~ msgstr "தற்பொழுது"
+
+#, fuzzy
+#~ msgid "Specify categories for this transaction"
+#~ msgstr "இப்பரிமாற்றத்துக்கான வகையை குறிப்பிடு"
+
+#, fuzzy
+#~ msgid "Error code:"
+#~ msgstr "தவறு"
+
+#, fuzzy
+#~ msgid "&Open"
+#~ msgstr "திற"
+
+#, fuzzy
+#~ msgid "Load Template"
+#~ msgstr "வார்ப்புருவை ஏற்று"
+
+#, fuzzy
+#~ msgid "Save As..."
+#~ msgstr "பெறுநர்"
+
+#, fuzzy
+#~ msgid "Choose Universal CSV format file to load"
+#~ msgstr "ஏற்றிடும் CSV தகவல் கோப்பை தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "Choose Universal CSV format file to save"
+#~ msgstr "ஏற்றிடும் CSV தகவல் கோப்பை தேர்ந்தெடு"
+
+#~ msgid "Unable to write to file."
+#~ msgstr "கோப்பில் எழுத முடியவில்லை"
+
+#, fuzzy
+#~ msgid "Line: %i"
+#~ msgstr "வரி : "
+
+#, fuzzy
+#~ msgid "Financial Year: "
+#~ msgstr "கடந்த ஆண்டு"
+
+#, fuzzy
+#~ msgid "Year: "
+#~ msgstr "ஆண்டுக்கொருமுறை"
+
+#, fuzzy
+#~ msgid "Month: "
+#~ msgstr "மாதம்"
+
+#, fuzzy
+#~ msgid "Subcategories"
+#~ msgstr "துணைவகை"
+
+#~ msgid "Legend:"
+#~ msgstr "பொருள்:"
+
+#, fuzzy
+#~ msgid "All Others"
+#~ msgstr "மற்றவை"
+
+#, fuzzy
+#~ msgid "Database::open: %s"
+#~ msgstr "ஒரு தகவல்தளமும் திறக்கபடவில்லை"
+
+#, fuzzy
+#~ msgid "Initial Term Account Activation"
+#~ msgstr "கணக்கு அழிப்பை உறுதி செய்"
+
+#, fuzzy
+#~ msgid "New MMEX Options"
+#~ msgstr "விருப்பங்களை பார்"
+
+#, fuzzy
+#~ msgid "Expences"
+#~ msgstr "செலவுகள்"
+
+#, fuzzy
+#~ msgid "Home Page Expansion Options"
+#~ msgstr "இல்லப்பக்கம்"
+
+#~ msgid "Rate of Change in Value"
+#~ msgstr "மதிப்பில் மாற்ற வீதம்"
+
+#, fuzzy
+#~ msgid "Do you really want to delete all the \"Follow Up\" transactions shown?"
+#~ msgstr "நிஜமாய் குறிக்கப்பட்ட அனைத்து பரிமாற்றங்களையும் அழிக்க விருப்பமா?"
+
+#~ msgid "&Help\tCtrl-F1"
+#~ msgstr "&உதவி\tCtrl-F1"
+
+#, fuzzy
+#~ msgid "New update available: "
+#~ msgstr "புது வெளியீடு இல்லை!"
+
+#, fuzzy
+#~ msgid "Term account"
+#~ msgstr "அனுப்புநர் கணக்கு "
+
+#, fuzzy
+#~ msgid "Specify the folder to use when archive attachments"
+#~ msgstr "உலாவும் வழிக்கான வண்ணத்தை குறிப்பிடு"
+
+#, fuzzy
+#~ msgid " Unknown QIF line: "
+#~ msgstr "தவறான QIF வரி வகை "
+
+#, fuzzy
+#~ msgid "Cannot process these QIF Account Types yet."
+#~ msgstr "QIF கணக்கு வகையை இன்னும் சரிபார்க்க முடியவில்லை "
+
+#, fuzzy
+#~ msgid "Line: %i invalid amount, skipping."
+#~ msgstr "தொகை செல்லாது, தவிர்க்கப்பட்டது."
+
+#, fuzzy
+#~ msgid "Added category: %s"
+#~ msgstr "வகை"
+
+#, fuzzy
+#~ msgid "Added subcategory: %s"
+#~ msgstr "புது வகையை சேர்"
+
+#, fuzzy
+#~ msgid "Date is missing"
+#~ msgstr "காலியான தேதி, "
+
+#, fuzzy
+#~ msgid "Amount is missing"
+#~ msgstr "காலியான தொகை"
+
+#, fuzzy
+#~ msgid "Line %i"
+#~ msgstr "வரி : "
+
+#, fuzzy
+#~ msgid "There are no accounts available for import to"
+#~ msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#, fuzzy
+#~ msgid "Choose Account to Import to"
+#~ msgstr "இறக்கிட வேண்டிய கணக்கை தேர்ந்தெடு:"
+
+#, fuzzy
+#~ msgid "Total number of lines: %i"
+#~ msgstr "மொத்த சொத்துக்கள்:"
+
+#, fuzzy
+#~ msgid "Do you want to scan all transaction ?"
+#~ msgstr "நிஜமாய் பார்வையிலுள்ள அனைத்து பரிமாற்றங்களையும் அழிக்க விருப்பமா?"
+
+#, fuzzy
+#~ msgid "Translators"
+#~ msgstr "பரிமாற்றங்கள்"
+
+#, fuzzy
+#~ msgid "Repeat Transaction - Auto Execution Checking"
+#~ msgstr "திட்டமிட்ட‌ பரிமாற்ற விவரம்"
+
+#, fuzzy
+#~ msgid "Advanced Amount"
+#~ msgstr "மேலும்"
+
+#, fuzzy
+#~ msgid "Min: "
+#~ msgstr "லாப நட்டம்  "
+
+#, fuzzy
+#~ msgid "Max: "
+#~ msgstr "மே"
+
+#, fuzzy
+#~ msgid "Page Set&up..."
+#~ msgstr "பக்க அமைப்பு..."
+
+#~ msgid "Setup page printing options"
+#~ msgstr "அமைப்பு பக்கம் அச்சில் தேர்வுகள்"
+
+#, fuzzy
+#~ msgid "Current &View"
+#~ msgstr "தற்போதைய காட்சி"
+
+#~ msgid "Preview current report"
+#~ msgstr "தற்போதைய அறிக்கை முன்காட்சி"
+
+#, fuzzy
+#~ msgid "Print Pre&view..."
+#~ msgstr "அச்சு முன்னோட்டு..."
+
+#, fuzzy
+#~ msgid "Colour Settings"
+#~ msgstr "அமைப்புகள்"
+
+#~ msgid "Nav Tree"
+#~ msgstr "உலாவும் வழி"
+
+#~ msgid "List Background"
+#~ msgstr "பட்டி பின்னணி"
+
+#~ msgid "Specify the color for the list background"
+#~ msgstr "பட்டி பின்னணிக்கான வண்ணத்தை குறிப்பிடு"
+
+#~ msgid "List Row 0"
+#~ msgstr "பட்டி வரி 0"
+
+#~ msgid "Specify the color for the list row 0"
+#~ msgstr "பட்டி வரி 0க்கான வண்ணத்தை குறிப்பிடு"
+
+#~ msgid "List Row 1"
+#~ msgstr "பட்டி வரி 1"
+
+#~ msgid "Specify the color for the list row 1"
+#~ msgstr "பட்டி வரி 1க்கான வண்ணத்தை குறிப்பிடு"
+
+#~ msgid "List Border"
+#~ msgstr "பட்டி விளிம்பு"
+
+#~ msgid "Specify the color for the list Border"
+#~ msgstr "பட்டி விளிம்புக்கான வண்ணத்தை குறிப்பிடு"
+
+#~ msgid "List Details"
+#~ msgstr "பட்டி விவரங்கள்"
+
+#~ msgid "Specify the color for the list details"
+#~ msgstr "பட்டி விவரங்களுக்கான வண்ணத்தை குறிப்பிடு"
+
+#~ msgid "Future Transactions"
+#~ msgstr "வருங்கால பரிமாற்றங்கள்"
+
+#~ msgid "Specify the color for future transactions"
+#~ msgstr "பரிமாற்றத்துக்கான வண்ணத்தை குறிப்பிடு"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "கொடாநிலைக்கு மீட்டு"
+
+#~ msgid "Restore Default Colors"
+#~ msgstr "கொடாநிலை வண்ணங்களை மீட்டு"
+
+#~ msgid "Import/Export Settings"
+#~ msgstr "இறக்குமதி/ஏற்றுமதி அமைப்புகள்"
+
+#~ msgid "Colors"
+#~ msgstr "வண்ணங்கள்"
+
+#, fuzzy
+#~ msgid "Import/Export"
+#~ msgstr "இறக்குமதி/ஏற்றுமதி அமைப்புகள்"
+
+#, fuzzy
+#~ msgid "Specify which account the transfer is coming from"
+#~ msgstr "எந்த கணக்கிலிருந்து இந்த பரிமாற்றம் நிகழ்கிறதெனக் குறிப்பிடு"
+
+#~ msgid "Summary of Assets"
+#~ msgstr "சொத்து விவரங்கள்"
+
+#, fuzzy
+#~ msgid "Account:"
+#~ msgstr "கணக்குகள்"
+
+#, fuzzy
+#~ msgid "Date Range:"
+#~ msgstr "தேதி வரிசையைக் குறிப்பிடு"
+
+#, fuzzy
+#~ msgid "Payee:"
+#~ msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Category:"
+#~ msgstr "வகை "
+
+#, fuzzy
+#~ msgid "Subcategory:"
+#~ msgstr "துணைவகை"
+
+#, fuzzy
+#~ msgid "Status:"
+#~ msgstr "நிலை"
+
+#, fuzzy
+#~ msgid "Amount Range:"
+#~ msgstr "தொகை வரிசையைக் குறிப்பிடு"
+
+#~ msgid "Notes:"
+#~ msgstr "குறிப்பு:"
+
+#~ msgid "View Reconciled"
+#~ msgstr "சரிபார்க்கப்பட்டதை பார்"
+
+#, fuzzy
+#~ msgid "View Not-Reconciled"
+#~ msgstr "சரிபார்க்கப்பட்டதை பார்"
+
+#~ msgid "View UnReconciled"
+#~ msgstr "சரிபார்க்கப்படாததை பார்"
+
+#, fuzzy
+#~ msgid "View Void"
+#~ msgstr "30 நாட்களுக்கானதை பார்"
+
+#, fuzzy
+#~ msgid "View Flagged"
+#~ msgstr "குறிக்கப்பட்ட பரிமாற்றங்களை பார்"
+
+#, fuzzy
+#~ msgid "View Duplicates"
+#~ msgstr "நகல்"
+
+#~ msgid "New/Edit Stock Investment"
+#~ msgstr "புது/மாற்று பங்கு முதலீடு"
+
+#, fuzzy
+#~ msgid "Are you are sure you want to proceed with the import?"
+#~ msgstr "நிஜமாய் சொத்து விவரத்தை அழிக்க விருப்பமா?"
+
+#, fuzzy
+#~ msgid "Line: "
+#~ msgstr "வரி : "
+
+#, fuzzy
+#~ msgid "Category is missing"
+#~ msgstr "வகை "
+
+#, fuzzy
+#~ msgid "Payee missing"
+#~ msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Payee Added: %s"
+#~ msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Account name: %s"
+#~ msgstr "கணக்கு பெயர்"
+
+#~ msgid "Line : "
+#~ msgstr "வரி : "
+
+#~ msgid " Start Page"
+#~ msgstr "செயலி துவக்க சாளரம்"
+
+#, fuzzy
+#~ msgid "&OK"
+#~ msgstr "சரி"
+
+#~ msgid "Update Failed"
+#~ msgstr "புதுப்பிப்பு தவறியது"
+
+#, fuzzy
+#~ msgid "Organise Categories"
+#~ msgstr "வகை ஒழுங்கிடு"
+
+#, fuzzy
+#~ msgid "Custom Reports"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Custom script:"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Load Custom SQL file:"
+#~ msgstr "தனி SQL சாளரம்"
+
+#, fuzzy
+#~ msgid "Load Custom Lua file:"
+#~ msgstr "தனி SQL சாளரம்"
+
+#, fuzzy
+#~ msgid "New Lua Custom Report"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Do you want to delete the Lua file as well?"
+#~ msgstr "நிஜமாய் இத்தொடரை அழிக்க விருப்பமா?"
+
+#~ msgid "SQL Query will modify your Data. Proceed??"
+#~ msgstr "SQL கேள்வி உங்கள் தகவலை மாற்றும்.தொடரவா??"
+
+#, fuzzy
+#~ msgid "Select the Custom Report %s"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Error: %s\n"
+#~ msgstr "தவறு: %s"
+
+#~ msgid "Currency List"
+#~ msgstr "நாணய பட்டி"
+
+#, fuzzy
+#~ msgid "From %s to %s"
+#~ msgstr "%s மேல் %s"
+
+#, fuzzy
+#~ msgid "View All transactions"
+#~ msgstr "எல்லா பரிமாற்றங்களையும் பார்"
+
+#~ msgid "Checking/Savings"
+#~ msgstr "காசோலை/சேமிப்பு"
+
+#, fuzzy
+#~ msgid "Edit Custom Report"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Custom Reports..."
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Create new Custom Reports"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid " account: "
+#~ msgstr "தொகை "
+
+#, fuzzy
+#~ msgid "Setting new Database file"
+#~ msgstr "தகவல்தளத்தை &வேறாக சேமி "
+
+#, fuzzy
+#~ msgid "Week#%d"
+#~ msgstr "வாரமொருமுறை"
+
+#, fuzzy
+#~ msgid "Change all transactions using one Payee to another Payee"
+#~ msgstr "அனைத்து பரிமாற்றங்களும் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Filter"
+#~ msgstr "&கோப்பு"
+
+#, fuzzy
+#~ msgid "Tools"
+#~ msgstr "&கருவிகள்"
+
+#~ msgid "Add a new payee name"
+#~ msgstr "புது பெறுநர் பெயரை சேர்"
+
+#~ msgid "Change the name of an existing payee"
+#~ msgstr "ஏற்கனவேயுள்ள பெறுநர் பெயரை மாற்று"
+
+#~ msgid "Delete the selected payee. The payee cannot be used by an existing transaction."
+#~ msgstr "தேர்ந்தெடுத்த பெறுநரை அழி.இந்த பெறுநரை ஏற்கனவே உள்ள பரிமாற்றத்தில் பயன்படுத்த முடியாது."
+
+#~ msgid "Select the currently selected payee as the selected payee for the transaction"
+#~ msgstr "தேர்ந்தெடுத்த பெறுநரை பரிமாற்றத்தின் பெறுநராக தேர்ந்தெடு."
+
+#, fuzzy
+#~ msgid "Edit Payee Name"
+#~ msgstr "பெறுநர் சேர்ப்பு "
+
+#, fuzzy
+#~ msgid "to category: "
+#~ msgstr "வகை: \n"
+
+#, fuzzy
+#~ msgid "&Select Category"
+#~ msgstr "வகையை தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "Account missing"
+#~ msgstr "கணக்கு பட்டி"
+
+#, fuzzy
+#~ msgid "Transactions imported from QIF: %ld"
+#~ msgstr " பரிமாற்றங்கள் QIFலிருந்து இறக்கப்பட்டது"
+
+#, fuzzy
+#~ msgid "Transaction Statistics for %i - %i"
+#~ msgstr "பரிமாற்றப் புள்ளிவிவரம்:"
+
+#~ msgid "View File Contents"
+#~ msgstr "கோப்பு உள்ளடக்கத்தை பார்"
+
+#~ msgid "New/Edit Transaction"
+#~ msgstr "புது/மாற்று பரிமாற்றம்"
+
+#, fuzzy
+#~ msgid "Scale should be greater than zero"
+#~ msgstr "பரிமாற்ற வீதம் 0.0ஐ விட அதிகமாய் இருக்க வேண்டும்"
+
+#, fuzzy
+#~ msgid "Base Conversion Rate should be positive"
+#~ msgstr "பரிமாற்ற வீதம் 0.0ஐ விட அதிகமாய் இருக்க வேண்டும்"
+
+#, fuzzy
+#~ msgid "Custom Report: "
+#~ msgstr "தனி SQL அறிக்கை"
+
+#~ msgid "Name of Currency to Add"
+#~ msgstr "சேர்க்கும் நாணயத்தின் பெயர்"
+
+#~ msgid "Add Currency"
+#~ msgstr "நாணயத்தை சேர்"
+
+#, fuzzy
+#~ msgid "Attempt to Add a currency which already exists!"
+#~ msgstr "நாணயப் பெயர் ஏற்கனவே உள்ளது"
+
+#, fuzzy
+#~ msgid "View Un-Reconciled"
+#~ msgstr "சரிபார்க்கப்படாததை பார்"
+
+#, fuzzy
+#~ msgid "Please deactivate Transaction Filter"
+#~ msgstr "பறிமாற்ற வடி"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Last Calendar Month"
+#~ msgstr "கடந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Current Month"
+#~ msgstr "எங்கே தொகை செல்கிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - 30 Days"
+#~ msgstr "எங்கே தொகை செல்கிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Last Year"
+#~ msgstr "எங்கே தொகை செல்கிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Current Year"
+#~ msgstr "எங்கே தொகை செல்கிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Last Financial Year"
+#~ msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Current Financial Year"
+#~ msgstr "இந்த ஆண்டு"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Last Calendar Month"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Current Month"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - 30 Days"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Last Year"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Current Year"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Last Financial Year"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Current Financial Year"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Categories - Last Calendar Month"
+#~ msgstr "கடந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Categories - Current Month"
+#~ msgstr "இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Categories - Last Year"
+#~ msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#, fuzzy
+#~ msgid "Categories - Current Year"
+#~ msgstr "இந்த ஆண்டு"
+
+#, fuzzy
+#~ msgid "Categories - Last Financial Year"
+#~ msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#, fuzzy
+#~ msgid "Payees - Last Calendar Month"
+#~ msgstr "கடந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Payees - Current Month"
+#~ msgstr "இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Payees - Last 30 Days"
+#~ msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#, fuzzy
+#~ msgid "Payees - Last Year"
+#~ msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#, fuzzy
+#~ msgid "Payees - Current Year"
+#~ msgstr "இந்த ஆண்டு"
+
+#, fuzzy
+#~ msgid "Payees - Last Financial Year"
+#~ msgstr "கடந்த 30 நாட்களின் உச்ச வகைகள்  "
+
+#, fuzzy
+#~ msgid "Payees - Current Financial Year"
+#~ msgstr "இந்த ஆண்டு"
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Last Calendar Month"
+#~ msgstr "வரவு vs செலவுகள்: இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Income vs Expenses - 30 Days"
+#~ msgstr "வரவு vs செலவு (அனைத்து)"
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Last Year"
+#~ msgstr "வரவு vs செலவு (அனைத்து)"
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Current Year"
+#~ msgstr "வரவு vs செலவுகள்: இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Last Financial Year"
+#~ msgstr "இவ்வாண்டுக்கான வரவு vs செலவுகள் : "
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Current Financial Year"
+#~ msgstr "இவ்வாண்டுக்கான வரவு vs செலவுகள் : "
+
+#~ msgid "Income vs Expenses - All Time"
+#~ msgstr "வரவு vs செலவு (அனைத்து)"
+
+#, fuzzy
+#~ msgid "Where the Money Goes - Current Month to Date"
+#~ msgstr "எங்கே தொகை செல்கிறது"
+
+#, fuzzy
+#~ msgid "Where the Money Comes From - Current Month to Date"
+#~ msgstr "எங்கிருந்து தொகை வருகிறது"
+
+#, fuzzy
+#~ msgid "Category Report"
+#~ msgstr "வகை "
+
+#, fuzzy
+#~ msgid "Payees - Current Month to Date"
+#~ msgstr "இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Current Month to Date"
+#~ msgstr "வரவு vs செலவுகள்: இந்த மாதம்"
+
+#, fuzzy
+#~ msgid " Filter Settings "
+#~ msgstr "அமைப்புகளைப் பார்"
+
+#, fuzzy
+#~ msgid "Income vs Expenses for Financial Year: "
+#~ msgstr "இவ்வாண்டுக்கான வரவு vs செலவுகள் : "
+
+#, fuzzy
+#~ msgid "Income vs Expenses for Year: %d"
+#~ msgstr "இவ்வாண்டுக்கான வரவு vs செலவுகள் : "
+
+#, fuzzy
+#~ msgid "Income vs Expenses - Last 12 months"
+#~ msgstr "வரவு vs செலவுகள்: இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Payees Total: "
+#~ msgstr "வகை "
+
+#, fuzzy
+#~ msgid "View Last 365 days"
+#~ msgstr "30 நாட்களுக்கானதை பார்"
+
+#, fuzzy
+#~ msgid "MMEX Account View: Transaction Filter"
+#~ msgstr "பறிமாற்ற வடி"
+
+#~ msgid "About "
+#~ msgstr "பற்றி"
+
+#~ msgid "Viewing All Budget Categories"
+#~ msgstr "எல்லா பட்ஜெட் வகைகளும் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Deletion completed"
+#~ msgstr "வகை செல்லாது"
+
+#, fuzzy
+#~ msgid "to "
+#~ msgstr " முடிவு தேதி: "
+
+#, fuzzy
+#~ msgid "Please deactivate: "
+#~ msgstr "தயவு செய்து காத்திருக்கவும்"
+
+#, fuzzy
+#~ msgid "&Duplicate Transaction"
+#~ msgstr "நகல் பரிமாற்றங்களை பார்"
+
+#, fuzzy
+#~ msgid "Categories - Current Month to Date"
+#~ msgstr "இந்த மாதம்"
+
+#, fuzzy
+#~ msgid "Import &QIF File"
+#~ msgstr "இறக்கு கோப்பு"
+
+#~ msgid "Init Balance "
+#~ msgstr "ஆரம்ப இருப்பு "
+
+#, fuzzy
+#~ msgid "Select accounts"
+#~ msgstr "தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "QIF Files "
+#~ msgstr "&QIF கோப்புகள்"
+
+#, fuzzy
+#~ msgid "Transactions imported from QIF"
+#~ msgstr " பரிமாற்றங்கள் QIFலிருந்து இறக்கப்பட்டது"
+
+#, fuzzy
+#~ msgid "to account "
+#~ msgstr "தொகை "
+
+#~ msgid " account name "
+#~ msgstr "கணக்கு பெயர் "
+
+#~ msgid "Transaction Type is empty"
+#~ msgstr "காலியான பரிமாற்ற வகை"
+
+#~ msgid "Category is empty, marking transaction as Unknown category"
+#~ msgstr "காலியான வகை,பரிமாற்ற வகை தெரியாது என குறிக்கப்பட்டது"
+
+#~ msgid ""
+#~ "Skipping QIF transaction because date, type, amount is empty/invalid, transaction "
+#~ "skipped had "
+#~ msgstr ""
+#~ "பின்வரும் தலைப்புகளுள் ஏதோ ஒன்று இல்லை: தேதி,பரிமாற்ற வகை,தொகை - QIF இறக்கம் தவிர்க்கப்பட்டது."
+
+#~ msgid " payee "
+#~ msgstr "பெறுநர் "
+
+#~ msgid " type "
+#~ msgstr "வகை "
+
+#~ msgid " amount "
+#~ msgstr "தொகை "
+
+#~ msgid " date "
+#~ msgstr "தேதி"
+
+#, fuzzy
+#~ msgid "Total Imported : "
+#~ msgstr "மொத்த தொகை: "
+
+#~ msgid "From: "
+#~ msgstr "ஆரம்ப தேதி: "
+
+#, fuzzy
+#~ msgid "to: "
+#~ msgstr " முடிவு தேதி: "
+
+#~ msgid "Stock Investments"
+#~ msgstr "பங்கு முதலீடுகள்"
+
+#~ msgid "Entry "
+#~ msgstr "உள்ளிட்ட "
+
+#, fuzzy
+#~ msgid "Find Payee: "
+#~ msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Filter Payees: "
+#~ msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Add"
+#~ msgstr "சேர்"
+
+#~ msgid "Num Shares"
+#~ msgstr "பங்கு எண்ணிக்கை"
+
+#, fuzzy
+#~ msgid "Select To Account-"
+#~ msgstr "பெறுநரை தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "for Account: "
+#~ msgstr "பெறுநர் கணக்கு "
+
+#~ msgid "Category cannot be empty"
+#~ msgstr "வகை செல்லாது"
+
+#, fuzzy
+#~ msgid "From "
+#~ msgstr "ஆரம்ப தேதி: "
+
+#, fuzzy
+#~ msgid "Source Payee"
+#~ msgstr "பெறுநரை தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "to payee: "
+#~ msgstr "பெறுநர் "
+
+#, fuzzy
+#~ msgid "Create a new SQL report"
+#~ msgstr "தனி SQL அறிக்கை"
+
+#, fuzzy
+#~ msgid "Edit..."
+#~ msgstr "மாற்று"
+
+#, fuzzy
+#~ msgid "Edit an existing SQL report"
+#~ msgstr "ஏற்கனவேயுள்ள வகையின் பெயரை மாற்று"
+
+#, fuzzy
+#~ msgid "Delete..."
+#~ msgstr "அழி"
+
+#, fuzzy
+#~ msgid "Custom SQL Manager"
+#~ msgstr "தனி SQL கேள்வி"
+
+#, fuzzy
+#~ msgid "Sub-Category"
+#~ msgstr "துணைவகை"
+
+#, fuzzy
+#~ msgid "Type: "
+#~ msgstr "வகை:"
+
+#, fuzzy
+#~ msgid "Notes: "
+#~ msgstr "குறிப்பு: \n"
+
+#~ msgid " starts"
+#~ msgstr "துவங்குகிறது"
+
+#~ msgid "Category "
+#~ msgstr "வகை "
+
+#, fuzzy
+#~ msgid "App"
+#~ msgstr "ஏப்ரல்"
+
+#, fuzzy
+#~ msgid "Income......."
+#~ msgstr "வரவு"
+
+#, fuzzy
+#~ msgid "Expenses..."
+#~ msgstr "செலவுகள்"
+
+#~ msgid "Opening Database File && Verifying Integrity"
+#~ msgstr "தகவல்தள கோப்பு திறப்பு && முழுமை சரிபார்ப்பு"
+
+#, fuzzy
+#~ msgid "No database!"
+#~ msgstr "எளிய முறையில் புதிய தகவல்தளம்"
+
+#~ msgid "Transaction View Options"
+#~ msgstr "பரிமாற்ற காட்சி தெரிவுகள்"
+
+#~ msgid "Font Size Options"
+#~ msgstr "எழுத்துரு அளவு விருப்பங்கள்"
+
+#~ msgid "Date  "
+#~ msgstr "தேதி "
+
+#~ msgid "Accessing Database"
+#~ msgstr "தகவல் கோப்பு அணுகப்படுகிறது "
+
+#~ msgid "View Reconciled Transactions"
+#~ msgstr "சரிபார்க்கப்பட்ட பரிமாற்றங்களைப் பார்"
+
+#~ msgid "View Un-Reconciled Transactions"
+#~ msgstr "சரிபார்க்கப்படாத பரிமாற்றங்களைப் பார்"
+
+#~ msgid "View All Except Reconciled Transactions"
+#~ msgstr "சரிபார்க்கப்படாத பரிமாற்றங்களைப் பார்"
+
+#~ msgid "View Void Transactions"
+#~ msgstr "செல்லாத பரிமாற்றங்களை பார்"
+
+#, fuzzy
+#~ msgid "View \"Follow Up\" Transactions"
+#~ msgstr "எல்லா பரிமாற்றங்களையும் பார்"
+
+#~ msgid "View Duplicate Transactions"
+#~ msgstr "நகல் பரிமாற்றங்களை பார்"
+
+#, fuzzy
+#~ msgid "View Transactions for today"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#, fuzzy
+#~ msgid "View Transactions for current month"
+#~ msgstr "இந்த மாத பரிமாற்றங்களைப் பார்"
+
+#, fuzzy
+#~ msgid "View Transactions for last 30 days"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#, fuzzy
+#~ msgid "View Transactions for last 90 days"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#, fuzzy
+#~ msgid "View Transactions for last month"
+#~ msgstr "கடந்த மாத பரிமாற்றங்களைப் பார்"
+
+#, fuzzy
+#~ msgid "View Transactions for last 3 months"
+#~ msgstr "கடந்த 3 மாதங்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#~ msgid "Viewing all transactions"
+#~ msgstr "அனைத்து பரிமாற்றங்களும் பார்வைக்கு"
+
+#~ msgid "Viewing Reconciled transactions"
+#~ msgstr "சரிபார்க்கப்பட்ட பரிமாற்றங்கள் பார்வைக்கு"
+
+#~ msgid "Viewing All Except Reconciled Transactions"
+#~ msgstr "சரிபார்க்கப்படாத பரிமாற்றங்கள் பார்வைக்கு"
+
+#~ msgid "Viewing Un-Reconciled transactions"
+#~ msgstr "சரிபார்க்கப்படாத பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Viewing transactions for current month"
+#~ msgstr "இந்த மாத பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Viewing transactions for last 30 days"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Viewing transactions for last 90 days"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Viewing transactions for last month"
+#~ msgstr "கடந்த மாத பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Viewing transactions for last 3 months"
+#~ msgstr "கடந்த 3 மாதங்களுக்கான பரிமாற்றங்கள் பார்வைக்கு"
+
+#~ msgid "Viewing All except Reconciled Transactions"
+#~ msgstr "சரிபார்க்கப்படாத பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Viewing Follow-Up transactions"
+#~ msgstr "அனைத்து பரிமாற்றங்களும் பார்வைக்கு"
+
+#~ msgid "Viewing Void transactions"
+#~ msgstr "செல்லாத பரிமாற்றங்கள் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "  and contributors from around the world"
+#~ msgstr "மற்றும் உலகெங்கிலுமுள்ள தன்னார்வலர்கள்."
+
+#~ msgid "Released under the GNU GPL License"
+#~ msgstr "GNU GPLன் கீழ் வெளியிடப்பட்டது."
+
+#~ msgid "Version History"
+#~ msgstr "வெளியீட்டு வரலாறு"
+
+#, fuzzy
+#~ msgid "Contributors"
+#~ msgstr "பங்களிப்போர்"
+
+#~ msgid "Using Language : "
+#~ msgstr "பயன்பாட்டு மொழி : "
+
+#~ msgid "finance.au.yahoo.com"
+#~ msgstr "finance.au.yahoo.com"
+
+#~ msgid ""
+#~ "Do not enter anything except the server name (or IP address, if you're feeling lucky)"
+#~ msgstr "வழங்கி பெயர்/IP தவிர வேறெதுவும் இட வேண்டாம்"
+
+#~ msgid "Yahoo Suffix"
+#~ msgstr "யாஹூ பிற்சேர்க்கை"
+
+#~ msgid ""
+#~ "Enter the suffix used by Yahoo for the market of your stocks. \n"
+#~ "If your stocks are in multiple markets, leave this blank and add  the suffix to each "
+#~ "symbol in your portfolio."
+#~ msgstr ""
+#~ "யாஹூ வழங்கியால் பயன்படுத்தப்படும் பிற்சேர்க்கையை இடவும்.\n"
+#~ "உங்கள் பங்கு பல சந்தைகளில் வழங்கப்படுமாயின் வெற்றாக விடவும்."
+
+#~ msgid "Market open from"
+#~ msgstr "சந்தை திறக்கும் நேரம்"
+
+#~ msgid "Allow for any delay in quotes"
+#~ msgstr "பங்குவிலை மேற்கோளில் தாமதத்தை அனுமதி"
+
+#~ msgid ":"
+#~ msgstr ":"
+
+#~ msgid "to"
+#~ msgstr "வரை"
+
+#, fuzzy
+#~ msgid "&Refresh prices every"
+#~ msgstr "விலையை ஒவ்வொரு"
+
+#~ msgid "minutes while market is open"
+#~ msgstr "நிமிடத்துக்கும் சந்தை திறந்திருக்கும் போது புதுப்பி"
+
+#~ msgid "Enter the name of the financial institution where the investment is held"
+#~ msgstr "முதலீடு வைத்திருக்கும் நிதி நிறுவன பெயரை இடு"
+
+#, fuzzy
+#~ msgid "Display Stock Web Page"
+#~ msgstr "பங்கு விலை வலைப்பக்கம்"
+
+#~ msgid "Choose Investment Account"
+#~ msgstr "முதலீட்டுக் கணக்கை தேர்ந்தெடு"
+
+#~ msgid "Transaction Number"
+#~ msgstr "பரிமாற்ற எண்"
+
+#, fuzzy
+#~ msgid "Account  :"
+#~ msgstr "கணக்கு"
+
+#~ msgid "Idle"
+#~ msgstr "அமைதி"
+
+#, fuzzy
+#~ msgid "&Settings"
+#~ msgstr "அமைப்புகள்"
+
+#~ msgid "Change settings for automatic refresh"
+#~ msgstr "தானாக புதுப்பிக்கும் தெரிவுகள்"
+
+#~ msgid "never!"
+#~ msgstr "எப்போதுமில்லை!"
+
+#~ msgid ""
+#~ "Automatic stock quote refresh is disabled. \n"
+#~ "Last update: %s"
+#~ msgstr ""
+#~ "தானியங்கு புதுப்பிப்பு முடக்கப்பட்டுள்ளது\n"
+#~ "கடைசி புதுப்பிப்பு %s"
+
+#~ msgid ""
+#~ "Automatic stock quote refresh idle - Out of Hours. \n"
+#~ "Last update: %s"
+#~ msgstr ""
+#~ "தானியங்கு புதுப்பிப்பு செயல்படவில்லை.\n"
+#~ "கடைசி புதுப்பிப்பு %s"
+
+#~ msgid "Automatic stock quote refresh in progress..."
+#~ msgstr "தானியங்கு புதுப்பிப்பு ..."
+
+#~ msgid ""
+#~ "Automatic stock quote refresh successful. \n"
+#~ "Last update: %s"
+#~ msgstr ""
+#~ "தானியங்கு புதுப்பிப்பு வெற்றி.\n"
+#~ "கடைசி புதுப்பிப்பு %s"
+
+#~ msgid ""
+#~ "Automatic stock quote refresh Failed. \n"
+#~ "Last successful update: %s"
+#~ msgstr ""
+#~ "தானியங்கு புதுப்பிப்பு தோல்வி. \n"
+#~ "கடைசி புதுப்பிப்பு %s"
+
+#~ msgid ""
+#~ "Automatic stock quote refresh not started. \n"
+#~ "Last update: %s"
+#~ msgstr ""
+#~ "தானியங்கு புதுப்பிப்பு ஆரம்பிக்கவில்லை. \n"
+#~ "கடைசி புதுப்பிப்பு %s"
+
+#~ msgid "Stock Download"
+#~ msgstr "பங்கு பதிவிறக்கம்"
+
+#, fuzzy
+#~ msgid " Total:"
+#~ msgstr "மொத்தம்:"
+
+#~ msgid "Options"
+#~ msgstr "&தெரிவுகள்"
+
+#, fuzzy
+#~ msgid "Delete all \"Follow Up\" transactions"
+#~ msgstr "குறிக்கப்பட்ட அனைத்து பரிமாற்றங்களையும் அழி"
+
+#~ msgid "Viewing All Transactions"
+#~ msgstr "அனைத்து பரிமாற்றங்களும் பார்வைக்கு"
+
+#, fuzzy
+#~ msgid "Account Bal: %s      Reconciled Bal: %s      Diff: %s      Displayed Bal: %s"
+#~ msgstr "கணக்கு இருப்பு: %s சரிபார்க்கப்பட்ட இருப்பு: %s"
+
+#, fuzzy
+#~ msgid "123456.78"
+#~ msgstr "123456.78"
+
+#, fuzzy
+#~ msgid "Diference: "
+#~ msgstr "வேறுபாடு:"
+
+#~ msgid "&Universal CSV Files"
+#~ msgstr "&பொது CSV கோப்புகள்"
+
+#, fuzzy
+#~ msgid "&Report Issues or Feedback"
+#~ msgstr "வழு/பின்னூட்டம் தெரிவி"
+
+#, fuzzy
+#~ msgid "Be &notified of new releases"
+#~ msgstr "புதிய வெளியீடுகளைப் பற்றி அறிக"
+
+#~ msgid "Sign up for the announcement mailing list"
+#~ msgstr "அறிவிப்பு மடற்குழுவில் சேர்"
+
+#, fuzzy
+#~ msgid "Investment Accounts"
+#~ msgstr "முதலீட்டுக் கணக்கை தேர்ந்தெடு"
+
+#~ msgid "Company"
+#~ msgstr "நிறுவனம்  "
+
+#~ msgid "Number Shares"
+#~ msgstr "பங்கு எண்ணிக்கை  "
+
+#~ msgid "Gain Loss"
+#~ msgstr "லாப நட்டம்  "
+
+#~ msgid "Total Stock Investments: "
+#~ msgstr "மொத்த பங்கு முதலீடுகள் :"
+
+#~ msgid "Transaction Type"
+#~ msgstr "பரிமாற்ற வகை"
+
+#~ msgid "Amount to be recorded in To Account"
+#~ msgstr "பெறுநர் கணக்கில் வரவு வைக்கும் தொகை"
+
+#~ msgid "To Account Amount Entry"
+#~ msgstr "பெறுநர் கணக்கு தொகையை இடு"
+
+#~ msgid "Select From"
+#~ msgstr "அனுப்புநரை தேர்ந்தெடு"
+
+#~ msgid "Select To"
+#~ msgstr "பெறுநரை தேர்ந்தெடு"
+
+#~ msgid "Estimated Income: %s Actual Income:  %s"
+#~ msgstr "மதிப்பிடப்பட்ட வரவு: %s உண்மையான வரவு: %s"
+
+#~ msgid "Estimated Expenses: %s Actual Expenses:  %s"
+#~ msgstr "மதிப்பிடப்பட்ட செலவு: %s உண்மையான செலவு: %s"
+
+#, fuzzy
+#~ msgid "&Delete Budget Year"
+#~ msgstr "பட்ஜெட் ஆண்டை அழி"
+
+#~ msgid "Enter the year in YYYY format to specify year"
+#~ msgstr "YYYY வடிவில் வருடத்தை இடு"
+
+#~ msgid "Year is not valid"
+#~ msgstr "வருடம் செல்லாது"
+
+#, fuzzy
+#~ msgid "&Load"
+#~ msgstr "SQL ஏற்று"
+
+#, fuzzy
+#~ msgid "Save Custom SQL file:"
+#~ msgstr "தனி SQL சாளரம்"
+
+#~ msgid "Specify Account"
+#~ msgstr "கணக்கை குறிப்பிடு"
+
+#~ msgid "Specify Payee"
+#~ msgstr "பெறுநரை குறிப்பிடு"
+
+#~ msgid "Specify Category"
+#~ msgstr "வகையைக் குறிப்பிடு"
+
+#~ msgid "Specify Status"
+#~ msgstr "நிலையை குறிப்பிடு"
+
+#~ msgid "Specify Notes"
+#~ msgstr "விவரங்களை குறிப்பிடு"
+
+#~ msgid "Viewing Flagged transactions"
+#~ msgstr "குறிக்கப்பட்ட பரிமாற்றங்கள் பார்வைக்கு"
+
+#~ msgid "Budgeting"
+#~ msgstr "பட்ஜெட்"
+
+#~ msgid "To Whom the Money Goes"
+#~ msgstr "யாருக்கு தொகை செல்கிறது"
+
+#, fuzzy
+#~ msgid "Budget Setup and Performance"
+#~ msgstr "பட்ஜெட் செயல்பாடு"
+
+#~ msgid "&MMEX CSV Files"
+#~ msgstr "&MMEX CSV கோப்புகள்"
+
+#, fuzzy
+#~ msgid "MM.&NET CSV Files"
+#~ msgstr "&MM.NET CSV கோப்புகள்"
+
+#~ msgid "Import from MMEX CSV"
+#~ msgstr "MMEX CSVலிருந்து இறக்கு"
+
+#~ msgid "Import from MM.NET CSV"
+#~ msgstr "MM.NET CSVலிருந்து இறக்கு"
+
+#, fuzzy
+#~ msgid "Top Transactions Last 30 Days"
+#~ msgstr "கடந்த 30 நாட்களுக்கான பரிமாற்றங்களைப் பார்"
+
+#~ msgid " : Restart"
+#~ msgstr " : மறுபடித் திற"
+
+#~ msgid "Sample Date"
+#~ msgstr "மாதிரி தேதி"
+
+#, fuzzy
+#~ msgid "Tree View Options: Expand Section"
+#~ msgstr "விருப்பங்களை பார்"
+
+#, fuzzy
+#~ msgid "Financial Year Settings"
+#~ msgstr "பொது அமைப்புகள்"
+
+#, fuzzy
+#~ msgid "Backup before opening"
+#~ msgstr "தகவல்தளத்தை திறக்குமுன் நகலெடு"
+
+#, fuzzy
+#~ msgid "Select whether to create a _YYYY-MM-DD.bak file before opening the database"
+#~ msgstr "தகவல்தளத்தை திறக்கும்போது .bak கோப்பாய் நகலெடுக்க வேண்டுமா என குறிப்பிடு"
+
+#, fuzzy
+#~ msgid "Daily Update, before opening"
+#~ msgstr "தகவல்தளத்தை திறக்குமுன் நகலெடு"
+
+#~ msgid " cannot process Account Types yet "
+#~ msgstr "கணக்கு வகையை இன்னும் சரிபார்க்க முடியவில்லை "
+
+#~ msgid "Budget Performance for Year : "
+#~ msgstr "இவ்வாண்டுக்கான பட்ஜெட் செயல்பாடு : "
+
+#, fuzzy
+#~ msgid "Budget setup for Year : "
+#~ msgstr "பட்ஜெட் அமைப்பு :"
+
+#~ msgid " To: "
+#~ msgstr " முடிவு தேதி: "
+
+#, fuzzy
+#~ msgid "Percent/Year: "
+#~ msgstr "இந்த ஆண்டு"
+
+#~ msgid "Add CSV field"
+#~ msgstr "CSV தலைப்பை சேர்"
+
+#~ msgid "CSV Field"
+#~ msgstr "CSV தலைப்பு"
+
+#~ msgid "Choose MM.NET CSV data file to import"
+#~ msgstr "இறக்கிடும் MM.NET CSV தகவல் கோப்பை தேர்ந்தெடு"
+
+#, fuzzy
+#~ msgid "Importing CSV MM.NET"
+#~ msgstr "MM.NET CSVலிருந்து இறக்கு"
+
+#, fuzzy
+#~ msgid "No account available for export!"
+#~ msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#~ msgid "CSV Export"
+#~ msgstr "CSV ஏற்றம்"
+
+#, fuzzy
+#~ msgid "No account available for import."
+#~ msgstr "ஒரு கணக்கும் இல்லை! ஏற்ற இயலாது!"
+
+#~ msgid "Import from CSV"
+#~ msgstr "CSVலிருந்து இறக்கு "
+
+#, fuzzy
+#~ msgid "Choose account to import to:"
+#~ msgstr "இறக்கிட வேண்டிய கணக்கை தேர்ந்தெடு:"
+
+#, fuzzy
+#~ msgid "Transactions imported from CSV"
+#~ msgstr " பரிமாற்றங்கள் QIFலிருந்து இறக்கப்பட்டது"
+
+#~ msgid " missing date, skipping."
+#~ msgstr " தேதி இல்லை, தவிர்க்கப்பட்டது"
+
+#~ msgid " missing payee, skipping."
+#~ msgstr " பெறுநர் இல்லை, தவிர்க்கப்பட்டது"
+
+#~ msgid " missing transaction type, skipping."
+#~ msgstr " பரிமாற்ற வகை இல்லை, தவிர்க்கப்பட்டது"
+
+#~ msgid " missing amount, skipping."
+#~ msgstr " தொகை இல்லை, தவிர்க்கப்பட்டது"
+
+#, fuzzy
+#~ msgid " check delimiters. Possible amount error, skipping."
+#~ msgstr " தொகை இல்லை, தவிர்க்கப்பட்டது"
+
+#, fuzzy
+#~ msgid " has excessive items. Check delimiters in numbers, skipping."
+#~ msgstr " தொகை இல்லை, தவிர்க்கப்பட்டது"
+
+#~ msgid ""
+#~ "one of the following fields: date, payee, transaction type, amount strings is empty, "
+#~ "skipping"
+#~ msgstr "பின்வரும் தலைப்புகளுள் ஏதோ ஒன்று இல்லை: தேதி,பெறுநர்,பரிமாற்ற வகை,தொகை - தவிர்க்கப்பட்டது."
+
+#~ msgid " unrecognized transaction type, skipping."
+#~ msgstr " அறியாத பரிமாற்ற வகை - தவிர்க்கப்பட்டது"
+
+#~ msgid "Please verify that the CSV file from MMEX.NET contains only one account!"
+#~ msgstr "MMEX.NETன் CSV கோப்பில் ஒரே ஒரு கணக்குள்ளதா என சரிபார்க்கவும்!"
+
+#~ msgid " missing category, skipping."
+#~ msgstr " வகை இல்லை, தவிர்க்கப்பட்டது"
+
+#~ msgid ""
+#~ " One of the following fields: date, payee, transaction type, amount, category strings "
+#~ "is empty, skipping"
+#~ msgstr ""
+#~ " பின்வரும் தலைப்புகளுள் ஏதோ ஒன்று இல்லை: தேதி,பெறுநர்,பரிமாற்ற வகை,தொகை,வகை - தவிர்க்கப்பட்டது."
+
+#~ msgid " invalid date, skipping."
+#~ msgstr " தேதி செல்லாது, தவிர்க்கப்பட்டது"
+
+#~ msgid "Filter Transactions"
+#~ msgstr "பரிமாற்றங்களை வடி"
+
+#~ msgid "Options Dialog"
+#~ msgstr "தெரிவுகள் சாளரம்"
+
+#, fuzzy
+#~ msgid "Tools -> Options"
+#~ msgstr "&தெரிவுகள்"
+
+#, fuzzy
+#~ msgid "This is generally the name of a financial institution"
+#~ msgstr "நிதி நிறுவனத்தின் தொடர்பு விவரங்களை இடு"
+
+#, fuzzy
+#~ msgid "Investment accounts are specialized accounts that only"
+#~ msgstr ""
+#~ "\n"
+#~ "முதலீட்டு கணக்குகள் பங்கு/பரஸ்பர நிதி \n"
+#~ "முதலிய சிறப்பு வகை கணக்குகள்\n"
+#~ "கொண்டது.\n"
+
+#, fuzzy
+#~ msgid "Stock Investment Page Selection"
+#~ msgstr "பங்கு முதலீடு அழிப்பை உறுதி செய்"
+
+#~ msgid "No Account available! Cannot Import! Create a new account first!"
+#~ msgstr "ஒரு கணக்கும் இல்லை! இறக்க முடியாது! முதலில் ஒரு புதிய கணக்கை உருவாக்கு!"
+
+#~ msgid "CSV Import"
+#~ msgstr "CSV இறக்கு"
+
+#~ msgid ""
+#~ "Total Lines : %d \n"
+#~ "Total Imported : %d\n"
+#~ "\n"
+#~ "Log file written to : %s.\n"
+#~ "\n"
+#~ "Imported transactions have been flagged so you can review them. "
+#~ msgstr ""
+#~ "மொத்த வரிகள் : %d\n"
+#~ "மொத்த இறக்கம் : %d\n"
+#~ "\n"
+#~ "குறிப்பு கோப்பு : %s \n"
+#~ "\n"
+#~ "இறக்கப்பட்ட பரிமாற்றங்கள் உங்கள் பார்வைக்காக குறிக்கப்பட்டன. "
+
+#~ msgid "Delete Transaction"
+#~ msgstr "பரிமாற்றத்தை அழி"
+
+#, fuzzy
+#~ msgid ""
+#~ "The next pages will help you create a new database.\n"
+#~ "\n"
+#~ "Your database file is stored with an extension of .mmb.\n"
+#~ "\n"
+#~ "Make sure to make backups of this file \n"
+#~ "and to store it carefully as it contains important \n"
+#~ "financial information."
+#~ msgstr ""
+#~ "பின்வரும் பக்கங்கள் புது தகவல்தளத்தை உருவாக்க  உதவும்\n"
+#~ "\n"
+#~ "உங்கள் மணி மேனேஜர் தகவல்தளக் கோப்பு\n"
+#~ " .mmb நீட்சியில் சேமிக்கப்படும் இக்கோப்பு \n"
+#~ "உங்கள் நிதி பற்றிய தகவல்களைக் கொண்டது.\n"
+#~ "எனவே தவறாமல் இக்கோப்பின் நகலை சேமியுங்கள்."
+
+#~ msgid "(Optional)Specify your name. Mainly used for reporting and in printing reports.\n"
+#~ msgstr "(விருப்பத்தெரிவு) பெயரைக் குறிப்பிடு. அறிக்கையிலும் அச்சிலும் காட்ட பயன்படும்\n"
+
+#~ msgid ""
+#~ "To import QIF files correctly, the date option set in MMEX \n"
+#~ " must match the format of the date in the QIF file.\n"
+#~ "Are you are sure you want to proceed with the import?"
+#~ msgstr ""
+#~ "QIF கோப்பை சரியாக MMEXல் இறக்க தேதி வடிவ தெரிவு\n"
+#~ "QIF கோப்பிலுள்ள தேதி வடிவத்தோடு ஒத்ததாக\n"
+#~ "இருக்க வேண்டும். கண்டிப்பாக இறக்கத்தை தொடரவா?"
+
+#~ msgid "Adding payee "
+#~ msgstr "பெறுநர் சேர்ப்பு "
+
+#, fuzzy
+#~ msgid ""
+#~ "When not selected, the payee default is set to the most frequently used payee for the "
+#~ "current account."
+#~ msgstr "தேர்ந்தெடுத்த பெறுநரை பரிமாற்றத்தின் பெறுநராக தேர்ந்தெடு."
+
+#, fuzzy
+#~ msgid "&New Series"
+#~ msgstr "புது தொடர்"
+
+#, fuzzy
+#~ msgid "&Edit Series"
+#~ msgstr "தொடரை மாற்று"
+
+#, fuzzy
+#~ msgid "&Delete Series"
+#~ msgstr "தொடரை அழி"
+
+#, fuzzy
+#~ msgid "Enter &Transaction"
+#~ msgstr "பரிமாற்றத்தை இடு"
+
+#~ msgid "Error adding Category"
+#~ msgstr "வகை சேர்ப்பில் தவறு"
+
+#~ msgid "Value of 123456.78 will be"
+#~ msgstr "123456.78ன் மதிப்பு"
+
+#~ msgid "C  "
+#~ msgstr "ச"
+
+#, fuzzy
+#~ msgid "&Stock Investments"
+#~ msgstr "பங்கு முதலீடுகள்"
+
+#~ msgid "Error opening database"
+#~ msgstr "தகவல்தள திறப்பில் பிழை"
+
+#~ msgid "Total of Accounts:"
+#~ msgstr "கணக்குகளின் மொத்தம் :"
+
+#~ msgid "Follow Up On "
+#~ msgstr "பின் தொடர : "
+
+#, fuzzy
+#~ msgid "Total: %s Invested: %s Gain: %s "
+#~ msgstr "மொத்தம்: %s முதலீடு: %s"
+
+#, fuzzy
+#~ msgid "Total: %s Invested: %s Loss: %s "
+#~ msgstr "மொத்தம்: %s முதலீடு: %s"
+
+#~ msgid "&Go To.."
+#~ msgstr "&செல்"
+
+#~ msgid "Cash Flow Forecast For All Accounts - A Year Ahead"
+#~ msgstr "காசு நடை எல்லா கணக்குகளின் ஓராண்டு முன்னோட்டம்"
+
+#, fuzzy
+#~ msgid "Today's Date: <b>"
+#~ msgstr "இன்றைய தேதி: "
+
+#~ msgid "Rate of Change"
+#~ msgstr "மாற்ற வீதம்"
+
+#~ msgid "Specify advanced settings for transaction"
+#~ msgstr "பரிமாற்றத்துக்கான மற்ற தெரிவுகளை குறிப்பிடு"
+
+#~ msgid "Powered by wxWidgets, SQLite, wxSQLite(by Ulrich Telle)"
+#~ msgstr " wxWidgets மற்றும் SQLiteன்  ஆற்றலுடன்"
+
+#, fuzzy
+#~ msgid "&Run Query"
+#~ msgstr "கேள்வியை ஓட்டு"
+
+#~ msgid "Category         : "
+#~ msgstr "வகை           : "
+
+#~ msgid "Sub Category  : "
+#~ msgstr "துணை வகை   : "
+
+#~ msgid "Notes               : "
+#~ msgstr "குறிப்பு          :"
+
+#~ msgid "QFX Import"
+#~ msgstr "QFX இறக்கு"
+
+#~ msgid "Enter the payee name to be added or make edits to an existing payee name"
+#~ msgstr "பெறுநர் பெயரை சேர்க்க அல்லது மாற்ற"
+
+#~ msgid "Type a Payee Name in the Text Box and then press Add."
+#~ msgstr "அனுப்புநர் பெயரை இட்டு 'சேர்' ஐ அழுத்து"
+
+#~ msgid "Statement not accessible"
+#~ msgstr "கணக்கு விவரத்தை அணுக இயலவில்லை"
+
+#~ msgid "Out of memory"
+#~ msgstr "நினைவு பற்றவில்லை"
+
+#~ msgid "Cannot decode binary"
+#~ msgstr "இருமத்தை குறியிறக்க முடியவில்லை"
+
+#~ msgid "Invalid field index"
+#~ msgstr "தலைப்பு வரிசை செல்லாது"
+
+#~ msgid "Invalid field name"
+#~ msgstr "தலைப்பு பெயர் செல்லாது"
+
+#~ msgid "Invalid row index"
+#~ msgstr "வரியின் வரிசை செல்லாது"
+
+#~ msgid "Invalid scalar query"
+#~ msgstr "தகவல்தள கேட்பு செல்லாது"
+
+#~ msgid "Null Results pointer"
+#~ msgstr "வெற்று பதில் சுட்டி"
+
+#~ msgid "Error binding string param"
+#~ msgstr "string param bindingல் பிழை"
+
+#~ msgid "Error binding int param"
+#~ msgstr "எண் கட்டு பிழை"
+
+#~ msgid "Error binding int64 param"
+#~ msgstr "int64 param bindingல் பிழை"
+
+#~ msgid "Error binding double param"
+#~ msgstr "double param bindingல் பிழை"
+
+#~ msgid "Error binding blob param"
+#~ msgstr "blob param bindingல் பிழை"
+
+#~ msgid "Error binding date/time param"
+#~ msgstr "தேதி/நேர கட்டு பிழை"
+
+#~ msgid "Error binding NULL param"
+#~ msgstr "NULL param binding ல் பிழை"
+
+#~ msgid "Error clearing bindings"
+#~ msgstr "clearing bindingsல் பிழை"
+
+#~ msgid "Delete Account"
+#~ msgstr "கணக்கை அழி"
+
+#~ msgid "Web Page"
+#~ msgstr "வலைப்பக்கம்"
+
+#~ msgid "Invalid current price entered "
+#~ msgstr "பங்கின் தற்போதைய விலை செல்லாது"
